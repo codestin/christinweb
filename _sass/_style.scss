@@ -1,0 +1,564 @@
+// ============================================================================
+// THEME SYSTEM - CSS Custom Properties for Dark/Light Mode
+// ============================================================================
+
+:root {
+  // Light theme (default)
+  --color-bg: #ffffff;
+  --color-bg-secondary: #fafafa;
+  --color-text: #1a1a1a;
+  --color-text-secondary: #4a4a4a;
+  --color-text-tertiary: #6a6a6a;
+  --color-border: #e0e0e0;
+  --color-link: #1a1a1a;
+  --color-link-hover-bg: #fffaf1;
+  --color-link-focus-bg: #ffe8bc;
+  --color-code-bg: #f5f5f5;
+  --color-code-text: #1a1a1a;
+  --color-invalid-link: #444444;
+  --color-invalid-link-bg: #fafafa;
+  --color-invalid-link-brackets: #cccccc;
+  --color-external-arrow: #aaaaaa;
+
+  // Graph colors (light mode)
+  --graph-bg: #fcfcfc;
+  --graph-node: #8b88e6;
+  --graph-node-active: #000000;
+  --graph-link: #cccccc;
+  --graph-text: #333333;
+  --graph-text-shadow: #fafafabb;
+}
+
+[data-theme="dark"] {
+  // Dark theme
+  --color-bg: #1a1a1a;
+  --color-bg-secondary: #242424;
+  --color-text: #e0e0e0;
+  --color-text-secondary: #b0b0b0;
+  --color-text-tertiary: #8a8a8a;
+  --color-border: #404040;
+  --color-link: #e0e0e0;
+  --color-link-hover-bg: #2a2a2a;
+  --color-link-focus-bg: #3a3a3a;
+  --color-code-bg: #242424;
+  --color-code-text: #e0e0e0;
+  --color-invalid-link: #999999;
+  --color-invalid-link-bg: #242424;
+  --color-invalid-link-brackets: #555555;
+  --color-external-arrow: #666666;
+
+  // Graph colors (dark mode)
+  --graph-bg: #1a1a1a;
+  --graph-node: #8b88e6;
+  --graph-node-active: #ffffff;
+  --graph-link: #404040;
+  --graph-text: #e0e0e0;
+  --graph-text-shadow: #1a1a1abb;
+}
+
+// ============================================================================
+// TYPOGRAPHY SYSTEM - JetBrains Mono
+// ============================================================================
+
+$font-family: 'JetBrains Mono', Monaco, 'Courier New', monospace;
+$border-radius: 4px;
+
+// Typography scale
+$font-size-base: 1rem;
+$font-size-small: 0.875rem;
+$font-size-large: 1.125rem;
+$line-height-base: 1.7;
+$line-height-heading: 1.3;
+
+// ============================================================================
+// BASE STYLES
+// ============================================================================
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--color-bg);
+  transition: background-color 0.3s ease;
+}
+
+body {
+  font-family: $font-family;
+  margin: 0 auto;
+  line-height: $line-height-base;
+  padding: 4vh 6vw;
+  overflow-x: hidden;
+  color: var(--color-text);
+  font-size: $font-size-base;
+  max-width: 63em;
+  background: var(--color-bg);
+  transition: color 0.3s ease, background-color 0.3s ease;
+
+  @media (min-width: 820px) {
+    font-size: 1.1rem;
+  }
+}
+
+// ============================================================================
+// TYPOGRAPHY
+// ============================================================================
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: $line-height-heading;
+  margin-bottom: 0.5em;
+  margin-top: 1.5em;
+  padding-bottom: 0;
+  color: var(--color-text);
+  font-weight: 700;
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.25em; }
+h4 { font-size: 1.1em; }
+h5 { font-size: 1em; }
+h6 { font-size: 0.9em; }
+
+p {
+  margin: 1em 0;
+}
+
+time {
+  display: block;
+  color: var(--color-text-tertiary);
+  margin: 0.5em 0 1em;
+  font-size: $font-size-small;
+}
+
+// ============================================================================
+// LINKS
+// ============================================================================
+
+a {
+  transition: background 300ms ease, color 300ms ease;
+  padding: 0 0.1em;
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-link);
+
+  &:hover {
+    background: var(--color-link-hover-bg);
+  }
+
+  &:after {
+    position: relative;
+    top: -0.5em;
+    font-size: 0.7em;
+    content: "↗";
+    color: var(--color-external-arrow);
+  }
+
+  &.internal-link:after,
+  &.footnote:after,
+  &.reversefootnote:after {
+    content: "";
+  }
+}
+
+*:focus {
+  background: var(--color-link-focus-bg) !important;
+  outline: 2px solid var(--color-link-focus-bg);
+  outline-offset: 2px;
+}
+
+// ============================================================================
+// LAYOUT ELEMENTS
+// ============================================================================
+
+nav {
+  margin: 1em 0 3em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  .nav-links {
+    display: flex;
+    gap: 2em;
+    flex-wrap: wrap;
+
+    @media (max-width: 700px) {
+      width: 100%;
+      margin-top: 1em;
+      gap: 1em;
+    }
+  }
+}
+
+footer {
+  margin: 4em 0 2em;
+  padding-top: 2em;
+  border-top: 1px solid var(--color-border);
+  font-size: $font-size-small;
+  color: var(--color-text-secondary);
+
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+  }
+
+  .footer-links {
+    display: flex;
+    gap: 1.5em;
+    flex-wrap: wrap;
+
+    a {
+      font-size: $font-size-small;
+    }
+  }
+
+  .footer-social {
+    display: flex;
+    gap: 1.5em;
+    flex-wrap: wrap;
+
+    a {
+      font-size: $font-size-small;
+    }
+  }
+
+  .footer-meta {
+    margin-top: 1em;
+
+    p {
+      margin: 0.25em 0;
+      font-size: $font-size-small;
+    }
+
+    kbd {
+      background: var(--color-code-bg);
+      padding: 0.2em 0.4em;
+      border-radius: 3px;
+      font-size: 0.85em;
+      border: 1px solid var(--color-border);
+    }
+  }
+}
+
+hr {
+  width: 100%;
+  border: 0;
+  height: 1px;
+  margin: 2em 0;
+  background: var(--color-border);
+
+  // Stephango-style three-asterisk divider
+  &.section-divider {
+    text-align: center;
+    border: 0;
+    height: auto;
+    background: transparent;
+
+    &:before {
+      content: "* * *";
+      color: var(--color-text-tertiary);
+      letter-spacing: 1em;
+    }
+  }
+}
+
+// ============================================================================
+// CONTENT CONTAINERS
+// ============================================================================
+
+#notes-entry-container {
+  display: block;
+
+  content {
+    display: block;
+    max-width: 100%;
+  }
+
+  side {
+    display: block;
+    margin-top: 3em;
+    padding-top: 2em;
+    border-top: 1px solid var(--color-border);
+  }
+}
+
+.backlink-box {
+  background: var(--color-bg-secondary);
+  padding: 1em;
+  border-radius: $border-radius;
+  margin-bottom: 1em;
+  border: 1px solid var(--color-border);
+  transition: background-color 0.3s ease;
+
+  .backlink-excerpt {
+    font-size: 0.9em;
+    color: var(--color-text-secondary);
+    margin-top: 0.5em;
+  }
+}
+
+.no-backlinks {
+  font-size: 0.9em;
+  color: var(--color-text-tertiary);
+}
+
+// ============================================================================
+// CODE BLOCKS
+// ============================================================================
+
+code {
+  background: var(--color-code-bg);
+  color: var(--color-code-text);
+  padding: 0.15em 0.35em;
+  border-radius: $border-radius;
+  font-size: 0.9em;
+  font-family: $font-family;
+}
+
+pre {
+  background: var(--color-code-bg);
+  padding: 1.5em;
+  border-radius: $border-radius;
+  overflow-x: auto;
+  line-height: 1.5;
+
+  code {
+    background: transparent;
+    padding: 0;
+  }
+}
+
+// ============================================================================
+// BLOCKQUOTES & IMAGES
+// ============================================================================
+
+blockquote {
+  padding: 1.5em;
+  margin: 1.5em 0;
+  background: var(--color-bg-secondary);
+  border-left: 3px solid var(--color-border);
+  border-radius: $border-radius;
+  color: var(--color-text-secondary);
+
+  p {
+    margin: 0;
+  }
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 1.5em auto;
+  max-height: 75vh;
+  border-radius: $border-radius;
+}
+
+// ============================================================================
+// INVALID LINKS (non-existent wiki links)
+// ============================================================================
+
+.invalid-link {
+  color: var(--color-invalid-link);
+  cursor: help;
+  background: var(--color-invalid-link-bg);
+  padding: 0 0.1em;
+  border-bottom: 1px dashed var(--color-border);
+}
+
+.invalid-link-brackets {
+  color: var(--color-invalid-link-brackets);
+  cursor: help;
+}
+
+// ============================================================================
+// DARK MODE TOGGLE BUTTON
+// ============================================================================
+
+.theme-toggle {
+  position: fixed;
+  bottom: 2em;
+  right: 2em;
+  width: 3em;
+  height: 3em;
+  border-radius: 50%;
+  background: var(--color-bg-secondary);
+  border: 1px solid var(--color-border);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2em;
+  transition: all 0.3s ease;
+  z-index: 1000;
+
+  &:hover {
+    transform: scale(1.1);
+    background: var(--color-link-hover-bg);
+  }
+
+  &:focus {
+    outline: 2px solid var(--color-link-focus-bg);
+    outline-offset: 2px;
+  }
+}
+
+// ============================================================================
+// KEYBOARD SHORTCUTS OVERLAY
+// ============================================================================
+
+.shortcuts-help {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: $border-radius;
+  padding: 2em;
+  max-width: 500px;
+  width: 90%;
+  z-index: 2000;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  display: none;
+
+  &.visible {
+    display: block;
+  }
+
+  h3 {
+    margin-top: 0;
+  }
+
+  .shortcut-list {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.5em 1.5em;
+    margin: 1em 0;
+  }
+
+  kbd {
+    background: var(--color-code-bg);
+    padding: 0.2em 0.5em;
+    border-radius: 3px;
+    font-family: $font-family;
+    font-size: 0.9em;
+    border: 1px solid var(--color-border);
+  }
+}
+
+.shortcuts-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1999;
+  display: none;
+
+  &.visible {
+    display: block;
+  }
+}
+
+// ============================================================================
+// COMMAND PALETTE / SEARCH
+// ============================================================================
+
+.command-palette {
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: $border-radius;
+  width: 90%;
+  max-width: 600px;
+  z-index: 2000;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+  display: none;
+
+  &.visible {
+    display: block;
+  }
+
+  input {
+    width: 100%;
+    padding: 1em 1.5em;
+    border: none;
+    background: transparent;
+    color: var(--color-text);
+    font-family: $font-family;
+    font-size: 1.1em;
+    border-bottom: 1px solid var(--color-border);
+
+    &:focus {
+      outline: none;
+      background: transparent !important;
+    }
+  }
+
+  .results {
+    max-height: 400px;
+    overflow-y: auto;
+    padding: 0.5em 0;
+  }
+
+  .result-item {
+    padding: 0.75em 1.5em;
+    cursor: pointer;
+    border-bottom: none;
+    display: block;
+
+    &:hover {
+      background: var(--color-link-hover-bg);
+    }
+
+    &.selected {
+      background: var(--color-link-hover-bg);
+    }
+  }
+}
+
+// ============================================================================
+// FOCUS MODE
+// ============================================================================
+
+body.focus-mode {
+  nav, footer {
+    display: none;
+  }
+
+  max-width: 45em;
+}
+
+// ============================================================================
+// UTILITY CLASSES
+// ============================================================================
+
+.text-center {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}

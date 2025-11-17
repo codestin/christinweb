@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <nav>{% include nav.html %}</nav>
+    <div class="wrapper">
+      <main>{{ content }}</main>
+      <footer>{% include footer.html %}</footer>
+    </div>
+
+    {% include link-previews.html wrapperQuerySelector="content" %}
+    {% include theme-toggle.html %}
+    {% include shortcuts-help.html %}
+    {% include command-palette.html %}
+
+    <script src="{{ site.baseurl }}/assets/js/theme-toggle.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/keyboard-shortcuts.js"></script>
+  </body>
+</html>

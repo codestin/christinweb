@@ -1,0 +1,13 @@
+<div class="site-nav">
+  <a class="internal-link site-title" href="{{ site.baseurl }}/">
+    <strong>{{ site.title }}</strong>
+  </a>
+
+  <div class="nav-links">
+    {% for item in site.data.navigation.main %}
+      <a class="internal-link nav-link" href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    {% endfor %}
+  </div>
+</div>

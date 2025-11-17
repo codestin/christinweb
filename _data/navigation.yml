@@ -1,0 +1,62 @@
+# Main navigation structure (christinchong.com style)
+main:
+  - title: Writing
+    url: /writing
+    subnav:
+      - title: Essays
+        url: /writing/essays
+      - title: Newsletter
+        url: /writing/newsletter
+      - title: Notes
+        url: /writing/notes
+
+  - title: Offerings
+    url: /offerings
+    subnav:
+      - title: Book
+        url: /offerings/book
+      - title: Courses
+        url: /offerings/courses
+      - title: Coaching
+        url: /offerings/coaching
+
+  - title: Consulting
+    url: /consulting
+
+  - title: Speaking
+    url: /speaking
+    subnav:
+      - title: For Companies
+        url: /speaking/companies
+      - title: For Podcast Hosts
+        url: /speaking/podcasts
+      - title: Stand-up Comedy
+        url: /speaking/comedy
+      - title: Media Kit
+        url: /speaking/media-kit
+
+  - title: About
+    url: /about
+
+# Footer navigation
+footer:
+  - title: Now
+    url: /now
+  - title: Topics
+    url: /topics
+  - title: Graph
+    url: /graph
+  - title: Contact
+    url: /contact
+
+# Social links
+social:
+  - title: Twitter
+    url: https://twitter.com/yourusername
+    icon: 🐦
+  - title: LinkedIn
+    url: https://linkedin.com/in/yourusername
+    icon: 💼
+  - title: GitHub
+    url: https://github.com/yourusername
+    icon: 💻

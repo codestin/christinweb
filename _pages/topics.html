@@ -1,0 +1,116 @@
+---
+layout: page
+title: Topics
+permalink: /topics
+---
+
+<h1>Topics</h1>
+
+<p>Browse notes by topic. Click on a topic to see all related notes.</p>
+
+<hr class="section-divider">
+
+{% assign all_tags = "" | split: "" %}
+{% for note in site.notes %}
+  {% if note.tags %}
+    {% for tag in note.tags %}
+      {% unless all_tags contains tag %}
+        {% assign all_tags = all_tags | push: tag %}
+      {% endunless %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{% if all_tags.size > 0 %}
+  <div class="topic-cloud">
+    {% assign sorted_tags = all_tags | sort %}
+    {% for tag in sorted_tags %}
+      {% assign tag_count = 0 %}
+      {% for note in site.notes %}
+        {% if note.tags contains tag %}
+          {% assign tag_count = tag_count | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+      <a href="#{{ tag | slugify }}" class="topic-tag" data-count="{{ tag_count }}">
+        {{ tag }} <span class="topic-count">({{ tag_count }})</span>
+      </a>
+    {% endfor %}
+  </div>
+
+  <hr class="section-divider">
+
+  {% for tag in sorted_tags %}
+    <div class="topic-section" id="{{ tag | slugify }}">
+      <h2>{{ tag }}</h2>
+      <ul>
+        {% for note in site.notes %}
+          {% if note.tags contains tag %}
+            <li>
+              <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+              {% if note.last_modified_at %}
+                <span class="note-date"> - {{ note.last_modified_at | date: "%b %-d, %Y" }}</span>
+              {% endif %}
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+{% else %}
+  <p class="no-topics">
+    No topics yet. Add <code>tags:</code> to your note front matter to organize them by topic.
+  </p>
+
+  <p>Example:</p>
+  <pre><code>---
+layout: note
+title: My Note
+tags: [productivity, learning]
+---</code></pre>
+{% endif %}
+
+<style>
+.topic-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin: 2em 0;
+}
+
+.topic-tag {
+  padding: 0.5em 1em;
+  background: var(--color-bg-secondary);
+  border: 1px solid var(--color-border);
+  border-radius: 20px;
+  border-bottom: none !important;
+  transition: all 0.3s ease;
+  font-size: 0.95em;
+}
+
+.topic-tag:hover {
+  background: var(--color-link-hover-bg);
+  transform: translateY(-2px);
+}
+
+.topic-count {
+  color: var(--color-text-tertiary);
+  font-size: 0.85em;
+}
+
+.topic-section {
+  margin: 3em 0;
+}
+
+.topic-section h2 {
+  margin-top: 0;
+}
+
+.note-date {
+  font-size: 0.85em;
+  color: var(--color-text-tertiary);
+}
+
+.no-topics {
+  color: var(--color-text-secondary);
+}
+</style>
