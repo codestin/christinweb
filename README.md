@@ -1,35 +1,113 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
+# My Digital Garden
 
-# Digital garden Jekyll template
+A redesigned digital garden featuring JetBrains Mono typography, full dark mode support, and comprehensive keyboard shortcuts.
 
-Use this template repository to get started with your own digital garden.
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/codestin/christinweb)
 
-**I wrote a tutorial explaining how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
+## Features
 
-Preview the template here: https://digital-garden-jekyll-template.netlify.app/
+- ✨ **JetBrains Mono typography** - Monospace font throughout
+- 🌓 **Full dark/light theme** - Toggle with `d` key or button
+- ⌨️ **Keyboard shortcuts** - Press `?` to see all shortcuts
+- 🗂️ **Professional navigation** - 5-category structure (Writing, Offerings, Consulting, Speaking, About)
+- 🕸️ **Interactive graph** - Dedicated `/graph` page showing note connections
+- 🏷️ **Topic/tag system** - Browse notes by topic at `/topics`
+- [[Wiki-style linking]] - Connect notes with double brackets
+- 🔗 **Automatic backlinks** - See which notes mention current note
+- 👀 **Link previews** - Hover over links to preview content
 
-- Based on Jekyll, a static website generator
-- Supports Roam-style double bracket link syntax to other notes
-- Creates backlinks to other notes automatically
-- Features link previews on hover
-- Includes graph visualization of the notes and their links
-- Features a simple and responsive design
-- Supports Markdown or HTML notes
+## Keyboard Shortcuts
 
-<img width="1522" alt="Screen Shot 2020-05-19 at 23 05 46" src="https://user-images.githubusercontent.com/8457808/82400515-7d026d80-9a25-11ea-83f1-3b9cb8347e07.png">
+- `d` - Toggle dark/light mode
+- `/` or `Cmd+K` - Search (coming soon)
+- `f` - Focus mode
+- `g` then `h` - Go home
+- `g` then `n` - Go to writing
+- `g` then `g` - Go to graph
+- `?` - Show all shortcuts
+- `Esc` - Close overlays
 
-## A note about GitHub Pages
-> [!NOTE]  
-> **Update (January 2023)**: it seems that GitHub Pages supports custom plugins now, thanks to GitHub Actions ([view relevant discussion](https://github.com/maximevaillancourt/digital-garden-jekyll-template/discussions/144)). 
+## Quick Start
 
-GitHub Pages only partially supports this template: to power the interactive notes graph, this template uses a custom Jekyll plugin to generate the graph data in [`notes_graph.json`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/7ac331a4113bac77c993856562acc2bfbde9f2f7/_plugins/bidirectional_links_generator.rb#L102), and [GitHub Pages doesn't support custom Jekyll plugins](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins).
+```bash
+# Install dependencies (requires Ruby 3.0+)
+bundle install
 
-If you want to use the graph with GitHub Pages, you may try building your garden locally using Jekyll then pushing the result to GitHub Pages.
+# Run local server
+bundle exec jekyll serve
 
-Alternatively, you may deploy your garden to Netlify and it'll work out of the box. [I wrote a guide explaining how to set this up](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+# Visit http://localhost:4000
+```
 
-If you don't care about the graph, you can simply remove it from this layout, [as explained here](https://github.com/maximevaillancourt/digital-garden-jekyll-template/discussions/132#discussioncomment-3625772).
+## Deploy to Netlify
+
+1. Click the "Deploy to Netlify" button above
+2. Connect your GitHub account
+3. Select this repository
+4. Netlify will automatically use the build settings from `netlify.toml`
+5. Your site will be live in minutes!
+
+Or deploy manually at: https://app.netlify.com/start
+
+**Build settings (already configured in netlify.toml):**
+- Build command: `jekyll build --trace`
+- Publish directory: `_site`
+
+## Customization
+
+Update these files with your info:
+- `_data/navigation.yml` - Change social media URLs
+- `_pages/about.md` - Add your bio
+- `_pages/now.md` - What you're currently doing
+- `_pages/contact.md` - Your email address
+- Category pages - Fill in your content
+
+## Structure
+
+```
+├── _pages/
+│   ├── writing/ (essays, newsletter, notes)
+│   ├── offerings/ (book, courses, coaching)
+│   ├── speaking/ (companies, podcasts, comedy, media-kit)
+│   ├── consulting.md
+│   ├── about.md
+│   ├── graph.html (interactive visualization)
+│   ├── topics.html (tag browser)
+│   └── contact.md
+├── _notes/ (your wiki-style notes)
+├── _sass/ (styling with dark mode)
+└── assets/js/ (theme toggle, keyboard shortcuts)
+```
+
+## Adding Notes
+
+Create notes in `_notes/` with front matter:
+
+```markdown
+---
+title: My Note
+tags: [productivity, learning]
+---
+
+Content here. Link to other notes with [[note title]].
+```
+
+## Tech Stack
+
+- Jekyll 4.4
+- JetBrains Mono font
+- CSS custom properties for theming
+- Vanilla JavaScript (no frameworks)
+- D3.js for graph visualization
+
+## Credits
+
+Based on the [digital garden Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt.
+
+Redesigned with inspiration from:
+- [stephango.com](https://stephango.com/) - Minimalist aesthetics
+- [christinchong.com](https://christinchong.com/) - Navigation structure
 
 ## License
 
-Source code is available under the [MIT license](LICENSE.md).
+MIT License - see LICENSE file for details.
