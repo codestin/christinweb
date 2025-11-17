@@ -149,20 +149,6 @@ a {
   &:hover {
     background: var(--color-link-hover-bg);
   }
-
-  &:after {
-    position: relative;
-    top: -0.5em;
-    font-size: 0.7em;
-    content: "↗";
-    color: var(--color-external-arrow);
-  }
-
-  &.internal-link:after,
-  &.footnote:after,
-  &.reversefootnote:after {
-    content: "";
-  }
 }
 
 *:focus {
