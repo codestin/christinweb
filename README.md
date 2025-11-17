@@ -1,12 +1,12 @@
 # My Digital Garden
 
-A redesigned digital garden featuring JetBrains Mono typography, full dark mode support, and comprehensive keyboard shortcuts.
+A redesigned digital garden featuring Menlo typography, full dark mode support, and comprehensive keyboard shortcuts.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/codestin/christinweb)
 
 ## Features
 
-- ✨ **JetBrains Mono typography** - Monospace font throughout
+- ✨ **Menlo typography** - Monospace font throughout
 - 🌓 **Full dark/light theme** - Toggle with `d` key or button
 - ⌨️ **Keyboard shortcuts** - Press `?` to see all shortcuts
 - 🗂️ **Professional navigation** - 5-category structure (Writing, Offerings, Consulting, Speaking, About)

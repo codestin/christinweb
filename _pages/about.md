@@ -32,6 +32,9 @@ Redesigned with inspiration from:
 stephango.com - Minimalist aesthetics
 christinchong.com - Navigation structure
 
+Flexoki colors (also from Kepano)
+Following font proportions from [Kevin McGillvray's typeguide.css](https://github.com/kmcgillivray/typeguide.css?tab=readme-ov-file) 
+
 ## Get in touch
 
 Find me on [Twitter](https://twitter.com/yourusername) or [send me an email](/contact).

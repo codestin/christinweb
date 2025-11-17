@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Jekyll-based digital garden with Roam-style bidirectional linking, featuring a professional design inspired by stephango.com (minimalism) and christinchong.com (navigation structure). It uses JetBrains Mono typography, comprehensive dark mode support, and extensive keyboard shortcuts.
+This is a Jekyll-based digital garden with Roam-style bidirectional linking, featuring a professional design inspired by stephango.com (minimalism) and christinchong.com (navigation structure). It uses Menlo typography, comprehensive dark mode support, and extensive keyboard shortcuts.
 
 **Key Features:**
 - Double-bracket Wiki syntax (`[[note title]]`) for linking
@@ -147,7 +147,7 @@ The site relies on custom Jekyll plugins in `_plugins/` that run during the buil
 - Update URLs with actual social media profiles
 
 **Typography**:
-- Font: JetBrains Mono (loaded via Google Fonts in `styles.scss`)
+- Font: Menlo (loaded via @font-face in `styles.scss` from `assets/fonts/`)
 - Base size: 1rem (mobile), 1.1rem (desktop)
 - Line height: 1.7 (body), 1.3 (headings)
 

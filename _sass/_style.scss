@@ -3,70 +3,70 @@
 // ============================================================================
 
 :root {
-  // Light theme (default)
-  --color-bg: #ffffff;
-  --color-bg-secondary: #fafafa;
-  --color-text: #1a1a1a;
-  --color-text-secondary: #4a4a4a;
-  --color-text-tertiary: #6a6a6a;
-  --color-border: #e0e0e0;
-  --color-link: #1a1a1a;
-  --color-link-hover-bg: #fffaf1;
-  --color-link-focus-bg: #ffe8bc;
-  --color-code-bg: #f5f5f5;
-  --color-code-text: #1a1a1a;
-  --color-invalid-link: #444444;
-  --color-invalid-link-bg: #fafafa;
-  --color-invalid-link-brackets: #cccccc;
-  --color-external-arrow: #aaaaaa;
+  // Light theme (default) - Warm cream palette
+  --color-bg: #FFFCF0;
+  --color-bg-secondary: #F5F2E6;
+  --color-text: #110F0F;
+  --color-text-secondary: #4A4443;
+  --color-text-tertiary: #6E6967;
+  --color-border: #E5DFD0;
+  --color-link: #B03129;
+  --color-link-hover-bg: #FFE8DC;
+  --color-link-focus-bg: #FFD4CC;
+  --color-code-bg: #F5F2E6;
+  --color-code-text: #110F0F;
+  --color-invalid-link: #6E6967;
+  --color-invalid-link-bg: #F5F2E6;
+  --color-invalid-link-brackets: #D4CEC0;
+  --color-external-arrow: #A69C8C;
 
   // Graph colors (light mode)
-  --graph-bg: #fcfcfc;
-  --graph-node: #8b88e6;
-  --graph-node-active: #000000;
-  --graph-link: #cccccc;
-  --graph-text: #333333;
-  --graph-text-shadow: #fafafabb;
+  --graph-bg: #FFFCF0;
+  --graph-node: #B03129;
+  --graph-node-active: #8B0E08;
+  --graph-link: #E5DFD0;
+  --graph-text: #110F0F;
+  --graph-text-shadow: #FFFCF0bb;
 }
 
 [data-theme="dark"] {
-  // Dark theme
-  --color-bg: #1a1a1a;
-  --color-bg-secondary: #242424;
-  --color-text: #e0e0e0;
-  --color-text-secondary: #b0b0b0;
-  --color-text-tertiary: #8a8a8a;
-  --color-border: #404040;
-  --color-link: #e0e0e0;
-  --color-link-hover-bg: #2a2a2a;
-  --color-link-focus-bg: #3a3a3a;
-  --color-code-bg: #242424;
-  --color-code-text: #e0e0e0;
-  --color-invalid-link: #999999;
-  --color-invalid-link-bg: #242424;
-  --color-invalid-link-brackets: #555555;
-  --color-external-arrow: #666666;
+  // Dark theme - Inverted warm palette
+  --color-bg: #110F0F;
+  --color-bg-secondary: #1A1816;
+  --color-text: #FFFCF0;
+  --color-text-secondary: #C9C1B5;
+  --color-text-tertiary: #9A9289;
+  --color-border: #3A3533;
+  --color-link: #D14D41;
+  --color-link-hover-bg: #2A2523;
+  --color-link-focus-bg: #3A3533;
+  --color-code-bg: #1A1816;
+  --color-code-text: #FFFCF0;
+  --color-invalid-link: #9A9289;
+  --color-invalid-link-bg: #1A1816;
+  --color-invalid-link-brackets: #524C45;
+  --color-external-arrow: #756D63;
 
   // Graph colors (dark mode)
-  --graph-bg: #1a1a1a;
-  --graph-node: #8b88e6;
-  --graph-node-active: #ffffff;
-  --graph-link: #404040;
-  --graph-text: #e0e0e0;
-  --graph-text-shadow: #1a1a1abb;
+  --graph-bg: #110F0F;
+  --graph-node: #D14D41;
+  --graph-node-active: #FF6B5E;
+  --graph-link: #3A3533;
+  --graph-text: #FFFCF0;
+  --graph-text-shadow: #110F0Fbb;
 }
 
 // ============================================================================
-// TYPOGRAPHY SYSTEM - JetBrains Mono
+// TYPOGRAPHY SYSTEM - Menlo
 // ============================================================================
 
-$font-family: 'JetBrains Mono', Monaco, 'Courier New', monospace;
+$font-family: 'Menlo', Monaco, 'Courier New', monospace;
 $border-radius: 4px;
 
 // Typography scale
-$font-size-base: 1rem;
-$font-size-small: 0.875rem;
-$font-size-large: 1.125rem;
+$font-size-base: 0.75rem;      // 12px base
+$font-size-small: 0.65625rem;  // 10.5px
+$font-size-large: 0.84375rem;  // 13.5px
 $line-height-base: 1.7;
 $line-height-heading: 1.3;
 
@@ -96,7 +96,7 @@ body {
   transition: color 0.3s ease, background-color 0.3s ease;
 
   @media (min-width: 820px) {
-    font-size: 1.1rem;
+    font-size: 0.825rem;  // 13.2px desktop (12px × 1.1 ratio)
   }
 }
 
@@ -117,12 +117,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-h1 { font-size: 2em; }
-h2 { font-size: 1.5em; }
-h3 { font-size: 1.25em; }
-h4 { font-size: 1.1em; }
-h5 { font-size: 1em; }
-h6 { font-size: 0.9em; }
+h1 { font-size: 1.5rem; }  // 18px (150% of 12px base)
+h2 { font-size: 1.2rem; }  // 14.4px (120% of 12px base)
+h3 { font-size: 1rem; }    // 12px (100% of 12px base)
+h4 { font-size: 1rem; }    // 12px
+h5 { font-size: 1rem; }    // 12px
+h6 { font-size: 1rem; }    // 12px
 
 p {
   margin: 1em 0;
