@@ -25,6 +25,13 @@ A digital garden is different from a blog. Instead of chronological posts, it's 
 
 [Your bio here - who you are, what you do, why you're sharing this knowledge.]
 
+## Colophon
+Based on the digital garden Jekyll template by Maxime Vaillancourt.
+
+Redesigned with inspiration from:
+stephango.com - Minimalist aesthetics
+christinchong.com - Navigation structure
+
 ## Get in touch
 
 Find me on [Twitter](https://twitter.com/yourusername) or [send me an email](/contact).
