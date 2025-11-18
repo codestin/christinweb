@@ -5,11 +5,17 @@ id: home
 permalink: /
 ---
 
-# Welcome
+# Hi, I'm Christin. Nice to meet ya! 🤝🏻
 
-This is my digital garden - a place where ideas grow and connect.
+I'm a biotech strategy leader, a medical education expert, and a neuroscience PhD.
 
-Unlike a traditional blog, this space is less about finished articles and more about evolving thoughts. Notes link to each other, ideas build on one another, and everything grows over time.
+- I **help biotech companies succeed** through strategic engagements and innovative medical education for healthcare providers and patients.
+- My research experience and **publications** spanned cancer imaging, multiple sclerosis, and human genetics underlying sleep and circadian rhythms.
+
+I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative entrepreneur.
+
+- I provide chaplaincy services in modern, accessible, and creative formats: through **writing**, **courses**, **coaching**, and **stand-up comedy**.
+- I'm currently hosting an interfaith spiritual community on a new social platform known as **Farcaster**. You are welcomed to join us!
 
 <hr class="section-divider">
 
@@ -18,22 +24,22 @@ Unlike a traditional blog, this space is less about finished articles and more a
 <div class="home-sections">
   <div class="home-section">
     <h3><a href="/writing">Writing</a></h3>
-    <p>Essays, newsletter, and interconnected notes</p>
+    <p>Essays from a neuroscience perspective on spirituality, meditation, and creative practice</p>
   </div>
 
   <div class="home-section">
     <h3><a href="/offerings">Offerings</a></h3>
-    <p>Books, courses, and coaching</p>
+    <p>Debug Your Meditation book, Insight Writing Club, and 1:1 coaching</p>
   </div>
 
   <div class="home-section">
     <h3><a href="/consulting">Consulting</a></h3>
-    <p>Strategic guidance and expert advice</p>
+    <p>Grow your business by educating your customers</p>
   </div>
 
   <div class="home-section">
     <h3><a href="/speaking">Speaking</a></h3>
-    <p>Keynotes, podcasts, and appearances</p>
+    <p>Available for companies, podcasts, and open-mic performances</p>
   </div>
 </div>
 

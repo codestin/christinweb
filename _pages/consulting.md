@@ -4,26 +4,34 @@ title: Consulting
 permalink: /consulting
 ---
 
-# Consulting
+# Grow your business by educating your customers
 
-I help individuals and organizations achieve their goals through strategic guidance and expert advice.
+I'm a seasoned healthcare marketer with a PhD in neuroscience, focused on helping companies educate target customers to enable informed purchasing decisions and customer advocacy.
 
 ## What I Offer
 
-Tailored consulting services in:
+Five core service areas:
 
-- Strategy and planning
-- Process optimization
-- Technical guidance
-- Team development
+1. **Strategy** — Position your products as the obvious choice
+2. **Partnerships** — Engage educated customers and industry partners
+3. **Digital** — Design fresh experiences and interaction flows for customer engagement
+4. **Content** — Establish coherent messaging across diverse customer knowledge levels
+5. **Operations** — Reduce complexity through AI-powered automation
 
-## How It Works
+## Experience
 
-1. Initial consultation to understand your needs
-2. Proposal and scope definition
-3. Collaborative engagement
-4. Measurable outcomes
+I work with Fortune 500 companies, startups, and creative entrepreneurs across healthcare and tech sectors. My therapeutic area expertise spans:
 
-## Get In Touch
+- Oncology
+- Ophthalmology
+- Nephrology
+- Neurology
+- And other specialty areas
 
-Ready to work together? [Contact me](/contact) to discuss your project.
+## Right-Sized Service
+
+I maintain a limited client roster to ensure quality focus, providing right-sized service for your specific business challenges and budget.
+
+## Get Started
+
+[Book a Free Consultation](https://zcal.co/christinchong) to discuss your business challenges and how I can help.

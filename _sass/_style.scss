@@ -151,6 +151,11 @@ a {
   }
 }
 
+// Remove padding from heading anchor links to prevent misalignment
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  padding: 0;
+}
+
 *:focus {
   background: var(--color-link-focus-bg) !important;
   outline: 2px solid var(--color-link-focus-bg);
@@ -167,6 +172,11 @@ nav {
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
+
+  .site-title {
+    font-size: 24px;
+    padding: 0; // Remove anchor padding to align with body text
+  }
 
   .nav-links {
     display: flex;

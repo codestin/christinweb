@@ -6,24 +6,32 @@ permalink: /speaking
 
 # Speaking
 
-I speak at events, podcasts, and stages around the world.
+I'm available to speak at your company, on your podcast, or perform at an open-mic.
 
 ## [For Companies](/speaking/companies)
 
-Keynotes, workshops, and corporate training.
+Keynotes and workshops on:
+- Leadership and mindfulness for entrepreneurs
+- Spirituality from a neuroscience perspective
+- Medical and biotech strategy
+- Meditation and contemplative practices
 
 ## [For Podcast Hosts](/speaking/podcasts)
 
-Guest appearances and interview topics.
+Guest appearances discussing:
+- Neuroscience and spiritual practice
+- Leadership development
+- Creative entrepreneurship
+- Buddhist chaplaincy in modern formats
 
 ## [Stand-up Comedy](/speaking/comedy)
 
-Yes, I also do comedy.
+Yes, I also perform stand-up comedy. Available for open-mics and corporate events.
 
 ## [Media Kit](/speaking/media-kit)
 
-Photos, bio, and booking information.
+Photos, bio, and booking information for event organizers.
 
 <hr class="section-divider">
 
-[Contact me](/contact) to discuss speaking opportunities.
+Ready to book? [Schedule a chat](https://zcal.co/christinchong) or [contact me](/contact).
