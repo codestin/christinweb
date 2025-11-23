@@ -49,7 +49,7 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
 
 {% assign recent_notes = site.notes | sort: "date" | reverse %}
 {% for note in recent_notes limit: 8 %}
-- **[{{ note.title }}]({{ site.baseurl }}{{ note.url }})** - *{{ note.date | date: "%b %-d, %Y" }}*
+- {{ note.date | date: "%Y-%m-%d" }} — [{{ note.title }}]({{ note.url }})
 {% endfor %}
 
 [View all notes](/writing/notes) or explore the [graph](/graph).
