@@ -1,4 +1,4 @@
-// Theme Toggle with localStorage persistence and keyboard shortcut
+// Theme Toggle with localStorage persistence
 (function() {
   'use strict';
 
@@ -62,15 +62,6 @@
       toggleBtn.addEventListener('click', toggleTheme);
     }
 
-    // Add keyboard shortcut (d key)
-    document.addEventListener('keydown', function(e) {
-      // Only trigger if not in an input field and d key is pressed
-      if (e.key === 'd' && !isInputFocused()) {
-        e.preventDefault();
-        toggleTheme();
-      }
-    });
-
     // Listen for system theme changes
     if (window.matchMedia) {
       window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
@@ -80,16 +71,6 @@
         }
       });
     }
-  }
-
-  // Helper to check if an input element has focus
-  function isInputFocused() {
-    const activeElement = document.activeElement;
-    return activeElement && (
-      activeElement.tagName === 'INPUT' ||
-      activeElement.tagName === 'TEXTAREA' ||
-      activeElement.isContentEditable
-    );
   }
 
   // Run on DOM ready
