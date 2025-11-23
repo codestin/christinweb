@@ -4,6 +4,10 @@ exclude:             ['_includes/notes_graph.json']
 # You may need to change the base URL depending on your deploy configuration.
 baseurl:             ''
 
+# Prevent future-dated posts from being published
+# This filters out posts with dates in the future
+future:              false
+
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
 use_html_extension:  false
