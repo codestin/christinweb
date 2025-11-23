@@ -34,3 +34,13 @@ Thumbs.db
 # Local Netlify folder
 .netlify
 *.wav
+
+# Temporary migration scripts
+import_substack.py
+generate_rename_mapping.py
+execute_renames.py
+fix_duplicate_mappings.py
+fix_yaml_titles.py
+convert_wav_to_mp3.py
+push_images_batches.py
+rename_mapping.csv
