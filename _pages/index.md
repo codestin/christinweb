@@ -58,11 +58,6 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
 
 ## Getting Started
 
-- Press `?` to see keyboard shortcuts
-- Press `d` to toggle dark mode
-- Press `/` to search (coming soon)
-- Press `f` for focus mode
-
 Learn more [about this site](/about) or [get in touch](/contact).
 
 <style>
