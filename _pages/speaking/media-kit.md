@@ -6,40 +6,20 @@ permalink: /speaking/media-kit
 
 # Media Kit
 
-Everything you need to book me or promote an event.
+## Biography
 
-## Bio
+Christin Chong is a Biotech Marketing and Medical Education Leader, Neuroscience PhD, and an Interfaith Buddhist Chaplain. She has coached 400+ entrepreneurs including clients at Google based on functional mindfulness principles, resulting in development of action-oriented mindsets and accelerated product launches. She authored [Debug Your Meditation](/offerings/book), a book on developing a joyful meditation habit, developed a [writing course](/offerings/courses), and dispatches a [newsletter](https://christin.substack.com/) to 500+ subscribers on meditation, writing, and friendship in modern times.
 
-### Short
+## Name Pronunciation
 
-[One sentence bio]
+It's pronounced Chris-Tin Chong. Here's an audio clip!
 
-### Long
+## Hi-Res Headshots
 
-[Full bio paragraph]
-
-## Photos
+Please feel free to use either one!
 
 *High-resolution photos available on request.*
 
-## Speaking Topics
+## Some of My Popular Articles
 
-1. [Topic 1] - [Brief description]
-2. [Topic 2] - [Brief description]
-3. [Topic 3] - [Brief description]
-
-## Technical Requirements
-
-- Presentation format: [Keynote/PowerPoint/Web]
-- A/V needs: [Specific requirements]
-- Setup time: [Duration needed]
-
-## Booking
-
-[Contact me](/contact) for speaking inquiries. Please include:
-
-- Event name and date
-- Audience size and composition
-- Topic or theme
-- Format and duration
-- Location (or virtual)
+*Coming soon*

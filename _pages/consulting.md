@@ -6,32 +6,46 @@ permalink: /consulting
 
 # Grow your business by educating your customers
 
-I'm a seasoned healthcare marketer with a PhD in neuroscience, focused on helping companies educate target customers to enable informed purchasing decisions and customer advocacy.
+Hi, my name is Christin Chong. I am a seasoned healthcare marketer with a PhD in neuroscience.
 
-## What I Offer
+I am passionate about building bridges between great companies and great customers.
 
-Five core service areas:
+My main focus is helping companies arm target customers with empowering knowledge.
 
-1. **Strategy** — Position your products as the obvious choice
-2. **Partnerships** — Engage educated customers and industry partners
-3. **Digital** — Design fresh experiences and interaction flows for customer engagement
-4. **Content** — Establish coherent messaging across diverse customer knowledge levels
-5. **Operations** — Reduce complexity through AI-powered automation
+So your customers make informed buying decisions and become your strongest advocates.
 
-## Experience
+**— Christin Chong, PhD**
 
-I work with Fortune 500 companies, startups, and creative entrepreneurs across healthcare and tech sectors. My therapeutic area expertise spans:
+[**Book a Free Consultation**](https://zcal.co/christin/30min)
 
-- Oncology
-- Ophthalmology
-- Nephrology
-- Neurology
-- And other specialty areas
+### I've helped fortune 500 companies, startups, and creative entrepreneurs in healthcare and tech industries.
 
-## Right-Sized Service
+Genentech, Roche, Natera, Eisai, Amgen, Mallinckrodt, Coherus, Cancer Expert Now, Pfizer, Merck, Exelixis, Wheelchair88, Google, Agility.io, Fabric, Gallery.so, fx(hash), Elephas, Ponder
 
-I maintain a limited client roster to ensure quality focus, providing right-sized service for your specific business challenges and budget.
+### Therapeutic area expertise
 
-## Get Started
+oncology, ophthalmology, nephrology, neurology, pulmonology, rheumatology, cardiology, rare diseases, genetic testing
 
-[Book a Free Consultation](https://zcal.co/christinchong) to discuss your business challenges and how I can help.
+## Capabilities
+
+**1. STRATEGY**
+
+Position your product to be the obvious choice.
+
+**2. PARTNERSHIPS**
+
+Get educated customers and industry partners on your side.
+
+**3. DIGITAL**
+
+Design fresh experiences and interaction flows that keep discerning customers engaged.
+
+**4. CONTENT**
+
+Establish dynamic yet coherent messaging across diverse customer knowledge profiles.
+
+**5. OPERATIONS**
+
+Reduce operational complexity and mundanity through automation with artificial intelligence.
+
+This is what I do all day.

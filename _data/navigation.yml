@@ -2,13 +2,6 @@
 main:
   - title: Writing
     url: /writing
-    subnav:
-      - title: Essays
-        url: /writing/essays
-      - title: Newsletter
-        url: /writing/newsletter
-      - title: Notes
-        url: /writing/notes
 
   - title: Offerings
     url: /offerings

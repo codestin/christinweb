@@ -6,18 +6,20 @@ permalink: /speaking/podcasts
 
 # Podcast Appearances
 
-I'm available for podcast interviews and guest appearances.
+## I'm available for conversations about faith and meditation practice, and applying spirituality to daily life and the workplace.
 
-## Topics I Cover
+## How To Get In Touch
 
-- [Your expertise areas]
-- [Your unique perspectives]
-- [Your experiences]
+If you are a podcast host or manager interested in having me on, please feel free to send me a quick note at my email address:
 
-## Past Appearances
+christinchong @ gmail.com
 
-*Podcast list coming soon.*
+I read every email and will respond promptly.
 
-## Book Me
+I'm available for **remote** and **on-site** events, and look forward to co-developing a **memorable podcast episode** with you.
 
-[Contact me](/contact) to schedule a podcast recording. Please include your podcast name, audience, and preferred topics.
+You can access my [[media kit]] here: [/speaking/media-kit](/speaking/media-kit)
+
+Thank you for considering me!
+
+Christin

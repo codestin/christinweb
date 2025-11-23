@@ -4,67 +4,38 @@ title: About
 permalink: /about
 ---
 
-# About Christin Chong, PhD
+[[Life in Weeks]]
 
-I'm a **Neuroscience PhD, Biotech Strategy Leader, Medical Education Expert, Chaplain, Leadership Coach, and Creative Entrepreneur**.
+Current embodiment as measured in weeks, *memento vivere*
 
-## Professional Background
+A designated Word of the Year to live by, yearly since 2020
 
-My work spans two worlds:
+[[Word of 2020 - Hearth]]
 
-**Biotech & Medical Education**
-- I help biotech companies succeed through strategic engagements and innovative medical education for healthcare providers and patients
-- My research experience and publications span cancer imaging, multiple sclerosis, and human genetics underlying sleep and circadian rhythms
+[[Word of 2021 - 氣]]
 
-**Spiritual Practice & Leadership**
-- Interfaith Buddhist chaplain providing services in modern, accessible formats
-- Leadership coach supporting entrepreneurs and creative professionals
-- Host of an interfaith spiritual community on Farcaster
+[[Word of 2022 - Artist]]
 
-## Life in Weeks
+[[Word of 2023 - Stars]]
 
-I track my current embodiment as measured in weeks, _memento vivere_ (remember to live).
+[[Word of 2024 - CozyGoober]]
 
-## Word of the Year
+[[Codex Vitae]]
 
-Since 2020, I've selected an annual guiding word:
+Core values and beliefs
 
-- **2024**: Cozy Goober 🥜
-- **2023**: Stars 💫
-- **2022**: Artist 👩🏻‍🎨
-- **2021**: 氣 (Qi) 🎐
-- **2020**: Hearth 🔥
+[[12 Favorite Problems]]
 
-## Core Practices
+My 12 favorite problems *a la* Richard Feynman's [recommendations](https://fortelabs.com/blog/12-favorite-problems-how-to-spark-genius-with-the-power-of-open-questions/)
 
-### Codex Vitae
-My core values and beliefs - a living document that evolves with my understanding.
+[[Now]]
 
-### 12 Favorite Problems
-Following Richard Feynman's methodology, I maintain a list of favorite problems that guide my curiosity and work.
+Learn what I'm up to this month
 
-## What is this digital garden?
+[[Site Notes]]
 
-A digital garden is different from a blog. Instead of chronological posts, it's a collection of evergreen notes that evolve and link to each other - much like how our minds actually work.
+Change log for this website, musings on web design trials and tribulations
 
-## How to navigate
+[[Christin's Toolbox]]
 
-- Use the [graph](/graph) to visualize connections between notes
-- Follow links between related ideas
-- Press `?` to see keyboard shortcuts
-- Press `d` to toggle dark mode
-- Explore my [current activities](/now)
-
-## Colophon
-
-Based on the digital garden Jekyll template by Maxime Vaillancourt.
-
-Redesigned with inspiration from:
-- stephango.com - Minimalist aesthetics
-- christinchong.com - Navigation structure
-- Flexoki colors (from Kepano)
-- Following font proportions from [Kevin McGillvray's typeguide.css](https://github.com/kmcgillivray/typeguide.css?tab=readme-ov-file)
-
-## Get in touch
-
-[Schedule a call](https://zcal.co/christinchong) • [Newsletter](https://christinchong.substack.com) • [Contact](/contact)
+My favorite apps of the moment
