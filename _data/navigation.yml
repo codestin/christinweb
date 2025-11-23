@@ -1,32 +1,27 @@
-# Main navigation structure (christinchong.com style)
+# Main navigation structure with dropdown support
 main:
   - title: Writing
     url: /writing
 
-  - title: Offerings
-    url: /offerings
-    subnav:
-      - title: Book
-        url: /offerings/book
-      - title: Courses
-        url: /offerings/courses
-      - title: Coaching
-        url: /offerings/coaching
+  - title: Projects
+    url: /projects
+    children:
+      - title: Reframe Science
+        url: /projects/reframe-science
+      - title: OK Banger Show
+        url: /projects/ok-banger-show
+      - title: Debug Your Meditation
+        url: /projects/debug-your-meditation
 
-  - title: Consulting
-    url: /consulting
-
-  - title: Speaking
-    url: /speaking
-    subnav:
-      - title: For Companies
-        url: /speaking/companies
-      - title: For Podcast Hosts
-        url: /speaking/podcasts
-      - title: Stand-up Comedy
-        url: /speaking/comedy
-      - title: Media Kit
-        url: /speaking/media-kit
+  - title: Hire Me
+    url: /hire
+    children:
+      - title: Healthcare Consulting
+        url: /hire/healthcare-consulting
+      - title: Creativity Coaching
+        url: /hire/creativity-coaching
+      - title: Meditation Support
+        url: /hire/meditation-support
 
   - title: About
     url: /about
@@ -34,16 +29,36 @@ main:
   - title: Now
     url: /now
 
-# Footer navigation
+# Footer navigation (mirrors main navigation)
 footer:
+  - title: Writing
+    url: /writing
+
+  - title: Projects
+    url: /projects
+    children:
+      - title: Reframe Science
+        url: /projects/reframe-science
+      - title: OK Banger Show
+        url: /projects/ok-banger-show
+      - title: Debug Your Meditation
+        url: /projects/debug-your-meditation
+
+  - title: Hire Me
+    url: /hire
+    children:
+      - title: Healthcare Consulting
+        url: /hire/healthcare-consulting
+      - title: Creativity Coaching
+        url: /hire/creativity-coaching
+      - title: Meditation Support
+        url: /hire/meditation-support
+
+  - title: About
+    url: /about
+
   - title: Now
     url: /now
-  - title: Topics
-    url: /topics
-  - title: Graph
-    url: /graph
-  - title: Contact
-    url: /contact
 
 # Social links
 social:

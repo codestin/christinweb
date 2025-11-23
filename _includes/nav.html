@@ -5,9 +5,24 @@
 
   <div class="nav-links">
     {% for item in site.data.navigation.main %}
-      <a class="internal-link nav-link" href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
+      {% if item.children %}
+        <div class="nav-item has-dropdown">
+          <a class="internal-link nav-link" href="{{ site.baseurl }}{{ item.url }}">
+            {{ item.title }}
+          </a>
+          <div class="dropdown-menu">
+            {% for child in item.children %}
+              <a class="internal-link dropdown-item" href="{{ site.baseurl }}{{ child.url }}">
+                {{ child.title }}
+              </a>
+            {% endfor %}
+          </div>
+        </div>
+      {% else %}
+        <a class="internal-link nav-link" href="{{ site.baseurl }}{{ item.url }}">
+          {{ item.title }}
+        </a>
+      {% endif %}
     {% endfor %}
     <button class="theme-toggle" aria-label="Toggle dark mode" title="Toggle theme">
       ☀️

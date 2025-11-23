@@ -9,7 +9,8 @@ A redesigned digital garden featuring Menlo typography, full dark mode support, 
 - ✨ **Menlo typography** - Monospace font throughout
 - 🌓 **Full dark/light theme** - Toggle with `d` key or button
 - ⌨️ **Keyboard shortcuts** - Press `?` to see all shortcuts
-- 🗂️ **Professional navigation** - 5-category structure (Writing, Offerings, Consulting, Speaking, About)
+- 🗂️ **Professional navigation** - Clean structure with dropdown menus (Writing, Projects, Hire Me, About, Now)
+- 📂 **Dropdown menus** - Hover-based navigation with subitems for Projects and Hire Me
 - 🕸️ **Interactive graph** - Dedicated `/graph` page showing note connections
 - 🏷️ **Topic/tag system** - Browse notes by topic at `/topics`
 - [[Wiki-style linking]] - Connect notes with double brackets
@@ -56,27 +57,37 @@ Or deploy manually at: https://app.netlify.com/start
 ## Customization
 
 Update these files with your info:
-- `_data/navigation.yml` - Change social media URLs
+- `_data/navigation.yml` - Modify navigation structure, add/remove dropdown items, update social media URLs
 - `_pages/about.md` - Add your bio
 - `_pages/now.md` - What you're currently doing
-- `_pages/contact.md` - Your email address
-- Category pages - Fill in your content
+- `_pages/projects/*` - Fill in your project pages
+- `_pages/hire/*` - Describe your services
+- Navigation supports nested children for dropdown menus
 
 ## Structure
 
 ```
 ├── _pages/
-│   ├── writing/ (essays, newsletter, notes)
-│   ├── offerings/ (book, courses, coaching)
-│   ├── speaking/ (companies, podcasts, comedy, media-kit)
-│   ├── consulting.md
+│   ├── writing.md
+│   ├── projects/
+│   │   ├── projects.md (parent page)
+│   │   ├── reframe-science.md
+│   │   ├── ok-banger-show.md
+│   │   └── debug-your-meditation.md
+│   ├── hire/
+│   │   ├── hire.md (parent page)
+│   │   ├── healthcare-consulting.md
+│   │   ├── creativity-coaching.md
+│   │   └── meditation-support.md
 │   ├── about.md
-│   ├── graph.html (interactive visualization)
-│   ├── topics.html (tag browser)
-│   └── contact.md
+│   ├── now.md
+│   └── unlinked/ (archived/legacy pages accessible via direct URL)
+│       ├── contact.md, graph.html, topics.html
+│       ├── offerings/, speaking/, about/ subdirectories
+│       └── legacy navigation pages
 ├── _notes/ (your wiki-style notes)
-├── _sass/ (styling with dark mode)
-└── assets/js/ (theme toggle, keyboard shortcuts)
+├── _sass/ (styling with dark mode + dropdown menus)
+└── assets/js/ (theme toggle)
 ```
 
 ## Adding Notes

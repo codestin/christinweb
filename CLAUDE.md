@@ -13,7 +13,8 @@ This is a Jekyll-based digital garden with Roam-style bidirectional linking, fea
 - Full dark/light theme system with keyboard toggle
 - Comprehensive keyboard shortcuts (search, navigation, focus mode)
 - Topic/tag-based organization
-- 5-category professional navigation structure
+- Dropdown navigation menus (pure CSS, hover-based)
+- Hierarchical footer navigation mirroring main nav
 
 ## Development Commands
 
@@ -69,11 +70,25 @@ Comprehensive keyboard navigation implemented in `assets/js/keyboard-shortcuts.j
 **Components:** `_includes/shortcuts-help.html`, `_includes/command-palette.html`
 
 ### Navigation Structure
-Data-driven navigation system using `_data/navigation.yml`:
+Data-driven hierarchical navigation system using `_data/navigation.yml`:
 
-**Categories:** Writing, Offerings, Consulting, Speaking, About
-**Structure:** 2-level hierarchy matching christinchong.com pattern
-**Rendering:** `_includes/nav.html` (header), `_includes/footer.html` (footer + social)
+**Categories:** Writing, Projects (with 3 subitems), Hire Me (with 3 subitems), About, Now
+**Structure:** Hierarchical with `children` array support for dropdown menus
+**Rendering:** `_includes/nav.html` (header with dropdowns), `_includes/footer.html` (expanded hierarchical view)
+
+**Dropdown Implementation:**
+- Pure CSS hover-based dropdowns (no JavaScript required)
+- Desktop: Hover over "Projects" or "Hire Me" to reveal subitems
+- Mobile: Tap to toggle, subitems display inline with left border
+- Visual indicator (▾) shows which items have dropdowns
+- Dark mode support via CSS custom properties
+- Smooth transitions and proper z-index layering
+
+**Footer Navigation:**
+- Mirrors main navigation structure exactly
+- All subitems always visible (no hover/click required)
+- Hierarchical indentation for visual clarity
+- Main categories in bold, subitems in secondary color
 
 ### Core Plugin System
 The site relies on custom Jekyll plugins in `_plugins/` that run during the build process:
@@ -95,10 +110,22 @@ The site relies on custom Jekyll plugins in `_plugins/` that run during the buil
 ### Collections & Content Structure
 - `_notes/` - Main collection of notes (output: true, permalink: /:slug)
   - Can include `tags: [tag1, tag2]` in front matter for topic organization
-- `_pages/` - Static pages organized by category:
-  - Main: `writing.md`, `offerings.md`, `consulting.md`, `speaking.md`, `about.md`
-  - Sub: `writing/essays.md`, `offerings/book.md`, `speaking/companies.md`, etc.
-  - Utility: `graph.html`, `topics.html`, `now.md`, `contact.md`
+- `_pages/` - Static pages with hierarchical organization:
+  - Main: `writing.md`, `about.md`, `now.md`
+  - **Projects (with dropdown):**
+    - `projects.md` (parent page)
+    - `projects/reframe-science.md`
+    - `projects/ok-banger-show.md`
+    - `projects/debug-your-meditation.md`
+  - **Hire Me (with dropdown):**
+    - `hire.md` (parent page)
+    - `hire/healthcare-consulting.md`
+    - `hire/creativity-coaching.md`
+    - `hire/meditation-support.md`
+  - **Unlinked (legacy/archived pages):**
+    - `unlinked/contact.md`, `unlinked/graph.html`, `unlinked/topics.html`
+    - `unlinked/offerings/`, `unlinked/speaking/`, `unlinked/about/` (subdirectories)
+    - Accessible via direct URL but not in navigation
 - Notes can be nested in subdirectories (e.g., `_notes/animals/cats.md`)
 - All notes use the `note` layout which includes backlinks (graph moved to dedicated page)
 - Pages use the `page` layout
@@ -141,10 +168,26 @@ The site relies on custom Jekyll plugins in `_plugins/` that run during the buil
 - Custom plugin: Uses forked `jekyll-last-modified-at` with git submodule support
 
 **_data/navigation.yml**:
-- Main navigation (5 categories with subcategories)
-- Footer navigation (Now, Topics, Graph, Contact)
-- Social links (Twitter, LinkedIn, GitHub)
-- Update URLs with actual social media profiles
+- **Main navigation** - Hierarchical structure with dropdown support
+  - Writing, Projects (3 children), Hire Me (3 children), About, Now
+  - Use `children:` array to add dropdown items
+  - Each child has `title` and `url` fields
+- **Footer navigation** - Mirrors main navigation exactly
+  - Same structure as main nav
+  - All items displayed expanded (no hover required)
+- **Social links** - Twitter, LinkedIn, GitHub with icons
+  - Update URLs with actual social media profiles
+
+**Adding dropdown items:**
+```yaml
+- title: Your Category
+  url: /category
+  children:
+    - title: Subitem One
+      url: /category/subitem-one
+    - title: Subitem Two
+      url: /category/subitem-two
+```
 
 **Typography**:
 - Font: Menlo (loaded via @font-face in `styles.scss` from `assets/fonts/`)

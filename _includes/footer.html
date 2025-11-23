@@ -1,7 +1,18 @@
 <div class="footer-content">
   <div class="footer-links">
     {% for item in site.data.navigation.footer %}
-      <a class="internal-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      <div class="footer-nav-item">
+        <a class="internal-link footer-nav-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+        {% if item.children %}
+          <div class="footer-subnav">
+            {% for child in item.children %}
+              <a class="internal-link footer-subnav-link" href="{{ site.baseurl }}{{ child.url }}">
+                {{ child.title }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
     {% endfor %}
   </div>
 

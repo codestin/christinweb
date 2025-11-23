@@ -28,18 +28,23 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
   </div>
 
   <div class="home-section">
-    <h3><a href="/offerings">Offerings</a></h3>
-    <p>Debug Your Meditation book, Insight Writing Club, and 1:1 coaching</p>
+    <h3><a href="/projects">Projects</a></h3>
+    <p>Selected projects, case studies, and creative work</p>
   </div>
 
   <div class="home-section">
-    <h3><a href="/consulting">Consulting</a></h3>
-    <p>Grow your business by educating your customers</p>
+    <h3><a href="/hire">Hire Me</a></h3>
+    <p>Work with me on strategic engagements, education, coaching, and more</p>
   </div>
 
   <div class="home-section">
-    <h3><a href="/speaking">Speaking</a></h3>
-    <p>Available for companies, podcasts, and open-mic performances</p>
+    <h3><a href="/about">About</a></h3>
+    <p>Learn more about my background, experience, and interests</p>
+  </div>
+
+  <div class="home-section">
+    <h3><a href="/now">Now</a></h3>
+    <p>What I'm currently working on and thinking about</p>
   </div>
 </div>
 
