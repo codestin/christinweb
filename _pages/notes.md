@@ -63,21 +63,9 @@ window.addEventListener('DOMContentLoaded', (event) => {
   border-color: var(--color-link) !important;
 }
 
-/* Style search clear button to match */
+/* Hide search clear button completely */
 #search .pagefind-ui__search-clear {
-  background: transparent !important;
-  color: var(--color-link) !important;
-  padding: 0.5em !important;
-  border-radius: 4px !important;
-}
-
-#search .pagefind-ui__search-clear:hover {
-  background: var(--color-link-hover-bg) !important;
-}
-
-#search .pagefind-ui__search-clear:focus {
-  outline: 2px solid var(--color-link-focus-bg) !important;
-  background: var(--color-link-focus-bg) !important;
+  display: none !important;
 }
 
 /* Style result items */
