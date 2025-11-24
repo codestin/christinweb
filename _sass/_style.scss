@@ -321,6 +321,16 @@ footer {
       color: var(--color-text-secondary);
       border-bottom: none;
     }
+
+    // Special styling for Writing column (first nav item)
+    .footer-nav-item:first-child .footer-subnav {
+      margin-left: 0;
+    }
+
+    .footer-nav-item:first-child .footer-subnav-link {
+      font-weight: 700;
+      color: var(--color-text);
+    }
   }
 
   .footer-social {

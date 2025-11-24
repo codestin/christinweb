@@ -33,12 +33,11 @@ main:
 footer:
   - title: Writing
     url: /writing
-
-  - title: About
-    url: /about
-
-  - title: Now
-    url: /now
+    children:
+      - title: About
+        url: /about
+      - title: Now
+        url: /now
 
   - title: Projects
     url: /projects
