@@ -63,11 +63,17 @@ footer:
 # Social links
 social:
   - title: Twitter
-    url: https://twitter.com/yourusername
+    url: https://twitter.com/christintweets
     icon: 🐦
   - title: LinkedIn
-    url: https://linkedin.com/in/yourusername
+    url: https://linkedin.com/in/christinchong
     icon: 💼
   - title: GitHub
-    url: https://github.com/yourusername
+    url: https://github.com/codestin
     icon: 💻
+  - title: YouTube
+    url: https://youtube.com/@okbangershow
+    icon: ▶️
+  - title: Cyberspace
+    url: https://cyberspace.online/christin
+    icon: 🌐
