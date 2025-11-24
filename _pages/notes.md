@@ -41,7 +41,6 @@ window.addEventListener('DOMContentLoaded', (event) => {
   font-size: 0.65625rem !important; /* Match newsletter input size */
   height: auto !important;
   padding: 0.5em 0.75em !important;
-  padding-left: 2.5em !important; /* Space for search icon */
   background: var(--color-bg-secondary) !important;
   border: 1px solid var(--color-border) !important;
   border-radius: 4px !important;
@@ -112,12 +111,9 @@ window.addEventListener('DOMContentLoaded', (event) => {
   color: var(--color-text-secondary) !important;
 }
 
-/* Fix search icon position for smaller input */
+/* Hide search icon completely */
 #search .pagefind-ui__form::before {
-  top: 0.5em !important;
-  left: 0.75em !important;
-  width: 1em !important;
-  height: 1em !important;
+  display: none !important;
 }
 </style>
 
