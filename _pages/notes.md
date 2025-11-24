@@ -6,6 +6,23 @@ permalink: /notes
 
 # Notes
 
+## Search
+
+<link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/_pagefind/pagefind-ui.js"></script>
+
+<div id="search"></div>
+
+<script>
+window.addEventListener('DOMContentLoaded', (event) => {
+  new PagefindUI({
+    element: "#search",
+    showSubResults: true,
+    excerptLength: 30
+  });
+});
+</script>
+
 {% comment %}
 Get the most recent note
 {% endcomment %}
@@ -61,14 +78,3 @@ Display all notes in flat reverse chronological list
 {% for note in all_notes %}
 - {{ note.date | date: "%Y-%m-%d" }} — [{{ note.title }}]({{ note.url }})
 {% endfor %}
-
----
-
-## Newsletter
-
-Subscribe to receive new notes in your inbox.
-
-<form action="#" method="post" class="newsletter-form">
-  <input type="email" name="email" placeholder="your@email.com" required>
-  <button type="submit">Subscribe</button>
-</form>

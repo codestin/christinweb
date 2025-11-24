@@ -29,9 +29,6 @@ main:
   - title: Now
     url: /now
 
-  - title: Search
-    url: /search
-
 # Footer navigation (3-column structure)
 footer:
   - title: Notes
