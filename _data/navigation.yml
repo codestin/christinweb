@@ -29,10 +29,16 @@ main:
   - title: Now
     url: /now
 
-# Footer navigation (mirrors main navigation)
+# Footer navigation (3-column structure)
 footer:
   - title: Writing
     url: /writing
+
+  - title: About
+    url: /about
+
+  - title: Now
+    url: /now
 
   - title: Projects
     url: /projects
@@ -54,26 +60,23 @@ footer:
       - title: Meditation Support
         url: /hire/meditation-support
 
-  - title: About
-    url: /about
-
-  - title: Now
-    url: /now
-
 # Social links
 social:
-  - title: Twitter
-    url: https://twitter.com/christintweets
-    icon: 🐦
   - title: LinkedIn
     url: https://linkedin.com/in/christinchong
     icon: 💼
-  - title: GitHub
-    url: https://github.com/codestin
-    icon: 💻
-  - title: YouTube
-    url: https://youtube.com/@okbangershow
-    icon: ▶️
+  - title: Farcaster
+    url: https://farcaster.xyz/christin
+    icon: 🏛️
+  - title: Twitter
+    url: https://twitter.com/christintweets
+    icon: 🐦
   - title: Cyberspace
     url: https://cyberspace.online/christin
     icon: 🌐
+  - title: YouTube
+    url: https://youtube.com/@okbangershow
+    icon: ▶️
+  - title: GitHub
+    url: https://github.com/codestin
+    icon: 💻
