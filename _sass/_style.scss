@@ -334,6 +334,8 @@ footer {
   }
 
   .footer-newsletter {
+    max-width: 500px;
+
     .newsletter-form {
       display: flex;
       flex-direction: column;
@@ -402,22 +404,6 @@ footer {
         outline: 2px solid var(--color-link-focus-bg);
         outline-offset: 2px;
         background: var(--color-link-focus-bg);
-      }
-    }
-
-    .newsletter-note {
-      margin: 0.25em 0 0;
-      font-size: $font-size-small;
-      color: var(--color-text-secondary);
-
-      a {
-        font-size: $font-size-small;
-        color: var(--color-text-secondary);
-        border-bottom: none;
-
-        &:hover {
-          color: var(--color-link);
-        }
       }
     }
   }
