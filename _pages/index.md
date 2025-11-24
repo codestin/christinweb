@@ -61,15 +61,11 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
 
 <hr class="section-divider">
 
-## Getting Started
-
-Learn more [about this site](/about) or [get in touch](/contact).
-
 <style>
 .home-sections {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 2em;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1.5em;
   margin: 2em 0;
 }
 
@@ -81,7 +77,8 @@ Learn more [about this site](/about) or [get in touch](/contact).
   transition: all 0.3s ease;
 }
 
-.home-section:hover {
+.home-section:hover,
+.home-section:focus-within {
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
@@ -95,13 +92,40 @@ Learn more [about this site](/about) or [get in touch](/contact).
   border-bottom: none;
 }
 
+.home-section h3 a:focus-visible {
+  outline: 2px solid var(--color-link);
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
 .home-section p {
   margin: 0;
   font-size: 0.9em;
   color: var(--color-text-secondary);
 }
 
-[data-theme="dark"] .home-section:hover {
+[data-theme="dark"] .home-section:hover,
+[data-theme="dark"] .home-section:focus-within {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Tablet and mobile: stack vertically */
+@media (max-width: 1024px) {
+  .home-sections {
+    grid-template-columns: 1fr;
+    gap: 1.5em;
+  }
+}
+
+/* Respect reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  .home-section {
+    transition: none;
+  }
+
+  .home-section:hover,
+  .home-section:focus-within {
+    transform: none;
+  }
 }
 </style>
