@@ -264,11 +264,15 @@ nav {
     // Mobile: tap to toggle
     @media (max-width: 700px) {
       .dropdown-menu {
-        position: static;
-        margin-top: 0.5em;
-        box-shadow: none;
-        border-left: 2px solid var(--color-border);
-        margin-left: 1em;
+        // Keep position: absolute to prevent layout shifts
+        left: 0;
+        right: auto;
+        min-width: 200px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+
+        [data-theme="dark"] & {
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+        }
       }
     }
   }
