@@ -6,7 +6,7 @@ permalink: /now
 
 ## This is a /now page. If you have your own site, you should [make one](https://nownownow.com/about), too.
 
-If you had found this page through [nownownow.com](http://nownownow.com/), a special hello to a fellow Sivers fan! Please feel free to poke around my [Commonplace](http://christinchong.com/).
+If you had found this page through [nownownow.com](http://nownownow.com/), a special hello to a fellow Sivers fan! Please feel free to poke around my [homepage](/index).
 
 ## Last Updated 2024-04-06
 
@@ -16,7 +16,7 @@ If you had found this page through [nownownow.com](http://nownownow.com/), a spe
 
 ### Connection:
 
-- Joined the Service Guild with Tasshin Folgleman and Mary Bajorek, finding lovely connection here
+- Joined the Service Guild with Tasshin Fogleman and Mary Bajorek, finding lovely connection here
 - Meeting regularly with the Sunday Crew, the Sounding Board
 - Hanging out with Rickshaw peeps
 - Lots of time spent on Warpcast hosting /spirituality and /christin's cleaning crew

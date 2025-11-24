@@ -23,27 +23,27 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
 
 <div class="home-sections">
   <div class="home-section">
-    <h3><a href="/notes">Notes</a></h3>
+    <h3><a href="/notes" class="internal-link">Notes</a></h3>
     <p>Thoughts, essays, and reflections on spirituality, meditation, and creative practice</p>
   </div>
 
   <div class="home-section">
-    <h3><a href="/projects">Projects</a></h3>
+    <h3><a href="/projects" class="internal-link">Projects</a></h3>
     <p>Selected projects, case studies, and creative work</p>
   </div>
 
   <div class="home-section">
-    <h3><a href="/hire">Hire Me</a></h3>
+    <h3><a href="/hire" class="internal-link">Hire Me</a></h3>
     <p>Work with me on strategic engagements, education, coaching, and more</p>
   </div>
 
   <div class="home-section">
-    <h3><a href="/about">About</a></h3>
+    <h3><a href="/about" class="internal-link">About</a></h3>
     <p>Learn more about my background, experience, and interests</p>
   </div>
 
   <div class="home-section">
-    <h3><a href="/now">Now</a></h3>
+    <h3><a href="/now" class="internal-link">Now</a></h3>
     <p>What I'm currently working on and thinking about</p>
   </div>
 </div>
