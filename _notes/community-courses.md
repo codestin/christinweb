@@ -2,7 +2,7 @@
 layout: note
 title: What makes courses and community tick
 date: 2022-08-29
-tags: [creative, healthcare, notes, courses, newsletters, relationships, tools, writings]
+tags: [creative, healthcare, notes, courses, newsletters, relationships, tools]
 ---
 
 > This entry was imported from a newsletter.

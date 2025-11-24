@@ -15,7 +15,7 @@ permalink: /speaking/comedy
 
 ## I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative entrepreneur.
 
-- I provide chaplaincy services in modern, accessible, and creative formats: through [writing](/writing), [courses](/offerings/courses), [leadership coaching](/offerings/coaching), and stand-up comedy.
+- I provide chaplaincy services in modern, accessible, and creative formats: through [notes](/notes), [courses](/offerings/courses), [leadership coaching](/offerings/coaching), and stand-up comedy.
 - I'm currently hosting an interfaith spiritual community on a new social platform known as [Farcaster](https://warpcast.com/~/channel/spirituality). You are welcomed to join us!
 
 ## Artist's Statement

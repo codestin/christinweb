@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Writing
-permalink: /writing
+title: Notes
+permalink: /notes
 ---
 
-# Writing
+# Notes
 
 {% comment %}
 Get the most recent note
@@ -56,7 +56,7 @@ Display all notes in flat reverse chronological list
 {% endcomment %}
 {% assign all_notes = site.notes | sort: "date" | reverse %}
 
-## Writing
+## Notes
 
 {% for note in all_notes %}
 - {{ note.date | date: "%Y-%m-%d" }} — [{{ note.title }}]({{ note.url }})
@@ -66,7 +66,7 @@ Display all notes in flat reverse chronological list
 
 ## Newsletter
 
-Subscribe to receive new writing in your inbox.
+Subscribe to receive new notes in your inbox.
 
 <form action="#" method="post" class="newsletter-form">
   <input type="email" name="email" placeholder="your@email.com" required>

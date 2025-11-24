@@ -9,7 +9,7 @@ A redesigned digital garden featuring Menlo typography, full dark mode support, 
 - ✨ **Menlo typography** - Monospace font throughout
 - 🌓 **Full dark/light theme** - Toggle with `d` key or button
 - ⌨️ **Keyboard shortcuts** - Press `?` to see all shortcuts
-- 🗂️ **Professional navigation** - Clean structure with dropdown menus (Writing, Projects, Hire Me, About, Now)
+- 🗂️ **Professional navigation** - Clean structure with dropdown menus (Notes, Projects, Hire Me, About, Now)
 - 📂 **Dropdown menus** - Hover-based navigation with subitems for Projects and Hire Me
 - 🕸️ **Interactive graph** - Dedicated `/graph` page showing note connections
 - 🏷️ **Topic/tag system** - Browse notes by topic at `/topics`
@@ -23,7 +23,7 @@ A redesigned digital garden featuring Menlo typography, full dark mode support, 
 - `/` or `Cmd+K` - Search (coming soon)
 - `f` - Focus mode
 - `g` then `h` - Go home
-- `g` then `n` - Go to writing
+- `g` then `n` - Go to notes
 - `g` then `g` - Go to graph
 - `?` - Show all shortcuts
 - `Esc` - Close overlays
@@ -68,7 +68,7 @@ Update these files with your info:
 
 ```
 ├── _pages/
-│   ├── writing.md
+│   ├── notes.md
 │   ├── projects/
 │   │   ├── projects.md (parent page)
 │   │   ├── reframe-science.md

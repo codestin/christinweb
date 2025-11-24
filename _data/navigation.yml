@@ -1,7 +1,7 @@
 # Main navigation structure with dropdown support
 main:
-  - title: Writing
-    url: /writing
+  - title: Notes
+    url: /notes
 
   - title: Projects
     url: /projects
@@ -31,8 +31,8 @@ main:
 
 # Footer navigation (3-column structure)
 footer:
-  - title: Writing
-    url: /writing
+  - title: Notes
+    url: /notes
     children:
       - title: About
         url: /about

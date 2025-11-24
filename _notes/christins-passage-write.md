@@ -2,7 +2,7 @@
 layout: note
 title: Write of Passage 9 Christin's Mentor Session 1
 date: 2023-04-16
-tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, personal-growth, relationships, writings]
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, personal-growth, relationships]
 ---
 
 ## Welcome to Christin's Mentor Notes!

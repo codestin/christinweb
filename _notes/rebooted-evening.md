@@ -2,7 +2,7 @@
 layout: note
 title: Evening Drama Rebooted
 date: 2023-04-16
-tags: [creative, meditation, notes, newsletters, relationships, writings]
+tags: [creative, meditation, notes, newsletters, relationships]
 ---
 
 ## You can watch/listen to Evening Drama: Rebooted on:

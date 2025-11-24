@@ -2,7 +2,7 @@
 layout: note
 title: Reactive Versus Emergent Operating Systems
 date: 2023-03-08
-tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, writings]
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships]
 ---
 
 > This entry was imported from a newsletter.

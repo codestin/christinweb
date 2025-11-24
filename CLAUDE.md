@@ -41,7 +41,7 @@ The site is configured for Netlify deployment with the build command `jekyll bui
 - **/** or **Cmd+K** - Open search/command palette
 - **f** - Toggle focus mode
 - **g+h** - Go to home
-- **g+n** - Go to writing
+- **g+n** - Go to notes
 - **g+g** - Go to graph page
 - **g+a** - Go to about
 - **Esc** - Close overlays
@@ -65,14 +65,14 @@ The site uses CSS custom properties for a complete dark/light theme system:
 ### Keyboard Shortcuts System
 Comprehensive keyboard navigation implemented in `assets/js/keyboard-shortcuts.js`:
 
-**Navigation shortcuts:** g+h (home), g+n (writing), g+g (graph), g+a (about)
+**Navigation shortcuts:** g+h (home), g+n (notes), g+g (graph), g+a (about)
 **Utility shortcuts:** / (search), d (dark mode), f (focus mode), ? (help)
 **Components:** `_includes/shortcuts-help.html`, `_includes/command-palette.html`
 
 ### Navigation Structure
 Data-driven hierarchical navigation system using `_data/navigation.yml`:
 
-**Categories:** Writing, Projects (with 3 subitems), Hire Me (with 3 subitems), About, Now
+**Categories:** Notes, Projects (with 3 subitems), Hire Me (with 3 subitems), About, Now
 **Structure:** Hierarchical with `children` array support for dropdown menus
 **Rendering:** `_includes/nav.html` (header with dropdowns), `_includes/footer.html` (expanded hierarchical view)
 
@@ -169,7 +169,7 @@ The site relies on custom Jekyll plugins in `_plugins/` that run during the buil
 
 **_data/navigation.yml**:
 - **Main navigation** - Hierarchical structure with dropdown support
-  - Writing, Projects (3 children), Hire Me (3 children), About, Now
+  - Notes, Projects (3 children), Hire Me (3 children), About, Now
   - Use `children:` array to add dropdown items
   - Each child has `title` and `url` fields
 - **Footer navigation** - Mirrors main navigation exactly

@@ -2,7 +2,7 @@
 layout: note
 title: Nourish Our Inner Weirdos
 date: 2022-09-04
-tags: [creative, meditation, notes, buddhist-teachings, courses, marketing, newsletters, personal-growth, relationships, writings]
+tags: [creative, meditation, notes, buddhist-teachings, courses, marketing, newsletters, personal-growth, relationships]
 ---
 
 > This entry was imported from a newsletter.

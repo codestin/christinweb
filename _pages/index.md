@@ -23,8 +23,8 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
 
 <div class="home-sections">
   <div class="home-section">
-    <h3><a href="/writing">Writing</a></h3>
-    <p>Essays from a neuroscience perspective on spirituality, meditation, and creative practice</p>
+    <h3><a href="/notes">Notes</a></h3>
+    <p>Thoughts, essays, and reflections on spirituality, meditation, and creative practice</p>
   </div>
 
   <div class="home-section">
@@ -57,9 +57,7 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
 - {{ note.date | date: "%Y-%m-%d" }} — [{{ note.title }}]({{ note.url }})
 {% endfor %}
 
-[View all notes](/writing/notes) or explore the [graph](/graph).
-
-<hr class="section-divider">
+[View All Notes](/notes)
 
 <style>
 .home-sections {

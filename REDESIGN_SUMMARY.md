@@ -21,7 +21,7 @@ All shortcuts implemented and functional:
 - **Cmd/Ctrl + K** - Open command palette
 - **f** - Toggle focus mode (hides nav/footer)
 - **g + h** - Go to home
-- **g + n** - Go to writing
+- **g + n** - Go to notes
 - **g + g** - Go to graph
 - **g + a** - Go to about
 - **?** - Show keyboard shortcuts help
@@ -31,7 +31,7 @@ All shortcuts implemented and functional:
 Implemented christinchong.com-style 5-category navigation:
 
 **Main Navigation:**
-- Writing → Essays, Newsletter, Notes
+- Notes (main hub)
 - Offerings → Book, Courses, Coaching
 - Consulting
 - Speaking → For Companies, For Podcast Hosts, Stand-up Comedy, Media Kit
@@ -57,7 +57,7 @@ Implemented christinchong.com-style 5-category navigation:
 ### 5. New Pages Created ✅
 
 **Main Category Pages:**
-- `/writing` - Writing hub
+- `/notes` - Notes hub
 - `/offerings` - Products/services hub
 - `/consulting` - Consulting services
 - `/speaking` - Speaking engagements
