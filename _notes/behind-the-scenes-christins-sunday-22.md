@@ -2,7 +2,7 @@
 layout: note
 title: "Christin's Behind-the-Scenes Sunday 🎥 : Book Writing Edition 2"
 date: 2022-06-27
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, meditation, notes, newsletters, writings]
 ---
 
 > This entry was imported from a newsletter.

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Evening Drama Writing Prompts Practice"
+title: Evening Drama Writing Prompts Practice
 date: 2023-04-16
-tags: [friends, podcast, writing, creativity, fiction]
+tags: [creative, meditation, notes, relationships, writings]
 ---
 
 - [2021-01-15 - Skeleton](https://docs.google.com/document/d/107IH2VK43jXgOZTt2wmFrhF4TdGLIjc2M4galWdNwDw/edit)

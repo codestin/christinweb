@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Your Thoughts Are Not Yours"
+title: Your Thoughts Are Not Yours
 date: 2023-03-15
-tags: ['newsletter', 'substack', 'thoughts', 'yours']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships]
 ---
 
 > This entry was imported from a newsletter.

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Co-Working with Friends Starter Kit"
+title: Co-Working with Friends Starter Kit
 date: 2023-04-16
-tags: [projects, friends, productivity, remote-work]
+tags: [creative, notes, relationships, tools]
 ---
 
 ## Backstory

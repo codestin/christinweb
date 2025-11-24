@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Remastering Your Work"
+title: Remastering Your Work
 date: 2024-10-25
-tags: ['newsletter', 'substack', 'remastering', 'work', 'banger', 'show']
+tags: [creative, healthcare, meditation, notes, courses, newsletters, personal-growth, relationships, tools, writings]
 ---
 
 > This entry was imported from a newsletter.

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Favorite Essays By Others"
+title: Favorite Essays By Others
 date: 2023-04-16
-tags: [ideas, reading, essays, curation]
+tags: [creative, notes, newsletters]
 ---
 
 ## On Shamans

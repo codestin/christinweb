@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "I've been co-hosting an award-winning, sponsored podcast (that you've never heard of)"
+title: I've been co-hosting an award-winning, sponsored podcast (that you've never heard of)
 date: 2024-06-01
-tags: ['newsletter', 'substack', 'hosting', 'award', 'winning', 'sponsored']
+tags: [creative, notes, newsletters, relationships, tools, web3, writings]
 ---
 
 > This entry was imported from a newsletter.

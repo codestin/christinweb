@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Reactive Versus Emergent Operating Systems"
+title: Reactive Versus Emergent Operating Systems
 date: 2023-03-08
-tags: ['newsletter', 'substack', 'reactive', 'versus', 'emergent', 'operating']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

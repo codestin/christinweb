@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Feelings Beyond Emotions"
+title: Feelings Beyond Emotions
 date: 2023-03-29
-tags: ['newsletter', 'substack', 'feelings', 'beyond', 'emotions', 'satisfaction']
+tags: [creative, healthcare, meditation, notes, courses, newsletters, relationships]
 ---
 
 > This entry was imported from a newsletter.

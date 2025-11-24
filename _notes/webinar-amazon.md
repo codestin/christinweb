@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Greg Lim's Amazon Author Webinar"
+title: Greg Lim's Amazon Author Webinar
 date: 2023-04-16
-tags: [courses, writing, marketing, publishing, business]
+tags: [creative, meditation, notes, courses, marketing, tools, writings]
 ---
 
 - Consider using a pen name/pseudonym (Greg is a pseudonym) if you have varied interests/want to experiment in different genres

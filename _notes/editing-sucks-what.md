@@ -1,9 +1,9 @@
 ---
 layout: note
-title: "Why Editing Sucks and What To Do About It"
+title: Why Editing Sucks and What To Do About It
 date: 2023-02-22
-tags: [writing, editing, buddhism, ego, self-awareness]
-canonical_url: https://writeofpassage.school/2023/02/22/why-editing-sucks-and-what-to-do-about-it/
+tags: [creative, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, writings]
+canonical_url: "https://writeofpassage.school/2023/02/22/why-editing-sucks-and-what-to-do-about-it/"
 ---
 
 *This was originally published on [WriteofPassage.school](https://writeofpassage.school/2023/02/22/why-editing-sucks-and-what-to-do-about-it/) on February 22, 2023.*

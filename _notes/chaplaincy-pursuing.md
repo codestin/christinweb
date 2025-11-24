@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Why Am I Pursuing Buddhist Chaplaincy"
+title: Why Am I Pursuing Buddhist Chaplaincy
 date: 2023-06-15
-tags: [buddhism, chaplaincy, spirituality, calling, personal-growth]
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, resources, writings]
 ---
 ## **What is a Buddhist Chaplain in the First Place?**
 

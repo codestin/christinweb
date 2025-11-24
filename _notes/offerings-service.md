@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Clear Offerings In Service of Others"
+title: Clear Offerings In Service of Others
 date: 2022-09-18
-tags: ['newsletter', 'substack', 'clear', 'offerings', 'service', 'others']
+tags: [creative, meditation, notes, courses, newsletters, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

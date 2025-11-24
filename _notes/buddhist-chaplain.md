@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "WTF is a Buddhist Chaplain?"
+title: WTF is a Buddhist Chaplain?
 date: 2022-10-10
-tags: ['newsletter', 'substack', 'buddhist', 'chaplain', 'love', 'kindness']
+tags: [creative, healthcare, meditation, essays, buddhist-teachings, courses, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

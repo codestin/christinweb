@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Zoom Presentation Engagements"
+title: Zoom Presentation Engagements
 date: 2024-03-25
-tags: [tech, projects, facilitation]
+tags: [creative, notes]
 ---
 
 ## While waiting

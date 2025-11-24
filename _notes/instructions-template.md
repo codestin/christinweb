@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Landing Page Template - Instructions to Setup"
+title: Landing Page Template - Instructions to Setup
 date: 2023-04-16
-tags: [marketing, tech, website, notion]
+tags: [creative, notes, marketing, resources, tools]
 ---
 
 ## How to add Buttons

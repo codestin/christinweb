@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Massage Tips"
+title: Massage Tips
 date: 2023-04-16
-tags: [health, wellness, bodywork, massage]
+tags: [creative, healthcare, notes, newsletters]
 ---
 
 [https://agntjane.substack.com/p/massaging-yourself-and-your-loved?utm_source=url](https://agntjane.substack.com/p/massaging-yourself-and-your-loved?utm_source=url)

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "WOP Note-taking Show & Tell 2021-10-17"
+title: WOP Note-taking Show & Tell 2021-10-17
 date: 2023-04-16
-tags: [courses, writing, tools, productivity]
+tags: [creative, notes, courses, newsletters, tools, writings]
 ---
 
 ## Agenda

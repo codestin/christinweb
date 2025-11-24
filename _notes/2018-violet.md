@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Violet Hacks 2018"
+title: Violet Hacks 2018
 date: 2018-11-10
-tags: [hackathon, product, teamwork, healthcare, lessons-learned]
+tags: [creative, healthcare, essays, courses, relationships]
 ---
 
 Originally published at christinchong.com on November 10, 2018.

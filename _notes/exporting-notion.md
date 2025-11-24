@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Exporting from Notion to Joplin"
+title: Exporting from Notion to Joplin
 date: 2023-04-16
-tags: [tech, productivity, note-taking, tools]
+tags: [creative, notes, tools, writings]
 ---
 
 This was originally published on 2019-12-04. I have since made the switch back to Notion because Joplin still has some synchronization bugs, and is esthetically...not the most pleasing thing to look at.

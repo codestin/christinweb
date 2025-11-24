@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Relating Between the Lines - Pop-Up Workshop Hub"
+title: Relating Between the Lines - Pop-Up Workshop Hub
 date: 2023-04-16
-tags: [courses, relationships, communication, personal-growth]
+tags: [creative, healthcare, notes, courses, personal-growth, relationships, resources, words]
 ---
 
 We're excited you're joining our Pop-up Workshop Series: 4 Counterintuitive Mindsets to Improve your Relationships.

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Outwitting Our Minds' Resistance to Being Reverse-Engineered"
+title: Outwitting Our Minds' Resistance to Being Reverse-Engineered
 date: 2021-09-20
-tags: [mindfulness, meditation, psychology, self-awareness, buddhism]
+tags: [creative, healthcare, meditation, essays, buddhist-teachings, courses, personal-growth, relationships, resources, tools, writings]
 ---
 
 I used to work with hundreds of mice in the laboratory. I noticed that sometimes, they acted strangely when they are stressed out. Instead of being aggressive and attacking us, they default into what one might think of as "recreational" activities for mice--they might start grooming themselves, or hop onto a running wheel if they have access to one.

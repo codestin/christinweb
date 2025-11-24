@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Spiritual Business Principles and Newsletter Multiverses"
+title: Spiritual Business Principles and Newsletter Multiverses
 date: 2022-08-22
-tags: ['newsletter', 'substack', 'spiritual', 'business', 'principles', 'newsletter']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

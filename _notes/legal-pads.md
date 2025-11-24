@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Legal Pads"
+title: Legal Pads
 date: 2023-04-16
-tags: [ideas, writing, productivity, stationery]
+tags: [creative, notes, tools, writings]
 ---
 
 ## People who write on legal pads

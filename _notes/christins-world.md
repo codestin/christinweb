@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "The World of 5 Christins"
+title: The World of 5 Christins
 date: 2022-11-13
-tags: ['newsletter', 'substack', 'world', 'christins', 'loving', 'parts']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

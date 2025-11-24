@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Book Notes - Sketch Now, Think Later"
+title: Book Notes - Sketch Now, Think Later
 date: 2023-04-16
-tags: [books, drawing, art, creative-tools]
+tags: [creative, notes, tools]
 ---
 
 [https://www.amazon.com/Sketch-Now-Think-Later-Techniques/dp/1631593447/ref=sr_1_1?crid=3G4VVNHBVOBTG&keywords=sketch+now+think+later&qid=1641259584&sprefix=sketch+now+think+late%2Caps%2C180&sr=8-1](https://www.amazon.com/Sketch-Now-Think-Later-Techniques/dp/1631593447/ref=sr_1_1?crid=3G4VVNHBVOBTG&keywords=sketch+now+think+later&qid=1641259584&sprefix=sketch+now+think+late%2Caps%2C180&sr=8-1)

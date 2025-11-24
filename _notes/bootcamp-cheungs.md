@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Kevon Cheung's Build In Public Bootcamp"
+title: Kevon Cheung's Build In Public Bootcamp
 date: 2023-04-16
-tags: [courses, marketing, social-media, business]
+tags: [creative, healthcare, meditation, notes, courses, marketing, personal-growth]
 ---
 
 ## The Money Slide

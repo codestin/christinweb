@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Blogroll"
+title: Blogroll
 date: 2023-04-16
-tags: [tech, blogging, community]
+tags: [creative, notes, relationships, tools]
 ---
 
 ## IRL Friends

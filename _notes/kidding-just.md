@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Just Kidding I Got Busy Again"
+title: Just Kidding I Got Busy Again
 date: 2022-08-08
-tags: ['newsletter', 'substack', 'just', 'kidding', 'busy', 'again']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, resources, writings]
 ---
 
 > This entry was imported from a newsletter.

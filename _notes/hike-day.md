@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "How to hike the Grand Canyon in a day"
+title: How to hike the Grand Canyon in a day
 date: 2023-01-03
-tags: ['newsletter', 'substack', 'hike', 'grand', 'canyon', 'love']
+tags: [creative, healthcare, notes, courses, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Melissa Cross Singing Class"
+title: Melissa Cross Singing Class
 date: 2023-04-16
-tags: [courses, singing, music, performance]
+tags: [creative, healthcare, notes, courses]
 ---
 
 Melissa Cross

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Pop-Up Workshop 1 - On Thin Ice"
+title: Pop-Up Workshop 1 - On Thin Ice
 date: 2023-04-16
-tags: [courses, relationships, communication, listening]
+tags: [creative, meditation, notes, courses, relationships]
 ---
 
 **COUNTERINTUITIVE LISTENING MINDSET 1: Supporting over Solving**

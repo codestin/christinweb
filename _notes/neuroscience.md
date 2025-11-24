@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Neuroscience"
+title: Neuroscience
 date: 2023-04-16
-tags: [health, neuroscience, science, perception, buddhism]
+tags: [healthcare, meditation, notes, buddhist-teachings, courses]
 ---
 
 ## Psychophysics Ideas to Demonstrate The Illusions of Perception

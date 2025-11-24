@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Honesty about Practice Edges"
+title: Honesty about Practice Edges
 date: 2023-01-24
-tags: ['newsletter', 'substack', 'honesty', 'practice', 'edges', 'unconditional']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

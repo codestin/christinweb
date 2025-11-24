@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Christin's Behind the Scenes"
+title: Christin's Behind the Scenes
 date: 2021-10-24
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'building']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, marketing, newsletters, relationships, resources, tools, writings]
 ---
 
 > This entry was imported from a newsletter.

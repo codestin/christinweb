@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Stripe Payment Integration with Super"
+title: Stripe Payment Integration with Super
 date: 2023-04-16
-tags: [tech, website, payments, tools]
+tags: [creative, notes, resources, tools]
 ---
 
 [https://buy.stripe.com/9AQ6pEalh0UC0NyfYZ](https://buy.stripe.com/9AQ6pEalh0UC0NyfYZ)

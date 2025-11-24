@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Overcome Writer's Block with Loving-Kindness"
+title: Overcome Writer's Block with Loving-Kindness
 date: 2022-11-15
-tags: [writing, buddhism, metta, loving-kindness, writers-block]
+tags: [creative, healthcare, meditation, essays, buddhist-teachings, courses, newsletters, personal-growth, relationships, resources, words, writings]
 ---
 
 **Or, how to trick an unwilling mind into *****mettā***** practice**

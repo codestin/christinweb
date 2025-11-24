@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Magnus Method"
+title: Magnus Method
 date: 2023-04-16
-tags: [health, food, nutrition, fitness]
+tags: [healthcare, notes]
 ---
 
 A documentation of the Magnus Method based on his videos

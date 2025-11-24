@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Introducing...Kind Camp"
+title: Introducing...Kind Camp
 date: 2022-11-07
-tags: ['newsletter', 'substack', 'introducing', 'kind', 'camp', 'reflective']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

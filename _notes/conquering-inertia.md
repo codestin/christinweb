@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Conquering Inertia"
+title: Conquering Inertia
 date: 2024-08-25
-tags: [biotech, medical education]
+tags: [creative, healthcare, meditation, notes, marketing]
 ---
 
 I've helped dozens of pharmaceutical companies educate healthcare providers about diseases, the latest treatment options, and the harrowing journey patients go through.

@@ -2,7 +2,7 @@
 layout: note
 title: "Christin's Behind-the-Scenes Sunday 🎥 : 🧲 Fishing Edition"
 date: 2022-03-27
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, healthcare, notes, newsletters, relationships]
 ---
 
 > This entry was imported from a newsletter.

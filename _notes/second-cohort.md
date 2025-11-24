@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Build A Second Brain Cohort 13"
+title: Build A Second Brain Cohort 13
 date: 2023-04-16
-tags: [courses, writing, productivity, note-taking]
+tags: [creative, healthcare, meditation, notes, courses, marketing, newsletters, personal-growth, tools, web3, writings]
 ---
 
 ## 2021-11-03 Live Session 1

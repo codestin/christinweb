@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Wish you a whole lotta nothing ✨"
+title: Wish you a whole lotta nothing ✨
 date: 2022-12-26
-tags: ['newsletter', 'substack', 'wish', 'whole', 'lotta', 'nothing']
+tags: [creative, notes, courses, newsletters, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

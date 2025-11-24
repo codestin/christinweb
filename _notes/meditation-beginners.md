@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Beginner's Meditation Resource"
+title: Beginner's Meditation Resource
 date: 2023-04-16
-tags: [spirituality, meditation, health]
+tags: [healthcare, meditation, notes, resources]
 ---
 
 Key points:

@@ -2,7 +2,7 @@
 layout: note
 title: "Christin's Behind-the-Scenes Sunday 🎥 : Silent Retreat Edition"
 date: 2022-06-05
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, marketing, newsletters, personal-growth, relationships, resources, writings]
 ---
 
 > This entry was imported from a newsletter.

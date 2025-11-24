@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Growing Mushrooms and Trying Again"
+title: Growing Mushrooms and Trying Again
 date: 2022-07-31
-tags: ['newsletter', 'substack', 'growing', 'mushrooms', 'trying', 'again']
+tags: [creative, meditation, notes, newsletters]
 ---
 
 > This entry was imported from a newsletter.

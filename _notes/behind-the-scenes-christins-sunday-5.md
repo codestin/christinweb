@@ -2,7 +2,7 @@
 layout: note
 title: "Christin's Behind-the-Scenes Sunday 🎥: Travel Postcard Edition"
 date: 2021-12-26
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, meditation, notes, newsletters, relationships, words, writings]
 ---
 
 > This entry was imported from a newsletter.

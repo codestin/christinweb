@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Open Heart, Open Mind, Open Mouth - Engaging the Practice of Skillful Speech"
+title: Open Heart, Open Mind, Open Mouth - Engaging the Practice of Skillful Speech
 date: 2023-04-16
-tags: [courses, spirituality, buddhism, meditation, communication]
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, personal-growth, relationships]
 ---
 
 [https://www.sati.org/sati-center-classes/open-heart-open-mind-open-mouth-engaging-the-practice-of-skillful-speech/](https://www.sati.org/sati-center-classes/open-heart-open-mind-open-mouth-engaging-the-practice-of-skillful-speech/)

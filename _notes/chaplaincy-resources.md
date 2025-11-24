@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Chaplaincy Resources"
+title: Chaplaincy Resources
 date: 2023-04-16
-tags: [spirituality, chaplaincy, buddhism, healthcare]
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, resources]
 ---
 
 ## From Mahesh Bhavana (Stanford Hospital Volunteer Chaplaincy Program)

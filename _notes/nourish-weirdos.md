@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Nourish Our Inner Weirdos"
+title: Nourish Our Inner Weirdos
 date: 2022-09-04
-tags: ['newsletter', 'substack', 'nourish', 'inner', 'weirdos', 'flourish']
+tags: [creative, meditation, notes, buddhist-teachings, courses, marketing, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

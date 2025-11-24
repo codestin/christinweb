@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Blood type and COVID-19 susceptability"
+title: Blood type and COVID-19 susceptability
 date: 2020-03-20
-tags: [covid-19, science, health]
+tags: [creative, healthcare, essays]
 ---
 
 This was originally published on 2020-03-20 - there's probably new data since then, so below may be obsolete information!

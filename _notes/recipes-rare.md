@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Rare Recipes List"
+title: Rare Recipes List
 date: 2023-04-16
-tags: [health, food, recipes, cooking]
+tags: [healthcare, notes]
 ---
 
 ## Nonfat Ginger Strike Milk

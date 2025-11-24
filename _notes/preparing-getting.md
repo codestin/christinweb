@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Book Notes - Getting Cracked, Preparing for Open Heart Surgery"
+title: Book Notes - Getting Cracked, Preparing for Open Heart Surgery
 date: 2023-04-16
-tags: [books, health, healthcare, friends]
+tags: [creative, healthcare, notes, relationships]
 ---
 
 Getting Cracked: Preparing for Open Heart Surgery is an excellent read about the realities of getting very sick, and the institutional hurdles that prevent optimal care. It shows that even someone well-versed in the healthcare system has issues navigating the byzantine process.

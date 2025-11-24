@@ -2,7 +2,7 @@
 layout: note
 title: "Christin's Behind-the-Scenes Sunday 🎥: Aloka Vihara Retreat Reflections"
 date: 2022-07-18
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships]
 ---
 
 > This entry was imported from a newsletter.

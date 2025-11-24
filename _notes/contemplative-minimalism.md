@@ -2,7 +2,7 @@
 layout: note
 title: "Christin's Contemplative Cup #1: Extreme Minimalism"
 date: 2021-10-11
-tags: ['newsletter', 'substack', 'christin', 'contemplative', 'extreme', 'minimalism']
+tags: [creative, meditation, notes, newsletters, personal-growth, writings]
 ---
 
 > This entry was imported from a newsletter.

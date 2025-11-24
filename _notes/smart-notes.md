@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "How to Take Smart Notes"
+title: How to Take Smart Notes
 date: 2023-04-16
-tags: [ideas, writing, note-taking, productivity]
+tags: [creative, notes, tools, writings]
 ---
 
 - Alternative to blogging that is less linear

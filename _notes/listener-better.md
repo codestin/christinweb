@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "How to be a better listener"
+title: How to be a better listener
 date: 2023-01-10
-tags: ['newsletter', 'substack', 'better', 'listener', 'meditation', 'listening']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Chiwi Journal Podcast"
+title: Chiwi Journal Podcast
 date: 2023-04-16
-tags: [podcast, friends, interviews, asian-american]
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, resources, tools, writings]
 ---
 
 ## INTRO

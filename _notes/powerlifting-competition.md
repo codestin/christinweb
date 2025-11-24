@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Expanding Awareness at My First Powerlifting Competition"
+title: Expanding Awareness at My First Powerlifting Competition
 date: 2023-04-16
-tags: [fitness, spirituality, mindfulness, alexander-technique, personal-growth]
+tags: [creative, healthcare, meditation, notes, courses, newsletters, personal-growth, relationships]
 ---
 
 Hi Michael and Friends,

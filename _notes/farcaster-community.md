@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Farcaster Community"
+title: Farcaster Community
 date: 2024-02-14
-tags: [tech, farcaster, web3, community]
+tags: [creative, notes, web3]
 ---
 
 Placeholder for an article about farcaster and its awesomeness

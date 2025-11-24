@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "La Cocina Orientation Notes"
+title: La Cocina Orientation Notes
 date: 2023-04-16
-tags: [courses, food, business, entrepreneurship]
+tags: [creative, healthcare, notes, courses, resources, writings]
 ---
 
 **Date:** 2021-06-23

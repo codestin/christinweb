@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "SEO Tips"
+title: SEO Tips
 date: 2023-04-16
-tags: [tech, marketing, seo, web-development]
+tags: [creative, notes, marketing, personal-growth, resources, tools, writings]
 ---
 
 *In truth, I haven't even had time to go through these myself yet! But I've been hoarding these tips.*

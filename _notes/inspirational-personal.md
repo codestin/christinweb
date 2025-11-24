@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Personal Mantras Over Inspirational Quotes"
+title: Personal Mantras Over Inspirational Quotes
 date: 2022-12-20
-tags: ['newsletter', 'substack', 'personal', 'mantras', 'over', 'inspirational']
+tags: [creative, meditation, notes, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

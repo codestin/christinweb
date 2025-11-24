@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Indieweb"
+title: Indieweb
 date: 2023-04-16
-tags: [tech, indieweb, blogging, writing]
+tags: [creative, notes, newsletters, writings]
 ---
 
 [https://www.michaeldean.site/p/substack-or-bust/comment/11606770](https://www.michaeldean.site/p/substack-or-bust/comment/11606770)

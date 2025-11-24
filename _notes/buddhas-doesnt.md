@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "The Buddha's Brain Doesn't Matter (But His Mental Models Do)"
+title: The Buddha's Brain Doesn't Matter (But His Mental Models Do)
 date: 2021-09-15
-tags: [buddhism, neuroscience, science, meditation, mental-models]
+tags: [creative, healthcare, meditation, essays, buddhist-teachings, courses, personal-growth, tools, writings]
 ---
 
 We were stewing in a stone slab hot tub large enough to fit a dozen people under the stars at the Esalen Institute in Big Sur, California. Hot sulphurous spring water enveloped our skin while ocean waves crashed against the steep bluffs below. It was quite a relaxing moment after a day of meditation and yoga, and a fellow retreat participant asked me:

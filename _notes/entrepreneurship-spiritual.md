@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Entrepreneurship as Spiritual Practice"
+title: Entrepreneurship as Spiritual Practice
 date: 2022-10-30
-tags: ['newsletter', 'substack', 'entrepreneurship', 'spiritual', 'practice', 'only']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

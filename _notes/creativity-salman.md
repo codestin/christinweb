@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Creativity AMA with Salman Ansari"
+title: Creativity AMA with Salman Ansari
 date: 2023-04-16
-tags: [courses, drawing, creativity, art]
+tags: [creative, healthcare, notes, courses, newsletters, personal-growth, resources, words, writings]
 ---
 
 - Separate the work that facilitates your life from fun and exploration and play

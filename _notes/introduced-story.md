@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "The REAL story of how I was introduced to Buddhism"
+title: The REAL story of how I was introduced to Buddhism
 date: 2024-02-09
-tags: ['newsletter', 'substack', 'real', 'story', 'introduced', 'buddhism']
+tags: [creative, meditation, notes, buddhist-teachings, courses, newsletters, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Small Bets Working Out Loud"
+title: Small Bets Working Out Loud
 date: 2023-05-04
-tags: [projects, marketing, business, entrepreneurship, personal]
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, marketing, newsletters, personal-growth, resources, tools, writings]
 ---
 
 [https://twitter.com/julianziesing/status/1521759052992241664?s=21&t=aOIOsrPouDBmQeAefRqMzQ](https://twitter.com/julianziesing/status/1521759052992241664?s=21&t=aOIOsrPouDBmQeAefRqMzQ)

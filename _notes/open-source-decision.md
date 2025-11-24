@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Animal Emoji Open-Source Decision Maker"
+title: Animal Emoji Open-Source Decision Maker
 date: 2023-04-16
-tags: [projects, games, creative-tools, friends]
+tags: [creative, meditation, notes, relationships, tools]
 ---
 
 **Status: Making the cards to go with the dice!**

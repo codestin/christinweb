@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Write of Passage 9 Christin's Mentor Session 4"
+title: Write of Passage 9 Christin's Mentor Session 4
 date: 2023-04-16
-tags: [courses, writing, meditation, spirituality, teaching]
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, writings]
 ---
 
 Please DM me this week b/c I am traveling: what will help you feel like you "succeeded!" with Write of Passage?

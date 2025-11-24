@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Holiday Gift List Edition"
+title: Holiday Gift List Edition
 date: 2022-12-05
-tags: ['newsletter', 'substack', 'holiday', 'gift', 'list', 'edition']
+tags: [creative, healthcare, notes, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

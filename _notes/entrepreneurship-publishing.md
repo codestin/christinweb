@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Mentoring for Small Bets, Insider Look at the Book Publishing Industry, Spiritual Entrepreneurship"
+title: Mentoring for Small Bets, Insider Look at the Book Publishing Industry, Spiritual Entrepreneurship
 date: 2023-07-12
-tags: ['newsletter', 'substack', 'mentoring', 'small', 'bets', 'insider']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, resources, writings]
 ---
 
 > This entry was imported from a newsletter.

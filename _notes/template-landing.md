@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Landing Page Template for Product Launch"
+title: Landing Page Template for Product Launch
 date: 2023-04-16
-tags: [marketing, templates, business]
+tags: [creative, notes, marketing, personal-growth, tools, writings]
 ---
 
 # Twitter Growth Secrets Playbook 2022 - From the OG Twitter Guys

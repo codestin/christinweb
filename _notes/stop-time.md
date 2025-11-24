@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "How to stop time"
+title: How to stop time
 date: 2023-02-14
-tags: ['newsletter', 'substack', 'stop', 'time', 'kind', 'camp']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships, resources, writings]
 ---
 
 > This entry was imported from a newsletter.

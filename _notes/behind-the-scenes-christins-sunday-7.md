@@ -2,7 +2,7 @@
 layout: note
 title: "Christin's Behind-the-Scenes Sunday 🎥 : 3 Bullet Edition"
 date: 2022-04-18
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, healthcare, meditation, notes, courses, newsletters, relationships, resources]
 ---
 
 > This entry was imported from a newsletter.

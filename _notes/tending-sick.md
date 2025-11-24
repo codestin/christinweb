@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Tending to the Sick"
+title: Tending to the Sick
 date: 2022-10-17
-tags: ['newsletter', 'substack', 'tending', 'sick', 'reflective', 'writing']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

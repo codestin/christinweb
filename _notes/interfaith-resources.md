@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Interfaith Resources"
+title: Interfaith Resources
 date: 2023-04-16
-tags: [spirituality, chaplaincy, interfaith, blessings]
+tags: [creative, healthcare, meditation, notes, newsletters, resources]
 ---
 
 [https://www.youtube.com/watch?v=94IKdiaWKvQ](https://www.youtube.com/watch?v=94IKdiaWKvQ)

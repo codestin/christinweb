@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Aging and Dying"
+title: Aging and Dying
 date: 2023-04-16
-tags: [ideas, health, aging, death, care]
+tags: [healthcare, notes]
 ---
 
 - How to plan for collective care?

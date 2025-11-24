@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "What makes courses and community tick"
+title: What makes courses and community tick
 date: 2022-08-29
-tags: ['newsletter', 'substack', 'makes', 'courses', 'community', 'tick']
+tags: [creative, healthcare, notes, courses, newsletters, relationships, tools, writings]
 ---
 
 > This entry was imported from a newsletter.

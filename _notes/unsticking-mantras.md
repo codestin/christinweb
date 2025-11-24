@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Unsticking Mantras"
+title: Unsticking Mantras
 date: 2023-04-16
-tags: [ideas, productivity, mindset, creativity]
+tags: [creative, meditation, notes, tools]
 ---
 
 - Celebrate the process not the outcome

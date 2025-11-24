@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "How to Write Online with David Perell"
+title: How to Write Online with David Perell
 date: 2023-04-16
-tags: [courses, writing, content-creation, audience-building]
+tags: [creative, meditation, notes, courses, personal-growth, relationships, resources, tools, writings]
 ---
 
 ## Feb 10 (Wed), 10:00 AM - 11:00 AM PST

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Ultimate KPIs for Life and Work"
+title: Ultimate KPIs for Life and Work
 date: 2023-01-17
-tags: ['newsletter', 'substack', 'ultimate', 'kpis', 'life', 'work']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

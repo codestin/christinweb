@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Two Conversations on Faith and Purpose"
+title: Two Conversations on Faith and Purpose
 date: 2023-03-22
-tags: ['newsletter', 'substack', 'conversations', 'faith', 'purpose', 'cooledge']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, resources, writings]
 ---
 
 > This entry was imported from a newsletter.

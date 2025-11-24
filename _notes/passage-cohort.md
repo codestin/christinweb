@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Write of Passage Cohort 7 Notes"
+title: Write of Passage Cohort 7 Notes
 date: 2023-04-16
-tags: [courses, writing, creativity, productivity]
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, marketing, newsletters, personal-growth, relationships, resources, tools, writings]
 ---
 
 ## WOP Live Session 1 - 2021-09-08

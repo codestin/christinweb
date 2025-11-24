@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "an update from christin"
+title: an update from christin
 date: 2024-10-25
-tags: ['newsletter', 'substack', 'update', 'christin']
+tags: [creative, healthcare, meditation, notes, courses, newsletters, relationships, web3, writings]
 ---
 
 > This entry was imported from a newsletter.

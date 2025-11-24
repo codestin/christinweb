@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "How to Work with a Personal Assistant"
+title: How to Work with a Personal Assistant
 date: 2023-04-16
-tags: [courses, marketing, productivity, business, operations]
+tags: [creative, healthcare, notes, courses, marketing, newsletters, personal-growth, resources, tools, writings]
 ---
 
 [https://www.youtube.com/watch?v=hJLUQvL78CA](https://www.youtube.com/watch?v=hJLUQvL78CA)

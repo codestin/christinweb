@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Kindness for Contextual Benefit"
+title: Kindness for Contextual Benefit
 date: 2022-10-24
-tags: ['newsletter', 'substack', 'kindness', 'contextual', 'benefit', 'mini']
+tags: [creative, healthcare, meditation, notes, courses, newsletters, personal-growth, relationships, tools, writings]
 ---
 
 > This entry was imported from a newsletter.

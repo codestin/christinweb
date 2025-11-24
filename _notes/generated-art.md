@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "AI Generated Art"
+title: AI Generated Art
 date: 2023-04-16
-tags: [tech, ai, art, creative-tools]
+tags: [creative, notes, newsletters, resources, tools]
 ---
 
 **This note is very old! So it was super high tech back then**

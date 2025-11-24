@@ -2,7 +2,7 @@
 layout: note
 title: "Christin's Behind-the-Scenes Sunday 🎥 : YouTube!"
 date: 2022-04-25
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, healthcare, notes, courses, newsletters, personal-growth, relationships, resources, tools, writings]
 ---
 
 > This entry was imported from a newsletter.

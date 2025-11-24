@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Bystander Intervention to stop anti-Asian American and xenophobic harassment"
+title: Bystander Intervention to stop anti-Asian American and xenophobic harassment
 date: 2023-04-16
-tags: [courses, activism, community, asian-american]
+tags: [creative, meditation, notes, asian-americans, courses]
 ---
 
 Anti-Asian/American and xenophobic harassment are on the rise across the US -- and the world. In this virtual workshop hosted on zoom, and co-sponsored by Asian Americans Advancing Justice (AAJC) and Hollaback!, we'll learn how you can intervene effectively as a bystander without ever compromising your safety.

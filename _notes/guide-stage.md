@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Guide On The Side, Not Sage On the Stage"
+title: Guide On The Side, Not Sage On the Stage
 date: 2022-09-11
-tags: ['newsletter', 'substack', 'guide', 'side', 'sage', 'stage']
+tags: [creative, healthcare, meditation, notes, courses, newsletters, writings]
 ---
 
 > This entry was imported from a newsletter.

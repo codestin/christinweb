@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "🍭 Spinning pinwheel mode"
+title: 🍭 Spinning pinwheel mode
 date: 2023-02-07
-tags: ['newsletter', 'substack', 'spinning', 'pinwheel', 'mode', 'preparing']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships]
 ---
 
 > This entry was imported from a newsletter.

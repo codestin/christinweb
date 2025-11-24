@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Journal Zendo, Meditation for Writers"
+title: Journal Zendo, Meditation for Writers
 date: 2023-04-16
-tags: [spirituality, writing, projects, meditation, journaling]
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, personal-growth, relationships, writings]
 ---
 
 *This is currently an unorganized brain dump! I'm still finding my shiny dime.*

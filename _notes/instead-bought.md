@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "If You Bought AMZN Stocks Instead"
+title: If You Bought AMZN Stocks Instead
 date: 2023-04-16
-tags: [projects, finance, investing, tools]
+tags: [creative, notes, newsletters, tools, writings]
 ---
 
 This was originally published on 2019-06-25.

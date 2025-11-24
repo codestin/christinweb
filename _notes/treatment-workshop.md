@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Pop-Up Workshop 3 - Silent Treatment"
+title: Pop-Up Workshop 3 - Silent Treatment
 date: 2023-04-16
-tags: [courses, relationships, communication, authenticity, emotions]
+tags: [meditation, notes, courses, relationships]
 ---
 
 **COUNTERINTUITIVE EXPRESSING MINDSET 3: Congruent over Collected**

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "The Writing Studio with Michael Dean"
+title: The Writing Studio with Michael Dean
 date: 2023-04-16
-tags: [courses, writing, creativity, storytelling]
+tags: [creative, healthcare, meditation, notes, courses, newsletters, personal-growth, relationships, resources, tools, writings]
 ---
 
 ## 2021-10-26 Kick Off

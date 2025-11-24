@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Visual Media List"
+title: Visual Media List
 date: 2023-04-16
-tags: [ideas, media, watchlist, entertainment]
+tags: [creative, notes]
 ---
 
 ## Want to Watch

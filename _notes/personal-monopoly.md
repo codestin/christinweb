@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Insight Writing Club Updates / Gently Finding Your Personal Monopoly / Niche"
+title: Insight Writing Club Updates / Gently Finding Your Personal Monopoly / Niche
 date: 2023-06-13
-tags: ['newsletter', 'substack', 'insight', 'writing', 'club', 'updates']
+tags: [creative, healthcare, meditation, notes, newsletters, personal-growth, relationships, resources, tools, writings]
 ---
 
 > This entry was imported from a newsletter.

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Deep Diversity Class Notes"
+title: Deep Diversity Class Notes
 date: 2023-04-16
-tags: [courses, diversity, equity, social-justice, education]
+tags: [creative, healthcare, meditation, notes, asian-americans, buddhist-teachings, courses, personal-growth, relationships]
 ---
 
 **Based on this book:**

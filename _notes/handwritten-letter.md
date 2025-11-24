@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "A handwritten letter for you, read out loud"
+title: A handwritten letter for you, read out loud
 date: 2023-09-24
-tags: ['newsletter', 'substack', 'handwritten', 'letter', 'read', 'loud']
+tags: [creative, notes, newsletters]
 ---
 
 > This entry was imported from a newsletter.

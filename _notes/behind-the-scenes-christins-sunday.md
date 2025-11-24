@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Christin's Behind-the-Scenes Sunday 🎥"
+title: Christin's Behind-the-Scenes Sunday 🎥
 date: 2022-01-23
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, meditation, notes, buddhist-teachings, courses, newsletters, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

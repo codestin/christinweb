@@ -2,7 +2,7 @@
 layout: note
 title: "Christin's Behind-the-Scenes Sunday 🎥 : Poll Edition"
 date: 2022-03-21
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, notes, newsletters, personal-growth, resources, writings]
 ---
 
 > This entry was imported from a newsletter.

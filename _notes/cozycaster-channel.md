@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Cozycaster Channel List"
+title: Cozycaster Channel List
 date: 2024-03-09
-tags: [farcaster, web3, community, social-media, curation]
+tags: [creative, healthcare, meditation, notes, personal-growth, relationships, tools, web3, writings]
 ---
 
 ## Christin's cozycaster channel list criteria (ever-evolving)

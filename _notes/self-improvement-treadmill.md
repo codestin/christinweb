@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Get Off the Self-Improvement Treadmill with a Bao Yang (保養) Mindset"
+title: Get Off the Self-Improvement Treadmill with a Bao Yang (保養) Mindset
 date: 2021-09-15
-tags: [self-care, mindfulness, chinese-culture, wellness, philosophy]
+tags: [creative, healthcare, meditation, essays, asian-americans, courses, personal-growth, writings]
 ---
 Are you tired of being on the self-improvement treadmill? There’s always one more cohort class to take, or another supplement that will help you work harder or be better/faster/stronger. But the satisfaction of trying something new never lasts, because [hedonic adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill) (our tendency to return to the same level of happiness regardless of positive/negative life changes) happens even with “productive” activities. Yet it's hard to see self-improvement as a bad thing, because hey, we’re making ourselves better, right?
 

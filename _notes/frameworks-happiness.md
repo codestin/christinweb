@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Kindness + frameworks = success + happiness"
+title: Kindness + frameworks = success + happiness
 date: 2023-04-12
-tags: ['newsletter', 'substack', 'kindness', 'frameworks', 'success', 'happiness']
+tags: [creative, healthcare, meditation, notes, courses, marketing, newsletters, personal-growth, relationships, tools, writings]
 ---
 
 > This entry was imported from a newsletter.

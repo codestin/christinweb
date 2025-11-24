@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Online Writing is a Secret Form of Spiritual Practice"
+title: Online Writing is a Secret Form of Spiritual Practice
 date: 2021-11-15
-tags: [writing, buddhism, spirituality, write-of-passage, eightfold-path, community]
+tags: [creative, healthcare, meditation, essays, buddhist-teachings, courses, marketing, newsletters, personal-growth, relationships, resources, tools, writings]
 ---
 I signed up for[ Write of Passage](https://writeofpassage.school/) thinking that it would make me a better writer. I'd become a successful person who could influence the masses with clever words. Get. More. People. To. [Buy](https://www.amazon.com/Honeyritual-Superfruit-Asian-Tea-Caffeine/dp/B096L537Q4). My. [Tea](https://honeyritual.com/). That didn’t happen at all. But something better did, something more profound.
 

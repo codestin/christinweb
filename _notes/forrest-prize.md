@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Forrest Prize Coin and NFTs"
+title: Forrest Prize Coin and NFTs
 date: 2023-04-16
-tags: [web3, nft, crypto, ideas, literature]
+tags: [creative, notes, relationships, resources, web3]
 ---
 
 Forrest Prize Coins (FPCs) and [Forrest Prize NFTs](https://opensea.io/collection/forrest-prize-nfts) (FPNFTs) are given out by Forrest (and friends?) for exemplary literature.

@@ -2,7 +2,7 @@
 layout: note
 title: "Taking our places: The foraging path to truly sinking in"
 date: 2024-01-16
-tags: ['newsletter', 'substack', 'taking', 'places', 'foraging', 'path']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships]
 ---
 
 > This entry was imported from a newsletter.

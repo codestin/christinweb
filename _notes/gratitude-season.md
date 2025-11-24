@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "A Season of Change, A Season of Gratitude"
+title: A Season of Change, A Season of Gratitude
 date: 2025-10-06
-tags: ['newsletter', 'substack', 'season', 'change', 'gratitude', 'between']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships, resources, writings]
 ---
 
 > This entry was imported from a newsletter.

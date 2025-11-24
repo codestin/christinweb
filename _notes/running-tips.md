@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Running Tips"
+title: Running Tips
 date: 2023-04-16
-tags: [health, running, fitness, exercise]
+tags: [healthcare, meditation, notes]
 ---
 
 This is a list of exercises I did when preparing for my half marathon in 2018. They were very helpful! Most if not all are from Coach Sage Canaday and Sandy on Youtube.

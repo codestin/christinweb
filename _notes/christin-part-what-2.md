@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "What has Christin been up to? (Part 1)"
+title: What has Christin been up to? (Part 1)
 date: 2023-08-15
-tags: ['newsletter', 'substack', 'christin', 'part', 'introducing', 'school']
+tags: [creative, healthcare, notes, courses, newsletters, personal-growth, relationships, resources, writings]
 ---
 
 > This entry was imported from a newsletter.

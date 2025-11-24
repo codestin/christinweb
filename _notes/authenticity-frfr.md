@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Authenticity frfr"
+title: Authenticity frfr
 date: 2022-12-13
-tags: ['newsletter', 'substack', 'authenticity', 'frfr', 'spiral', 'path']
+tags: [creative, notes, newsletters, relationships]
 ---
 
 > This entry was imported from a newsletter.

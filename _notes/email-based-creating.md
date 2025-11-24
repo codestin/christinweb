@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Creating Email-Based Courses (EBCs) for Fun and Profit with Will Steiner"
+title: Creating Email-Based Courses (EBCs) for Fun and Profit with Will Steiner
 date: 2023-04-16
-tags: [courses, marketing, business, education, writing]
+tags: [creative, healthcare, notes, courses, marketing, newsletters, personal-growth, relationships, resources, writings]
 ---
 
 [https://www.youtube.com/watch?v=v3T-id4DU8I](https://www.youtube.com/watch?v=v3T-id4DU8I)

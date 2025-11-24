@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Coaching Session with Youheum Son"
+title: Coaching Session with Youheum Son
 date: 2023-04-16
-tags: [courses, marketing, mindset, business, spirituality]
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, marketing, personal-growth, relationships, resources, web3]
 ---
 
 [Honeyritual](http://honeyritual.com/) did well when we were able to let people try the product for themselves and make a retail purchasing decision in person! But we know that to reach more people in a scalable way, we need to be able to reach people effectively online as well. And what I have observed over the years is that people who are able to market a physical product well, tend to have built an online audience (and often times, the online audience comes first before the product.)

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Maven How to Validate Your Course Idea"
+title: Maven How to Validate Your Course Idea
 date: 2023-04-16
-tags: [courses, marketing, education, business]
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, marketing, relationships, resources, tools, web3]
 ---
 
 Speaker: Rachel Cai, Wes Kao

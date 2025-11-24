@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Gell-Mann Amnesia Effect"
+title: Gell-Mann Amnesia Effect
 date: 2023-04-16
-tags: [ideas, media, cognitive-bias, critical-thinking]
+tags: [creative, notes]
 ---
 
 A cognitive bias I often forget the name of! The [Gell-Mann amenesia effect](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect) is coined by Michael Crichton:

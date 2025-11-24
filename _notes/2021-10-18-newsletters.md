@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Just Newsletters! Azul Meeting 2021-10-18"
+title: Just Newsletters! Azul Meeting 2021-10-18
 date: 2023-04-16
-tags: [courses, marketing, writing, newsletters]
+tags: [creative, notes, courses, marketing, newsletters, personal-growth, resources, writings]
 ---
 
 Speaker: Naz ([Pup's Newsletter](https://twitter.com/i/newsletters/subscribe/ThePupOfWallSt))

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Fear, Anxiety, and Buddhism"
+title: Fear, Anxiety, and Buddhism
 date: 2023-06-25
-tags: [spirituality, buddhism, neuroscience, health, anxiety]
+tags: [healthcare, meditation, notes, buddhist-teachings, courses]
 ---
 
 Suttas that explicitly mention anxiety:

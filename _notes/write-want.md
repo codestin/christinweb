@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "I want to help you write a book 📖"
+title: I want to help you write a book 📖
 date: 2022-11-21
-tags: ['newsletter', 'substack', 'want', 'help', 'write', 'book']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

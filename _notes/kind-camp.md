@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Kind Camp"
+title: Kind Camp
 date: 2023-04-16
-tags: [spirituality, projects, writing, meditation, community]
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, resources, writings]
 ---
 
 [https://christin.substack.com/p/introducingkind-camp?utm_source=post-email-title&publication_id=22792&post_id=83022115&isFreemail=false&utm_medium=email](https://christin.substack.com/p/introducingkind-camp?utm_source=post-email-title&publication_id=22792&post_id=83022115&isFreemail=false&utm_medium=email)

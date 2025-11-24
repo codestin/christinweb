@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "The magical ingredients for online friendships 🪄"
+title: The magical ingredients for online friendships 🪄
 date: 2023-04-05
-tags: ['newsletter', 'substack', 'magical', 'ingredients', 'online', 'friendships']
+tags: [creative, healthcare, meditation, notes, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Speed Up Patient Referral Pathways"
+title: Speed Up Patient Referral Pathways
 date: 2024-08-26
-tags: [biotech, medical education]
+tags: [creative, healthcare, notes]
 ---
 
 One of the hardest challenges to solve in the healthcare system is educating healthcare providers from generalists to specialists.

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "❇️ Sacred Spaces for Creator Friendships"
+title: ❇️ Sacred Spaces for Creator Friendships
 date: 2022-09-25
-tags: ['newsletter', 'substack', 'sacred', 'spaces', 'creator', 'friendships']
+tags: [creative, meditation, notes, buddhist-teachings, courses, newsletters, relationships, resources, writings]
 ---
 
 > This entry was imported from a newsletter.

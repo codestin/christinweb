@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Alternative Healthcare Access (USA)"
+title: Alternative Healthcare Access (USA)
 date: 2023-04-16
-tags: [health, usa, resources, insurance]
+tags: [creative, healthcare, notes, newsletters, resources]
 ---
 
 Compiling all the places one can get affordable healthcare outside of traditional employment-based insurance

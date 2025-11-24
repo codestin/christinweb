@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Why Editing Sucks And What To Do About It"
+title: Why Editing Sucks And What To Do About It
 date: 2023-02-23
-tags: ['newsletter', 'substack', 'editing', 'sucks', 'write', 'passage']
+tags: [creative, meditation, essays, newsletters, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

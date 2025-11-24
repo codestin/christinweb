@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Pop-Up Workshop 2 - Calling the Shots"
+title: Pop-Up Workshop 2 - Calling the Shots
 date: 2023-04-16
-tags: [courses, relationships, communication, joy, authenticity]
+tags: [creative, healthcare, meditation, notes, courses, relationships, tools]
 ---
 
 **COUNTERINTUITIVE LISTENING MINDSET 2: Pleasure over Proving**

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "What is your day like?"
+title: What is your day like?
 date: 2025-03-24
-tags: ['newsletter', 'substack', 'like', 'here', 'mine']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

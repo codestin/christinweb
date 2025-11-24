@@ -2,7 +2,7 @@
 layout: note
 title: "Christin's Behind-the-Scenes Sunday 🎥: New Year Edition"
 date: 2022-01-02
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, meditation, notes, newsletters, relationships, resources, tools, writings]
 ---
 
 > This entry was imported from a newsletter.

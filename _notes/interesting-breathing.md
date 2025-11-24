@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "How to Make Breathing Interesting"
+title: How to Make Breathing Interesting
 date: 2023-01-31
-tags: ['newsletter', 'substack', 'make', 'breathing', 'interesting', 'game']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships]
 ---
 
 > This entry was imported from a newsletter.

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "🤫 Am I A Shitty Friend?"
+title: 🤫 Am I A Shitty Friend?
 date: 2022-10-03
-tags: ['newsletter', 'substack', 'shitty', 'friend', 'paywall', 'wonky']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

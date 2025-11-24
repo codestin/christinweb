@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Megaphone Cyclone Guest Post on Information Overload"
+title: Megaphone Cyclone Guest Post on Information Overload
 date: 2020-03-01
-tags: [information-overload, productivity, writing, guest-post]
+tags: [creative, essays, tools, writings]
 ---
 
 This was originally published on 2020-03-01.

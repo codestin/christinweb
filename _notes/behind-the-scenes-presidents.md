@@ -2,7 +2,7 @@
 layout: note
 title: "Christin's Behind-the-Scenes Sunday 🎥: President's Day Edition"
 date: 2022-02-21
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, healthcare, meditation, notes, courses, marketing, newsletters, personal-growth]
 ---
 
 > This entry was imported from a newsletter.

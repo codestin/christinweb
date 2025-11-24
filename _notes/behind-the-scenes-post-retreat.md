@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Christin's Behind-the-Scenes Sunday 🎥 : \"Post\"-Retreat Edition"
+title: "Christin's Behind-the-Scenes Sunday 🎥 : \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Post\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"-Retreat Edition"
 date: 2022-06-13
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, meditation, notes, newsletters]
 ---
 
 > This entry was imported from a newsletter.

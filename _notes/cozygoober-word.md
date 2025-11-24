@@ -2,7 +2,7 @@
 layout: note
 title: "My Word of the Year: CozyGoober"
 date: 2024-04-03
-tags: ['newsletter', 'substack', 'word', 'year', 'cozygoober', 'heralding']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, resources, tools, web3, words]
 ---
 
 > This entry was imported from a newsletter.

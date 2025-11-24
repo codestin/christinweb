@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "What It Feels Like To Come Alive (Even At Work), New Secret Project"
+title: What It Feels Like To Come Alive (Even At Work), New Secret Project
 date: 2023-05-02
-tags: ['newsletter', 'substack', 'feels', 'like', 'come', 'alive']
+tags: [creative, healthcare, meditation, notes, courses, newsletters, personal-growth, relationships, tools, writings]
 ---
 
 > This entry was imported from a newsletter.

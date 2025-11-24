@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Job Application SOP"
+title: Job Application SOP
 date: 2024-03-25
-tags: [projects, career, work]
+tags: [creative, healthcare, notes]
 ---
 
 ## Develop job posting database

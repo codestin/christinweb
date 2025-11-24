@@ -2,7 +2,7 @@
 layout: note
 title: "Christin's Behind-the-Scenes Sunday 🎥 : Digital Detoxed Edition"
 date: 2022-05-29
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, meditation, notes, newsletters, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

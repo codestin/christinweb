@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Insight Writing Club - Secret Project Revealed!"
+title: Insight Writing Club - Secret Project Revealed!
 date: 2023-05-18
-tags: ['newsletter', 'substack', 'insight', 'writing', 'club', 'secret']
+tags: [creative, healthcare, meditation, notes, newsletters, personal-growth, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

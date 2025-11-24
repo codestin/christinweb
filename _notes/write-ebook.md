@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "How to Write an Ebook"
+title: How to Write an Ebook
 date: 2023-04-16
-tags: [projects, writing, publishing, business]
+tags: [creative, notes, relationships, resources, writings]
 ---
 
 ## Pre-sale on Gumroad

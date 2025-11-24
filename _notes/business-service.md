@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Sasha Chapin - How to Start a Service Business"
+title: Sasha Chapin - How to Start a Service Business
 date: 2023-10-01
-tags: [courses, marketing, business, coaching, consulting]
+tags: [creative, healthcare, meditation, notes, courses, marketing, personal-growth, relationships, resources, tools, writings]
 ---
 
 - Selling time for service - easy to start

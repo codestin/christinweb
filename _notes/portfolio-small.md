@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "A Portfolio of Small Bets"
+title: A Portfolio of Small Bets
 date: 2023-04-16
-tags: [courses, marketing, business, entrepreneurship, strategy]
+tags: [creative, healthcare, meditation, notes, courses, marketing, newsletters, personal-growth, tools]
 ---
 
 By Daniel Vassallo

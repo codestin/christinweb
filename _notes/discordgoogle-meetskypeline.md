@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Use Zoom's Virtual Background with Discord/Google Meet/Skype/LINE"
+title: Use Zoom's Virtual Background with Discord/Google Meet/Skype/LINE
 date: 2023-04-16
-tags: [tech, tools, productivity, video]
+tags: [creative, notes, tools, web3]
 ---
 
 **Problem:**

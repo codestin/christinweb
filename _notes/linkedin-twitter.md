@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Make LinkedIn As Fun As Twitter"
+title: Make LinkedIn As Fun As Twitter
 date: 2023-04-16
-tags: [tech, marketing, social-media, friends]
+tags: [creative, notes, marketing, newsletters, relationships, resources]
 ---
 
 ## Problem

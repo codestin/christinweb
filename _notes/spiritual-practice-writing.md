@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Writing and Spiritual Practice"
+title: Writing and Spiritual Practice
 date: 2023-04-16
-tags: [spirituality, writing, buddhism, practice]
+tags: [creative, meditation, notes, buddhist-teachings, courses, writings]
 ---
 
 [https://thedewdrop.org/category/why-i-write/](https://thedewdrop.org/category/why-i-write/)

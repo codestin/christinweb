@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "When Procrastination Is A Good Thing"
+title: When Procrastination Is A Good Thing
 date: 2022-08-15
-tags: ['newsletter', 'substack', 'procrastination', 'good', 'thing', 'time']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships, resources, writings]
 ---
 
 > This entry was imported from a newsletter.

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Fruition Additional Setup Tips"
+title: Fruition Additional Setup Tips
 date: 2023-04-16
-tags: [tech, website, tools, notion]
+tags: [creative, notes, tools]
 ---
 
 Referring to Fruition setup instructions [here](https://fruitionsite.com/):

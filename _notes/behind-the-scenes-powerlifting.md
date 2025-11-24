@@ -2,7 +2,7 @@
 layout: note
 title: "Christin's Behind-the-Scenes Sunday 🎥 : Powerlifting Competition Edition"
 date: 2022-05-01
-tags: ['newsletter', 'substack', 'christin', 'behind', 'scenes', 'sunday']
+tags: [creative, healthcare, notes, newsletters, relationships, writings]
 ---
 
 > This entry was imported from a newsletter.

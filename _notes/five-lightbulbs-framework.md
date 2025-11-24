@@ -1,9 +1,11 @@
 ---
 layout: note
-title: "The Five Lightbulbs Starter Kit"
+title: The Five Lightbulbs Marketing Framework
 date: 2023-04-16
-tags: [courses, marketing, copywriting, business]
+tags: [creative, healthcare, notes, courses, marketing, newsletters, relationships, resources, tools, writings]
 ---
+
+# The Five Lightbulbs Marketing Framework
 
 **Welcome to the World of The Five Lightbulbs!**
 
@@ -44,6 +46,64 @@ We like Notion because it's easy to tag and organize your ad examples. But it's 
 1. To get you started, we seeded your swipe file with ten excellent ad examples. Browse those first.
 2. As you come across advertising, marketing, or copywriting you enjoy, take a screenshot and add it to your swipe file.
 3. When you're creating your own marketing material, and feel stuck, glance at your swipe file. Let it inspire you.
+
+---
+
+## Marketing Copy Examples
+
+Below are ten curated examples demonstrating how The Five Lightbulbs framework applies to real marketing copy:
+
+### Example 1: Columbia OmniHeat Jacket
+**Lightbulbs:** LB3
+**Type:** Facebook Ad
+Example of marketing copy demonstrating Lightbulb #3 from The Five Lightbulbs framework.
+
+### Example 2: English Language Learning Course
+**Lightbulbs:** LB1, LB2, LB3, LB4, LB5
+**Type:** Sales Letter
+Example of marketing copy demonstrating all 5 Lightbulbs from The Five Lightbulbs framework.
+
+### Example 3: Mindvalley Online Course
+**Lightbulbs:** LB1
+**Type:** Email Subject Line
+Example of marketing copy demonstrating Lightbulb #1 from The Five Lightbulbs framework.
+
+### Example 4: The Essential Man Fashion Course
+**Lightbulbs:** LB5
+**Type:** Headline
+Example of marketing copy demonstrating Lightbulb #5 from The Five Lightbulbs framework.
+
+### Example 5: Bellroy Slim Wallet
+**Lightbulbs:** LB2
+**Type:** Print Ad
+Example of marketing copy demonstrating Lightbulb #2 from The Five Lightbulbs framework.
+
+### Example 6: Ramit Sethi Social Skills Course
+**Lightbulbs:** LB1
+**Type:** Headline
+Example of marketing copy demonstrating Lightbulb #1 from The Five Lightbulbs framework.
+
+### Example 7: Quantum Coffee-Infused Energy Bars
+**Lightbulbs:** LB2, LB3
+**Type:** Webpage
+Example of marketing copy demonstrating Lightbulbs #2 and #3 from The Five Lightbulbs framework.
+
+### Example 8: Duke Cannon Signature Scent Selector
+**Lightbulbs:** LB3
+**Type:** Webpage
+Example of marketing copy demonstrating Lightbulb #3 from The Five Lightbulbs framework.
+
+### Example 9: Podia Online Course Software
+**Lightbulbs:** LB2
+**Type:** Headline
+Example of marketing copy demonstrating Lightbulb #2 from The Five Lightbulbs framework.
+
+### Example 10: Onnit Alpha Brain Supplement
+**Lightbulbs:** LB3, LB4
+**Type:** Facebook Ad
+Example of marketing copy demonstrating Lightbulbs #3 and #4 from The Five Lightbulbs framework.
+
+---
 
 ## Want more on The Five Lightbulbs?
 

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "How I got sick and got better"
+title: How I got sick and got better
 date: 2024-01-11
-tags: ['newsletter', 'substack', 'sick', 'better', 'nuances', 'vitamin']
+tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, resources, writings]
 ---
 
 > This entry was imported from a newsletter.

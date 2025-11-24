@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Re-learning Childhood Lessons"
+title: Re-learning Childhood Lessons
 date: 2020-02-06
-tags: [learning, music, piano, childhood, growth-mindset]
+tags: [creative, meditation, essays, courses, newsletters, personal-growth, resources, tools, writings]
 ---
 
 This was originally published on 2020-02-06.

@@ -1,8 +1,8 @@
 ---
 layout: note
-title: "Write of Passage 9 Christin's Mentor Session 2"
+title: Write of Passage 9 Christin's Mentor Session 2
 date: 2023-04-16
-tags: [courses, writing, meditation, spirituality, teaching]
+tags: [creative, healthcare, meditation, notes, courses, personal-growth, relationships, resources, tools, writings]
 ---
 
 I'm available for 1:1 chats, book here: [https://tidycal.com/christinchong/30min](https://tidycal.com/christinchong/30min)
