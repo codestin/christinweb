@@ -112,10 +112,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
   color: var(--color-text-secondary) !important;
 }
 
-/* Adjust search icon size */
-#search .pagefind-ui__search-input::before {
-  width: 1.5em !important;
-  height: 1.5em !important;
+/* Fix search icon position for smaller input */
+#search .pagefind-ui__form::before {
+  top: 0.5em !important;
+  left: 0.75em !important;
+  width: 1em !important;
+  height: 1em !important;
 }
 </style>
 
