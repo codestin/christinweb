@@ -23,6 +23,102 @@ window.addEventListener('DOMContentLoaded', (event) => {
 });
 </script>
 
+<style>
+/* Override Pagefind CSS variables to match site theme */
+#search {
+  --pagefind-ui-primary: var(--color-link);
+  --pagefind-ui-text: var(--color-text);
+  --pagefind-ui-background: var(--color-bg-secondary);
+  --pagefind-ui-border: var(--color-border);
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 4px;
+  --pagefind-ui-font: 'Menlo', Monaco, 'Courier New', monospace;
+}
+
+/* Style search input to match footer newsletter input */
+#search .pagefind-ui__search-input {
+  font-family: 'Menlo', Monaco, 'Courier New', monospace !important;
+  font-size: 0.65625rem !important; /* Match newsletter input size */
+  height: auto !important;
+  padding: 0.5em 0.75em !important;
+  padding-left: 2.5em !important; /* Space for search icon */
+  background: var(--color-bg-secondary) !important;
+  border: 1px solid var(--color-border) !important;
+  border-radius: 4px !important;
+  color: var(--color-text) !important;
+  transition: background 300ms ease, border-color 300ms ease !important;
+}
+
+#search .pagefind-ui__search-input::placeholder {
+  color: var(--color-text-secondary) !important;
+}
+
+#search .pagefind-ui__search-input:hover {
+  border-color: var(--color-link) !important;
+}
+
+#search .pagefind-ui__search-input:focus {
+  outline: 2px solid var(--color-link-focus-bg) !important;
+  outline-offset: 2px !important;
+  background: var(--color-link-focus-bg) !important;
+  border-color: var(--color-link) !important;
+}
+
+/* Style search clear button to match */
+#search .pagefind-ui__search-clear {
+  background: transparent !important;
+  color: var(--color-link) !important;
+  padding: 0.5em !important;
+  border-radius: 4px !important;
+}
+
+#search .pagefind-ui__search-clear:hover {
+  background: var(--color-link-hover-bg) !important;
+}
+
+#search .pagefind-ui__search-clear:focus {
+  outline: 2px solid var(--color-link-focus-bg) !important;
+  background: var(--color-link-focus-bg) !important;
+}
+
+/* Style result items */
+#search .pagefind-ui__result {
+  border: 1px solid var(--color-border) !important;
+  background: var(--color-bg-secondary) !important;
+  border-radius: 4px !important;
+  padding: 1em !important;
+  margin-bottom: 0.5em !important;
+}
+
+#search .pagefind-ui__result-link {
+  color: var(--color-link) !important;
+  font-weight: 700 !important;
+}
+
+#search .pagefind-ui__result-link:hover {
+  color: var(--color-link) !important;
+  text-decoration: underline !important;
+}
+
+#search .pagefind-ui__result-excerpt {
+  font-size: 0.65625rem !important;
+  color: var(--color-text) !important;
+  margin-top: 0.5em !important;
+}
+
+/* Style message text */
+#search .pagefind-ui__message {
+  font-size: 0.65625rem !important;
+  color: var(--color-text-secondary) !important;
+}
+
+/* Adjust search icon size */
+#search .pagefind-ui__search-input::before {
+  width: 1.5em !important;
+  height: 1.5em !important;
+}
+</style>
+
 {% comment %}
 Get the most recent note
 {% endcomment %}
