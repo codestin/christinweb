@@ -23,7 +23,7 @@ tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, mar
 
 **2022-05-04 to 2022-05-18**
 
-- **Debug Your Meditation**
+- **[[Debug Your Meditation Acknowledgements|Debug Your Meditation]]**
   - Quiz + 1 pager diagnostic
   - Gumroad book (set up pre-order page with good copy)
   - 1:1 coaching (15 min like Michelle's Unstuck in 15)
@@ -53,7 +53,7 @@ tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, mar
 7. I was once stranded at a lake with 50 other people because a mud slide blocked the only road out of the area, once got hypothermia while hiking in the Sierras and a snowstorm hit us, once got hit by a sneaker wave off Santa Cruz and almost got washed away...hrmm...too many death defying stunts to name outside of the online life oops.
 8. I've been making websites since I was in middle school handcoding HTML in notepad, but now I'm lazy and use no-code tools. If I could freeze time, I would use the time to work on my website hahaha. I did a udacity course on AI and coded a flower classifier and want to use this skill in a small bet some time
 9. I'm into Buddhism but lately revisiting the Christian faith and trying to learn all I can about multifaith chaplaincy and intermingling of both schools of thought throughout history.
-10. I've probably taken more CBCs and online courses than most at this point (Write of Passage, Writing Studio with Michael Dean, Build a Second Brain, Sasha Chapin's Hate Writing Less, Michael Ashcroft's Expanding Awareness, Maven's CBC on how to make a CBC, Corey Wilk's Intentional Life Design...)
+10. I've probably taken more CBCs and online courses than most at this point (Write of Passage, Writing Studio with Michael Dean, [[Build A Second Brain Cohort 13|Build a Second Brain]], Sasha Chapin's Hate Writing Less, Michael Ashcroft's Expanding Awareness, Maven's CBC on how to make a CBC, Corey Wilk's Intentional Life Design...)
 
 ## Insights from group
 

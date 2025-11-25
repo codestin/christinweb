@@ -11,7 +11,7 @@ tags: [creative, healthcare, meditation, notes, courses, marketing, newsletters,
 - We are moving from the age of attention to the age of perspective. Perspective is the currency.
 - Recommend ONLY adding stuff to the second brain that is valued, use a read later app instead for everything else
 
-### My 12 Favorite Problems (Copied from Write of Passage Cohort 7)
+### My [[12 Favorite Problems]] (Copied from Write of Passage Cohort 7)
 
 1. How can I balance the drive for self-improvement and helping others, against unskillful attachment and clinging to desired conditions and outcomes?
 2. How can I share with others what I perceive may be of benefit and encourage uptake, without being a snake oil salesman (or having the fear of being perceived as one, stop me from sharing?)
@@ -45,7 +45,7 @@ tags: [creative, healthcare, meditation, notes, courses, marketing, newsletters,
     - Set up system for optimizing time for meditation and personal growth
     - Consulting
     - Alliance for Bhikkhunis
-    - Evening Drama Rebooted
+    - [[Evening Drama Rebooted]]
 
 - It's nice to be able to hide everything back into 4 neat boxes!
 - Recommend keeping projects small

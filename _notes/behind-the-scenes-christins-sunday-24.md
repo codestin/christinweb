@@ -29,7 +29,7 @@ Hello from a late Sunday evening! How is everyone adjusting to Daylight Savings 
 
 - 
 
-**[Build a Second Brain Live Notes](https://christinchong.com/build-a-second-brain-cohort-13)**: Because I’m either ambitious or foolhardy, I’m also in Cohort 13 for Build a Second Brain. TBH I haven’t really had time to engage as much as I wanted to, but I’m learning to take a back seat and experience a cohort-based course (CBC) from the perspective of a person who can’t devote that much time to it. I think I’m learning about how to run a CBC by experiencing what it’s like to under-participate as well, and thinking about how to design an experience that allows this time/effort flex.
+**[[Build A Second Brain Cohort 13|Build a Second Brain Live Notes]]**: Because I'm either ambitious or foolhardy, I'm also in Cohort 13 for [[Build A Second Brain Cohort 13|Build a Second Brain]]. TBH I haven’t really had time to engage as much as I wanted to, but I’m learning to take a back seat and experience a cohort-based course (CBC) from the perspective of a person who can’t devote that much time to it. I think I’m learning about how to run a CBC by experiencing what it’s like to under-participate as well, and thinking about how to design an experience that allows this time/effort flex.
 
 **3 Bullets of Vulnerability:**
 

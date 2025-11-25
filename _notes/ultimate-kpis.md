@@ -36,7 +36,7 @@ It's the part of you that yearns to share your personal truth. The part of you t
 
 ​The session is friendly to folks with a wide range of meditation experience (from no experience with meditation to a lifetime of practice.)
 
-​Christin Chong, PhD is a neuroscientist, chaplain-in-training, and the author of Debug Your Meditation. You can learn more about her Cohort 9 mentor sessions [here](https://christinchong.com/articles/overcome-writers-block-with-loving-kindness).
+​Christin Chong, PhD is a neuroscientist, chaplain-in-training, and the author of [[Debug Your Meditation Acknowledgements|Debug Your Meditation]]. You can learn more about her Cohort 9 mentor sessions [here](https://christinchong.com/articles/overcome-writers-block-with-loving-kindness).
 
 [Register Here](https://lu.ma/e8zjnbea)
 
