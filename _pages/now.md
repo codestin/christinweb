@@ -8,6 +8,10 @@ permalink: /now
 
 If you had found this page through [nownownow.com](http://nownownow.com/), a special hello to a fellow Sivers fan! Please feel free to poke around my [homepage](/index).
 
+## Last Updated 2025-11-24
+
+Updating this homepage :) I will likely turn this /now page into my newsletter, since I usually write to folks about updates anyway!
+
 ## Last Updated 2024-04-06
 
 ### Cultivation:
