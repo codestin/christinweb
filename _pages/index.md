@@ -23,12 +23,12 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
 <div class="home-sections">
   <div class="home-section">
     <h3><a href="/notes" class="internal-link">Notes</a></h3>
-    <p>Thoughts, essays, and reflections on spirituality, meditation, and creative practice</p>
+    <p>Thoughts, essays, and reflections on healthcare, creative practice, and meditation</p>
   </div>
 
   <div class="home-section">
     <h3><a href="/projects" class="internal-link">Projects</a></h3>
-    <p>Selected projects, case studies, and creative work</p>
+    <p>Check out Reframe Science, The OK Banger Show, and Debug Your Meditation</p>
   </div>
 
   <div class="home-section">
