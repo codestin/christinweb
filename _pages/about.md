@@ -32,7 +32,7 @@ A designated Word of the Year to live by, yearly since 2020
 [Favorite Apps](/favorite-apps)
 
 ## Colophon
-- This homepage adheres to [Publish (on your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE) principles. I had dabbled in the past. (Let's just say it was a bit of a pain re-gathering all my writing and I wouldn't wish it upon others!) 
+- This homepage adheres to [Publish (on your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE) principles. I had dabbled in the past and finally committed to doing this. (Let's just say it was a pain re-gathering all my writing from various social platforms and I wouldn't wish it upon others!) 
 - It was built with claude code inside cursor based on Maxime Vaillancourt's [digital garden Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template), hosted on [github](https://github.com/codestin/christinweb) and deployed using netlify. 
 - The design and organization such as tagging is inspired by [Steph Ango](https://stephango.com/) and his color scheme [Flexoki.](https://stephango.com/flexoki)
 - The font size hierarchy follows suggestions from my friend [Kevin McGillivray](https://www.kevinmcgillivray.net/)'s [typeguide.css.](https://github.com/kmcgillivray/typeguide.css)
