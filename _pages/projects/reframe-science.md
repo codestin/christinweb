@@ -1,66 +1,79 @@
 ---
 layout: page
-title: OK Banger Show
-permalink: /projects/ok-banger-show
+title: Reframe Science
+permalink: /projects/reframe-science
 ---
 
-**Watch on YouTube:** [youtube.com/@okbangershow](http://youtube.com/@okbangershow)
+## study your health like a compassionate scientist
+
+### with frameworks grounded in neuroscience and applied buddhism
+
+reframe science is a curated community for entrepreneurs, builders, and high-agency individuals taking charge of healthcare for themselves and their loved ones.
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://zcal.co/i/RDJ1Enzv" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 1.5rem 3rem; background-color: #034648; color: white; border-radius: 8px; text-decoration: none; font-size: 1.5rem; font-weight: 600; transition: all 0.3s;">apply for membership →</a>
+</div>
 
 ---
 
-## ok banger is a live podcast about striving to be a good person IRL, online, and onchain.
+## the healthcare system is frustrating.
 
-[@cameron](https://warpcast.com/cameron) and [@christin](https://warpcast.com/christin) foster high quality content and conversations by analyzing bangers and broadcasting farcaster energy.
+making informed decisions for yourself and your loved ones is challenging.
 
-## stats.
+**do you deal with...**
 
-**since august 13, 2024:**
+- an overwhelming amount of health-related info, with experts offering conflicting advice?
+- insurance companies make it hard to access healthcare providers and services?
+- chronic or mysterious health conditions?
+- not knowing the alpha on truly impactful healthcare innovation?
 
-- **12K** views, 9.8**K** unique viewers, **264** watch hours
-- **309** youtube subscribers
-- **339** mints on base 🔵, **3rd trending** on [pods.media/okbanger](http://pods.media/okbanger)
-- **520 [/okbanger](https://warpcast.com/~/channel/okbanger)** channel followers
-- **>100** languages available as closed caption with live caption in english
+the best way to overcome these challenges is to connect with others, learn to think like a scientist, and drive systemic change through fun and thoughtful experimentation.
 
-## support us.
+that's what reframe science is for.
 
-1. **subscribe** and watch the [**ok banger show**](https://www.youtube.com/@okbangershow) on youtube
-2. **mint** episodes on [**pods.media/okbanger**](http://pods.media/okbanger)
-3. **follow** [**/okbanger**](https://warpcast.com/~/channel/okbanger), [**@christin**](https://warpcast.com/christin), and [**@cameron**](https://warpcast.com/cameron) on farcaster
+joining reframe science gives you immediate access to a crew of people willing to drive systemic change in the healthcare system.
 
-### sponsor ok banger and reach the most energized audience on farcaster.
+---
 
-**DC [@christin](https://warpcast.com/christin) on farcaster or email at [christinchong@gmail.com](mailto:christinchong@gmail.com) for details.**
+## member benefits
 
-## bios.
+🔮 **monthly hand-in-hand video chats** with reframe science founder christin chong, phd to co-design your personal healthcare experiments
 
-### christin chong, phd
+💬 **a private discord community** with the crew of reframe scientists to discuss and share their latest findings. this will be a unique place to learn about new research tools, healthcare products, and emergent discoveries.
 
-<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
-  <img src="/assets/images/projects/christin-okbanger-1.png" alt="Christin Chong" style="width: 200px; height: auto;">
-  <img src="/assets/images/projects/christin-okbanger-2.png" alt="Christin Chong portrait" style="width: 200px; height: auto;">
+📚 **a compendium of reframe science community discussions and frameworks** to sharpen your scientific intuition.
+
+---
+
+## who is reframe science for?
+
+ideal reframe science members are entrepreneurs and builders willing to apply their self-starter ethos to healthcare, whether for themselves, their loved ones, or to change the industry. they are open to experimentation and embrace graceful aging.
+
+**you would like reframe science if you want to:**
+
+⚡ explore orthogonal ideas and trends
+
+🤖 apply your technical expertise to build meaningful and/or fun healthcare projects
+
+🤝 meet cool and kind friends
+
+members are vetted in an initial interview to ensure mutual and community fit.
+
+---
+
+## about christin chong, phd
+
+<div style="display: flex; gap: 2rem; align-items: start; margin: 2rem 0;">
+  <img src="/assets/images/projects/christin-reframe.png" alt="Christin Chong" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <p>reframe science founder christin chong has a phd in neuroscience and cut her teeth in the pharmaceutical and biotech industry for over a decade.</p>
+    <p>she wants to help others by teaching them to think like a scientist, and informing them of the insider perspective on the healthcare players. she is also a certified chaplain with extensive experience in holding safe community containers and providing spiritual care.</p>
+  </div>
 </div>
 
-**christin chong** is a neuroscience phd, biotech marketer, buddhist/interfaith chaplain, and an onchain edutainer.
+---
 
-she has coached 400+ entrepreneurs including based on functional mindfulness principles, resulting in development of action-oriented mindsets and accelerated product launches. she authored [**debug Your meditation**](https://christinchong.gumroad.com/l/debug), a book on developing a joyful meditation habit.
+## testimonials for community spaces and coaching offered by christin chong, phd
 
-### cameron armstrong, mba
-
-<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
-  <img src="/assets/images/projects/cameron-okbanger-1.png" alt="Cameron Armstrong" style="width: 200px; height: auto;">
-  <img src="/assets/images/projects/cameron-okbanger-2.png" alt="Cameron Armstrong portrait" style="width: 200px; height: auto;">
-</div>
-
-**cameron armstrong** is a former military leadership instructor, harvard business school graduate, saas entrepreneur, and content creator.
-
-he has deployed in afghanistan as an infantry platoon leader, and founded and sold an e-commerce software startup for a 120M exit after 2 years. he is now building [**seemore.tv**](http://seemore.tv) to help creators make more money.
-
-## sponsors, collabs, and funding.
-
-- [**receipts.xyz**](http://receipts.xyz) - sponsored episode: speed.
-- [**spacetobe.xyz**](http://spacetobe.xyz/) - sponsored episode: iterate.
-- [**weponder.io**](https://weponder.io) - sponsored episode: question.
-- [**frames.sh**](http://frames.sh) by [**@king**](https://warpcast.com/king) - built the ok banger jukebox frame.
-- [**octant x purple retroactive public goods funding**](https://rounds.wtf/purple/octant-x-purple-retroactive-public-goods-funding-1) - 🥉 **in funding**
-- [**coinbase wallet onchain summer experience**](https://wallet.coinbase.com/home/explore?experience=creator) [partner](https://warpcast.com/christin/0xdd93e263)
+<div class="senja-embed" data-id="be031d1e-e88e-478e-88f1-3b3e6273aaa5" data-mode="shadow" data-lazyload="false"></div>
+<script async type="text/javascript" src="https://static.senja.io/dist/platform.js"></script>
