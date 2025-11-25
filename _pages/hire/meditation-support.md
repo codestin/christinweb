@@ -92,7 +92,6 @@ I’ve been through extremely intense, achievement-oriented environments (PhD tr
 
 ### How much does this cost?
 I charge USD$2800.00 for 8 x 1-hour sessions with direct message support between sessions. For those who are unable to make this financial exchange but are in need of support, you will not be turned away.
----
 
 ### *I work with a limited number of clients to ensure dedicated coaching support.*
 
