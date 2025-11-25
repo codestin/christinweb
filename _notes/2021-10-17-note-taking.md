@@ -19,11 +19,3 @@ tags: [creative, notes, courses, newsletters, tools, writings]
 ## My own questions
 
 - How does Fei-Ling have a calendar in Obsidian?
-
-**If you like these notes, go to [https://christinchong.com](https://christinchong.com/) for more notes & essays**
-
-**You can support my notetaking efforts by any of the following:**
-- [Subscribing to my newsletter](https://christin.substack.com/)
-- [Following and DM-ing me on Twitter](https://twitter.com/christintweets)
-- [Schedule a chat](https://calendly.com/christinchong)
-- [Buy honeyritual tea](https://honeyritual.com/) (use CHRISTINSFRIEND10 for 10% off)

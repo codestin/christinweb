@@ -1,6 +1,6 @@
 ---
 layout: note
-title: an update from christin
+title: An Update From Christin
 date: 2024-10-25
 tags: [creative, healthcare, meditation, notes, courses, newsletters, relationships, web3, writings]
 ---
