@@ -36,9 +36,10 @@ permalink: /projects/ok-banger-show
 
 ### christin chong, phd
 
-![Christin Chong](/assets/images/projects/christin-okbanger-1.png)
-
-![Christin Chong portrait](/assets/images/projects/christin-okbanger-2.png)
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <img src="/assets/images/projects/christin-okbanger-1.png" alt="Christin Chong" style="width: 200px; height: auto;">
+  <img src="/assets/images/projects/christin-okbanger-2.png" alt="Christin Chong portrait" style="width: 200px; height: auto;">
+</div>
 
 **christin chong** is a neuroscience phd, biotech marketer, buddhist/interfaith chaplain, and an onchain edutainer.
 
@@ -46,9 +47,10 @@ she has coached 400+ entrepreneurs including based on functional mindfulness pri
 
 ### cameron armstrong, mba
 
-![Cameron Armstrong](/assets/images/projects/cameron-okbanger-1.png)
-
-![Cameron Armstrong portrait](/assets/images/projects/cameron-okbanger-2.png)
+<div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+  <img src="/assets/images/projects/cameron-okbanger-1.png" alt="Cameron Armstrong" style="width: 200px; height: auto;">
+  <img src="/assets/images/projects/cameron-okbanger-2.png" alt="Cameron Armstrong portrait" style="width: 200px; height: auto;">
+</div>
 
 **cameron armstrong** is a former military leadership instructor, harvard business school graduate, saas entrepreneur, and content creator.
 
