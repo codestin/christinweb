@@ -1,5 +1,5 @@
 [build]
-  command = "jekyll build --trace && npx pagefind --source _site"
+  command = "jekyll build --trace && npx pagefind --site _site"
   publish = "_site"
 
 # Redirect old Writing URLs to Notes

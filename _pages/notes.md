@@ -5,7 +5,7 @@ permalink: /notes
 ---
 
 # Notes
-Most of these notes pre-date AI, and I generally don't use AI to write my first drafts because the act of writing is the fun part. I do use AI sometimes for grammatical and structural clean up, and for tagging/organizing.
+Most of these notes pre-date AI, and I generally don't use AI to write my first draft because the act of writing is the fun part. I do use AI sometimes for grammatical and structural clean up, and for tagging/organizing.
 
 ## Search
 

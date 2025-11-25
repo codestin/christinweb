@@ -5,8 +5,6 @@ date: 2024-01-01
 tags: [word, personal]
 ---
 
-# Word of 2024 - CozyGoober
-
 ## Backstory: What is Choose One Word?
 
 - [Choose One Word](https://learn.cleverness.com/word/vposj) is a self-guided annual ritual taught by the Dr. Jason Fox. Dr. Fox is a metamodern wizard on a quest to create a world more curious and kind (with a PhD in motivational sciences.) The premise of the program is simple--choose one word that will guide behaviors, decisions, and goals for the year (or however long you wish.)

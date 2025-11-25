@@ -5,8 +5,6 @@ date: 2021-01-01
 tags: [word, personal]
 ---
 
-# Word of 2021 - 氣
-
 ## Embodied but Abandoned Words for 2021
 
 ### mercury ⚕️

@@ -5,8 +5,6 @@ date: 2024-11-18
 tags: [personal, tools]
 ---
 
-# Favorite Apps
-
 ## Writing
 
 - [Obsidian](https://obsidian.md)

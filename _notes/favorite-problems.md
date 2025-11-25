@@ -5,8 +5,6 @@ date: 2025-06-28
 tags: [personal]
 ---
 
-# 12 Favorite Problems
-
 ## 2025-06-28 Update
 
 ![12 Favorite Problems diagram](/assets/images/notes/favorite-problems-diagram.png)

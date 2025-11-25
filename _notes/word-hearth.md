@@ -5,8 +5,6 @@ date: 2020-01-01
 tags: [word, personal]
 ---
 
-# Word of 2020 - Hearth
-
 ---
 
 ## Backstory: What is Choose One Word?

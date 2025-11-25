@@ -5,8 +5,6 @@ date: 2023-04-16
 tags: [creative, healthcare, notes, courses, marketing, newsletters, relationships, resources, tools, writings]
 ---
 
-# The Five Lightbulbs Marketing Framework
-
 **Welcome to the World of The Five Lightbulbs!**
 
 The Five Lightbulbs is a new messaging framework that will help you sell your product or service. Use it to craft a marketing message that is clear, complete, and compelling.

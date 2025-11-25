@@ -5,8 +5,6 @@ date: 2023-01-01
 tags: [word, personal]
 ---
 
-# Word of 2023 - Stars
-
 I didn't really work on populating this page last year 😅 though it was my early foray in generative AI art!
 
 - Stardust - don't take it so seriously

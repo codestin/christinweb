@@ -15,7 +15,6 @@ I'm a biotech strategy leader, a medical education expert, and a neuroscience Ph
 I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative entrepreneur.
 
 - I provide chaplaincy services in modern, accessible, and creative formats: through **writing**, **courses**, **coaching**, and **stand-up comedy**.
-- I'm currently hosting an interfaith spiritual community on a new social platform known as **Farcaster**. You are welcomed to join us!
 
 <hr class="section-divider">
 
