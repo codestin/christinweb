@@ -48,7 +48,7 @@ permalink: /topics
             <li>
               <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
               {% if note.last_modified_at %}
-                <span class="note-date"> - {{ note.last_modified_at | date: "%b %-d, %Y" }}</span>
+                <span class="note-date"> - {{ note.last_modified_at | date: "%Y-%m-%d" }}</span>
               {% endif %}
             </li>
           {% endif %}

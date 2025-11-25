@@ -54,7 +54,7 @@ I read every email and will respond promptly.
 
 I'm available for **remote** and **on-site** events, and look forward to co-developing a **memorable comedic and spiritual experience** with you.
 
-You can access my [[media kit]] here: [/speaking/media-kit](/speaking/media-kit)
+You can access my media kit here: [/speaking/media-kit](/speaking/media-kit)
 
 I can be found online in these places, and I appreciate the opportunity to get to know you!
 
