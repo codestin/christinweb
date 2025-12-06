@@ -4,6 +4,9 @@ exclude:             ['_includes/notes_graph.json']
 # You may need to change the base URL depending on your deploy configuration.
 baseurl:             ''
 
+# Canonical URL for SEO (used for sitemap, meta tags, etc.)
+url:                 'https://christinchong.com'
+
 # Prevent future-dated posts from being published
 # This filters out posts with dates in the future
 future:              false

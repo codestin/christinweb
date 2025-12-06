@@ -12,3 +12,47 @@
   from = "/writing/*"
   to = "/notes"
   status = 301
+
+# Legacy URL redirects from Super.so site (SEO preservation)
+[[redirects]]
+  from = "/offerings"
+  to = "/projects"
+  status = 301
+
+[[redirects]]
+  from = "/book"
+  to = "/projects/debug-your-meditation"
+  status = 301
+
+[[redirects]]
+  from = "/courses"
+  to = "/projects"
+  status = 301
+
+[[redirects]]
+  from = "/coaching"
+  to = "/hire/coaching"
+  status = 301
+
+[[redirects]]
+  from = "/speaking"
+  to = "/hire/consulting"
+  status = 301
+
+[[redirects]]
+  from = "/consulting"
+  to = "/hire/consulting"
+  status = 301
+
+# chong.consulting domain redirect (all paths -> consulting page)
+[[redirects]]
+  from = "https://chong.consulting/*"
+  to = "https://christinchong.com/hire/consulting"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.chong.consulting/*"
+  to = "https://christinchong.com/hire/consulting"
+  status = 301
+  force = true
