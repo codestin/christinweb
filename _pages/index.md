@@ -14,7 +14,7 @@ I'm a biotech strategy leader, a medical education expert, and a neuroscience Ph
 
 I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative entrepreneur.
 
-- I provide chaplaincy services in modern, accessible, and creative formats: through **writing**, **courses**, **coaching**, and **stand-up comedy**.
+- I provide chaplaincy services in modern, accessible, and creative formats: through **writing**, **projects** and **coaching.**
 
 <hr class="section-divider">
 
