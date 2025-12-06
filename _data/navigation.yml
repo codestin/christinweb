@@ -17,11 +17,9 @@ main:
     url: /hire
     children:
       - title: Healthcare Consulting
-        url: /hire/healthcare-consulting
-      - title: Creativity Coaching
-        url: /hire/creativity-coaching
-      - title: Meditation Support
-        url: /hire/meditation-support
+        url: /hire/consulting
+      - title: Coaching
+        url: /hire/coaching
 
   - title: About
     url: /about
@@ -53,11 +51,9 @@ footer:
     url: /hire
     children:
       - title: Healthcare Consulting
-        url: /hire/healthcare-consulting
-      - title: Creativity Coaching
-        url: /hire/creativity-coaching
-      - title: Meditation Support
-        url: /hire/meditation-support
+        url: /hire/consulting
+      - title: Coaching
+        url: /hire/coaching
 
 # Social links
 social:
