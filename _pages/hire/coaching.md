@@ -97,4 +97,11 @@ I charge USD$2800.00 for 8 x 1-hour sessions with direct message support between
 
 ---
 
+## Testimonials
+
+<div class="senja-embed" data-id="be031d1e-e88e-478e-88f1-3b3e6273aaa5" data-mode="shadow" data-lazyload="false"></div>
+<script async type="text/javascript" src="https://static.senja.io/dist/platform.js"></script>
+
+---
+
 [Back to Hire Me](/hire)
