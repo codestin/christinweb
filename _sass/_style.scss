@@ -349,75 +349,16 @@ footer {
   .footer-newsletter {
     max-width: 500px;
 
-    .newsletter-form {
-      display: flex;
-      flex-direction: column;
-      gap: 0.5em;
-    }
-
-    .newsletter-field {
-      display: flex;
-      gap: 0.5em;
-      flex-wrap: wrap;
-      align-items: center;
-    }
-
     .newsletter-label {
       font-size: $font-size-small;
       color: var(--color-text);
       font-weight: 700;
-      margin-right: 0.5em;
+      margin-bottom: 0.5em;
     }
 
-    .newsletter-input {
-      font-family: $font-family;
-      font-size: $font-size-small;
-      padding: 0.5em 0.75em;
-      background: var(--color-bg-secondary);
-      border: 1px solid var(--color-border);
-      border-radius: $border-radius;
-      color: var(--color-text);
-      transition: background 300ms ease, border-color 300ms ease;
-      flex: 1;
-      min-width: 200px;
-
-      &::placeholder {
-        color: var(--color-text-secondary);
-      }
-
-      &:hover {
-        border-color: var(--color-link);
-      }
-
-      &:focus {
-        outline: 2px solid var(--color-link-focus-bg);
-        outline-offset: 2px;
-        background: var(--color-link-focus-bg);
-        border-color: var(--color-link);
-      }
-    }
-
-    .newsletter-submit {
-      font-family: $font-family;
-      font-size: $font-size-small;
-      padding: 0.5em 1em;
-      background: transparent;
-      border: 1px solid var(--color-link);
-      border-radius: $border-radius;
-      color: var(--color-link);
-      cursor: pointer;
-      transition: background 300ms ease, color 300ms ease;
-      font-weight: 700;
-
-      &:hover {
-        background: var(--color-link-hover-bg);
-      }
-
-      &:focus {
-        outline: 2px solid var(--color-link-focus-bg);
-        outline-offset: 2px;
-        background: var(--color-link-focus-bg);
-      }
+    iframe {
+      max-width: 100%;
+      display: block;
     }
   }
 
