@@ -18,6 +18,15 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
 
 <hr class="section-divider">
 
+## Projects
+
+- **[GumLeaf](https://getgumleaf.com)** — Text any question, get a real answer back by SMS — even over satellite, off the grid. No app, no account. A service of **Chong Consulting LLC**. [getgumleaf.com](https://getgumleaf.com)
+- **[OK Banger Show](/projects/ok-banger-show)** — A live podcast about being a good person IRL, online, and onchain, co-hosted with Cameron Armstrong.
+- **[Reframe Science](/projects/reframe-science)** — A curated community for entrepreneurs and builders to study health like a compassionate scientist.
+- **[Debug Your Meditation](/projects/debug-your-meditation)** — A book that transforms meditation from a chore to "I want more!"
+
+<hr class="section-divider">
+
 ## Explore
 
 <div class="home-sections">
@@ -28,7 +37,7 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
 
   <div class="home-section">
     <h3><a href="/projects" class="internal-link">Projects</a></h3>
-    <p>Check out Reframe Science, The OK Banger Show, and Debug Your Meditation</p>
+    <p>Check out GumLeaf, Reframe Science, The OK Banger Show, and Debug Your Meditation</p>
   </div>
 
   <div class="home-section">
