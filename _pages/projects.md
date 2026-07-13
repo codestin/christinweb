@@ -4,6 +4,14 @@ title: Projects
 permalink: /projects
 ---
 
+## [GumLeaf](https://getgumleaf.com)
+
+Text any question and get a real answer back by SMS — weather, how-tos, anything — even over satellite, ten miles past your last bar of signal. No app, no account: your phone number is your account. Operated by Chong Consulting LLC.
+
+[Visit getgumleaf.com](https://getgumleaf.com)
+
+---
+
 ## [OK Banger Show](/projects/ok-banger-show)
 
 A live podcast about being a good person IRL, online, and onchain. Co-hosted with Cameron Armstrong, we analyze bangers and broadcast Farcaster energy.
