@@ -6,6 +6,8 @@ main:
   - title: Projects
     url: /projects
     children:
+      - title: GumLeaf
+        url: https://getgumleaf.com
       - title: Reframe Science
         url: /projects/reframe-science
       - title: OK Banger Show
@@ -40,6 +42,8 @@ footer:
   - title: Projects
     url: /projects
     children:
+      - title: GumLeaf
+        url: https://getgumleaf.com
       - title: Reframe Science
         url: /projects/reframe-science
       - title: OK Banger Show
