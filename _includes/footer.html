@@ -6,9 +6,15 @@
         {% if item.children %}
           <div class="footer-subnav">
             {% for child in item.children %}
+              {% if child.url contains "://" %}
+              <a class="footer-subnav-link" href="{{ child.url }}" target="_blank" rel="noopener noreferrer">
+                {{ child.title }}
+              </a>
+              {% else %}
               <a class="internal-link footer-subnav-link" href="{{ site.baseurl }}{{ child.url }}">
                 {{ child.title }}
               </a>
+              {% endif %}
             {% endfor %}
           </div>
         {% endif %}
