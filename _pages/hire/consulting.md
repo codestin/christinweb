@@ -10,7 +10,9 @@ permalink: /hire/consulting
 
 I'm a healthcare marketer with a PhD in neuroscience. I help companies give their customers the knowledge to make real decisions—and become genuine advocates, not just buyers.
 
-[Book a Free Consultation](https://zcal.co/i/jUGywbl-)
+**A note on availability:** I'm currently working full time at Guardant Health and am not doing paid consulting at the moment. That said, if you're in the industry, let's connect anyway—I'd love to hear what you're working on and see how I can help.
+
+[Let's Connect](https://zcal.co/i/jUGywbl-)
 
 ---
 
@@ -47,7 +49,7 @@ Reduce operational complexity through AI automation—so you can focus on the wo
 
 ---
 
-[Book a Free Consultation](https://zcal.co/i/jUGywbl-)
+[Let's Connect](https://zcal.co/i/jUGywbl-)
 
 ---
 

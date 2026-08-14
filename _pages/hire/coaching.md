@@ -88,8 +88,12 @@ My goal is to be the least stressful coach you've ever had.
 
 I've been through extremely intense, achievement-oriented environments (PhD training, powerlifting), and I don't believe we need to recreate that dynamic for practice to be effective. We'll use structure and accountability, but in service of kindness.
 
-### How much does this cost?
-I charge USD$2800.00 for 8 x 1-hour sessions with direct message support between sessions. For those who are unable to make this financial exchange but are in need of support, you will not be turned away.
+### How does payment work?
+This work is offered in the spirit of dana—the early Buddhist practice of generosity. There is no fee.
+
+Instead, those I work with offer gifts, freely given, to help sustain this work. A gift is not a payment in exchange for services; it is an expression of generosity, offered according to your means and what the work has meant to you. If you're unsure what feels appropriate, we can reflect on it together.
+
+No one is turned away.
 
 ### *I work with a limited number of clients to ensure dedicated coaching support.*
 
