@@ -6,9 +6,9 @@ permalink: /hire
 
 ## [Healthcare Consulting](/hire/consulting)
 
-I'm a healthcare marketer with a PhD in neuroscience. I help companies give their customers the knowledge to make real decisions—and become genuine advocates, not just buyers.
+I'm a healthcare marketer with a PhD in neuroscience. I'm currently working full time at Guardant Health and not doing paid consulting at the moment—but if you're in the industry, let's connect anyway and see how I can help.
 
-[Book a Free Consultation](https://zcal.co/i/jUGywbl-)
+[Let's Connect](https://zcal.co/i/jUGywbl-)
 
 ---
 
