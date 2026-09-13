@@ -43,7 +43,7 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
 
   <div class="home-section">
     <h3><a href="/hire" class="internal-link">Hire Me</a></h3>
-    <p>Work with me on strategic engagements, education, coaching, and more</p>
+    <p>Coaching on meditation, creative practice, and sustainable output</p>
   </div>
 
   <div class="home-section">

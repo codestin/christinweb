@@ -2,52 +2,49 @@
 layout: page
 title: Healthcare Consulting
 permalink: /hire/consulting
+subtitle: "Closed to new client work. I'm full time at Guardant Health."
 ---
 
-# Healthcare Consulting
+**I'm not taking consulting clients right now.** My working hours belong to Guardant Health, where I'm on staff full time, and I don't take outside client work alongside it.
 
-# Grow your business by educating your customers.
+This page stays up for two reasons. People still ask what the work covered, and I still like talking to the people who do it.
 
-I'm a healthcare marketer with a PhD in neuroscience. I help companies give their customers the knowledge to make real decisions—and become genuine advocates, not just buyers.
+## What the work covered
 
-[Book a Free Consultation](https://zcal.co/i/jUGywbl-)
+Healthcare marketing, from the angle of a neuroscience PhD. The through line was giving customers enough real knowledge to make a decision they could stand behind.
 
----
+### Strategy
+Positioning a product so it's the obvious choice, through clarity rather than spin.
 
-## I've worked with
+### Partnerships
+Building relationships with educated customers and industry partners who understand the work.
 
-Fortune 500 companies, startups, and creative entrepreneurs in healthcare and tech.
+### Digital
+Designing experiences and interaction flows that keep discerning customers engaged past the first click.
+
+### Content
+Messaging that holds up across very different levels of customer knowledge, from novice to expert.
+
+### Operations
+Reducing operational complexity through automation, so the team's time goes to the work that matters.
+
+## Who I worked with
+
+Fortune 500 companies, startups, and creative entrepreneurs across healthcare and tech.
 
 Genentech, Roche, Natera, Eisai, Amgen, Mallinckrodt, Coherus, Cancer Expert Now, Pfizer, Merck, Exelixis, Wheelchair88, Google, Agility.io, Fabric, Gallery.so, fx(hash), Elephas, Ponder
-
----
 
 ## Therapeutic areas
 
 Oncology, ophthalmology, nephrology, neurology, pulmonology, rheumatology, cardiology, rare diseases, genetic testing
 
----
+## Talking shop
 
-## What I do
+I like meeting people working on hard problems in diagnostics, patient education, and healthcare marketing. I also like answering questions from people earlier on the path, especially the one about going from a neuroscience PhD into industry.
 
-### STRATEGY
-Position your product so it's the obvious choice—not through spin, but through clarity.
+If that's you, find a time and we'll talk. There's nothing to buy and nothing to sign. I'm not going to follow up with a proposal.
 
-### PARTNERSHIPS
-Build relationships with educated customers and industry partners who actually get what you're doing.
-
-### DIGITAL
-Design experiences and interaction flows that keep discerning customers engaged—not just clicking.
-
-### CONTENT
-Develop coherent messaging that works across diverse customer knowledge levels, from novice to expert.
-
-### OPERATIONS
-Reduce operational complexity through AI automation—so you can focus on the work that matters.
-
----
-
-[Book a Free Consultation](https://zcal.co/i/jUGywbl-)
+[Find a time to talk](https://zcal.co/i/jUGywbl-)
 
 ---
 
