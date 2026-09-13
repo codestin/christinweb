@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Christin's Behind-the-Scenes Sunday 🎥
+title: Christin's Behind-the-Scenes Sunday
 date: 2022-01-23
 tags: [creative, meditation, notes, buddhist-teachings, courses, newsletters, relationships, writings]
 ---
@@ -31,13 +31,9 @@ So what I’m trying to say is*…I need to be more ok with sharing the real rea
 
 I ultimately want to be be able to live an Engaged Buddhist framework, because I believe it is well thought-out and can relieve the suffering of human beings effectively. 
 
-- 
-
 I’m doing it directly through social media, because it’s where people absorb information. In the process of sharing, I get to re-examine whether my understanding is correct or not, and identify my blind spots.
-- 
 
 I run the [Alliance for Bhikkhunis](http://bhikkhuni.net/) because it directly contributes to the sustainability of the teachings, and to correct for misogynistic beliefs collected through centuries of Asian culture after the Buddha passed away. That’s the belief that women cannot be monastics and therefore not be eligible for the most devoted path towards enlightenment.
-- 
 
 I work on businesses that can contribute towards financial stability for my family, so that I can devote more time and effort towards the first two, and towards practice itself. Without the ability to make time and effort towards formal practice with time for meditation retreats, my understanding remains shallow and what I can contribute also stays shallow.
 

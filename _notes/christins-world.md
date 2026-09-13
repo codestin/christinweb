@@ -27,52 +27,35 @@ Or think of the movie Inside Out, with our various emotions deciding what we wil
 Those of you who get random DMs from me throughout the day may observe an obvious phenomenon that happens. There seems to be various Christins cycling throughout the day, vying for the steering wheel! Let me introduce you to…
 #### Goofy Christin
 
-- 
-
 The most prominent personality, the one in charge of today’s newsletter. She makes stupid jokes, swears, and is a bit fourth-wall breaking like Abed in the TV show Community.
-- 
 
 She constantly generates random ideas to amuse herself, but doesn’t want to do them. She hands them off to Entrepreneur Christin to deal with.
 
 #### Chaplain Christin
 
-- 
-
 The peaceful, calm, good listener who mentored for Write of Passage and is now happily chugging along in her chaplaincy class. Optimistic and aspirational without being bogged down.
-- 
 
 She gets very little time at the steering wheel because by definition she doesn’t crave control…
 
 #### Entrepreneur Christin
 
-- 
-
 Gets handed giant todo list of possibilities from Goofy Christin, and gets annoyed at Chaplain Christin for not taking care of her financial safety.
-- 
 
 Thinks she’s the only one working around here! Imagine her wearing a headset holding a clipboard like a stage manager.
-- 
 
 Yanks for the steering wheel away from Goofy Christin and Chaplain Christin often.
 
 #### Housewife Christin
 
-- 
-
 Tidying, decluttering, industrious in household duties. She can watch YouTube cooking shows all day. 
-- 
 
 Gets resentful when she doesn’t get enough time at the steering wheel, because she can see the dishes pile up and the trash can overflow. We can’t always be working!
 
 #### Dark Christin
 
-- 
-
 The “exiled” part of Christin who doesn’t see the point in doing anything. Self-destructive and stares into the abyss.
-- 
 
 Yet she exists to protect the traumatized parts, and is the one who can pull the emergency brake when an accident occurs.
-- 
 
 She hasn’t appeared in a long time thanks to friends, traditional Chinese medicine, and strengthened resolve from Chaplain Christin.
 

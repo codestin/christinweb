@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Christin's Behind-the-Scenes Sunday 🎥
+title: Christin's Behind-the-Scenes Sunday
 date: 2022-05-22
 tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, tools, writings]
 ---

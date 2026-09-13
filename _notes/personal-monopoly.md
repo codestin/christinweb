@@ -21,10 +21,7 @@ Here are new mini-coaching videos in response to your questions:
 
 [Find Cozy Communities Beyond Social Media Platforms](https://christin.notion.site/Find-Cozy-Communities-Beyond-Social-Media-Platforms-4b0faba497cb4c5fa3b8f73d848c5086?pvs=4)
 
-- 
-
 Please ask questions [here](https://twitter.com/Christintweets/status/1658968072550780928) and I’ll respond by adding another video to the database!
-- 
 
 If you want *all* the mini-coaching videos in a neat searchable Notion database, please add Insight Writing Club to your Gumroad library [here](https://christinchong.gumroad.com/l/insightwritingclub).
 

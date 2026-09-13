@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Christin's Behind-the-Scenes Sunday 🎥 : YouTube!"
+title: "Christin's Behind-the-Scenes Sunday: YouTube!"
 date: 2022-04-25
 tags: [creative, healthcare, notes, courses, newsletters, personal-growth, relationships, resources, tools, writings]
 ---
@@ -17,25 +17,17 @@ My goal is 1K subs and 4K watch hours (minimum to monetization), and take you al
 
 ## YouTube Development Timeline to 1st Video:
 
-- 
-
 Over 2 weeks to set up my video production space
-- 
 
 4 min 50s to film in one take
-- 
 
 5 min to make the thumbnail
-- 
 
 10 min to add descriptions and tags, upload
 
 ## The Decent:
 
-- 
-
 Streaming 100 episodes of Evening Drama has helped me do a decent job with a one-take video (you can see the difference in my personal comfort with being filmed between **[Episode 1](https://www.youtube.com/watch?v=XcO97V73FBQ)** and **[Episode 100](https://www.youtube.com/watch?v=OPtxcgyZYDY)**, over the span of 2 years.) Visa’s **[Do 100 Thing](https://www.visakanv.com/blog/100-2/)** framework just works.
-- 
 
 The set and lighting setup was done in collaboration with my coach and friend **[Joshua Berrios](https://twitter.com/IxoyeDesign)**. I met Joshua as a fellow host for Flow Club, and I was blown away by how good his video looked compared to the rest of us. It has been instrumental get specific skills coaching as foundation instead of self-teaching through YouTube or a full-blown cohort-based course. As I explained to my friend Lyssa... it's like going to the doctor who can diagnose your issues, rather than guessing what they are by yourself.
 
@@ -65,28 +57,19 @@ Before listing the litany of things to improve, one thing I want to note is that
 
 **Here’s a compilation of issues I spotted the moment I hit stop recording, and kind friends who gave me feedback (keep them coming!)**
 
-- 
-
 Look at the LENS and not the screen preview! Duh!
-- 
 
  Lean back and not towards the camera, adjust camera height so it's more eye level
-- 
 
 Shoot directly, don't use Zoom (I did this to uh, "touch up my appearance", but Zoom's native resolution is too low and the audio quality isn't that great.)
-- 
 
 Fix overall audio issues (found a tutorial on using OBS to filter mics...)
-- 
 
 Provide CONTEXT for the story I'm telling (something I'm known to skip IRL too…)
-- 
 
 Cut the end part when I look at the screen to hit stop recording
-- 
 
 Add visuals when relevant to explanation (I might literally just hold up an iPad with prepared visuals to save some editing time)
-- 
 
 Optimize YouTube tags, key words, etc. with tools
 

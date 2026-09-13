@@ -11,10 +11,7 @@ Dear Friends,
 
 As a Buddhist Chaplain-In-Training, I'm finding great joy to have conversations with spiritual friends. There’s two that happened in the past week:
 
-- 
-
 An interfaith conversation with [Liz Cooledge Jenkins](https://linktr.ee/lizcoolj), a Christian author/preacher/minister/chaplain
-- 
 
 A podcast with [Will Mannon](https://twitter.com/will_mannon), the co-founder of Write of Passage. (I’m returning as an editor for WOP in the upcoming cohort, by the way!)
 
@@ -34,13 +31,9 @@ This was one of the most challenging things I’ve done in a long time, and I st
 
 This is a wonderful conversation to listen to if you want to…
 
-- 
-
 Geek out about the power of writing for finding one’s purpose
-- 
 
 Learn Mandarin or any other new language
-- 
 
 Watch two people interact in a whole new linguistic context!
 

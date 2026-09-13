@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Christin's Behind-the-Scenes Sunday 🎥
+title: Christin's Behind-the-Scenes Sunday
 date: 2022-02-14
 tags: [creative, meditation, notes, courses, newsletters, relationships, resources, writings]
 ---

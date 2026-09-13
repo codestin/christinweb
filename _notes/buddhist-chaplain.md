@@ -45,31 +45,21 @@ In our first chaplaincy class, we spent the entire day talking about what a chap
 
 Nonetheless, here is my accumulation of scenarios that led to the chaplaincy path. For brevity I will not go into too much detail here and skip over many important points of juncture, but I want to illustrate the ups and downs:
 
-- 
-
 Immigrant family story, going from extreme poverty to relative prosperity in one generation
-- 
 
 Dad got very sick, mom had to look after dad
-- 
 
 Extreme poverty, escaped from civil unrest
-- 
 
 Managed to get ahead in school, left home and went to college in the US, dabbled in Buddhism
-- 
 
 Studied neuroscience PhD and did a postdoc, got really into Buddhism
-- 
 
 Left academia and went into corporate America
-- 
 
 Felt joyless at job, decided to strike it out on my own
-- 
 
 Discovered Write of Passage and passion for writing about incorporating spirituality in everyday life
-- 
 
 Decided to become a Buddhist chaplain
 
@@ -77,16 +67,11 @@ It might *seem* like some kind of hero’s journey (bad stuff, really bad stuff,
 
 What I didn’t mention above was…
 
-- 
-
 How my mom didn’t have anyone to talk to, so I was her only companion through all the pains our family experienced. Endless one-sided conversations about how tragic our entire family’s lives are, with no coping skills taught to me as a child. If I can give my child-self a huge hug and get her out of there, I would. This is the primary reason why I wanted to pursue the chaplaincy training—I had/have emotionally shut down just to survive, and I would like to regain this capacity for myself, for my family, for everyone around the world. 
-- 
 
 How I got into Buddhism because I was clinically depressed. Graduate school was grinding me down and I felt like a complete failure who didn’t deserve to live.
-- 
 
 How my writing friends and the act of writing saved me from the pits of despair and cognitive deficits I experienced from a hormonal disorder.
-- 
 
 How I had wanted to become a Buddhist chaplain and train under Gil over 5 years ago, but never committed because I didn’t think I was good enough. Brave enough. Nor did my job allow me the flexibility to attend the program at the time, so this wasn’t possible until I started working for myself.
 

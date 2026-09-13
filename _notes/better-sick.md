@@ -36,15 +36,9 @@ I sprayed it, and instantly, it felt like someone PLUGGED IN MY POWER CORD. I ra
 
 This was a few weeks ago and I’ve since added a few more supplements to my arsenal, and together they seem to support a level of energy closer to what I had, though recovering from B12 deficiency takes time (closer to a year!) My scientist- and chaplaincy-trained mind introduced questions too, like:
 
-- 
-
 Are we really sure this is what happened? To prove my hypothesis, I should test for Intrinsic Factor antibodies, B12 metabolites, etc. (Thanks to our fave functional medicine expert  for putting up with my WhatsApp messages!) But the tricky thing is—I have already started restoring my B12 levels, so the data may not be clear!
 
-- 
-
 In light of all the health messages we are bombarded with, it is so hard to separate the wheat from the chaff. I often reference health influencer podcasts, dig a little, and find that the data do not support their conclusions. What can I do to help others come up with a heuristic that works for the average person?
-
-- 
 
 Spiritual practice relies on a foundation of reasonably good health, yet awakening does not prevent ill health. The OG Buddha realized that he couldn’t starve himself to enlightenment and ate the rice and milk porridge from Sujata. He had backaches as he aged (comparing his body to an old cart held together by straps.) Yet he asked for back massages from his disciples, and was able to relieve himself of pain by entering jhana (absorptive meditation.) How can we care for our worldly vessel without egotistically trying to not die? 
 
@@ -74,6 +68,6 @@ Christin
 
 **P.S. When you’re ready, here are ways I can support you:**
 
-➞ **[Debug Your Meditation](https://christinchong.gumroad.com/l/debug/NEWSLETTER)** — This book helps you build a joyful meditation habit.
+**[Debug Your Meditation](https://christinchong.gumroad.com/l/debug/NEWSLETTER)** — This book helps you build a joyful meditation habit.
 
-➞ **[1:1 Chat](https://zcal.co/christin/30min)** — Do you have a question about Buddhist practice, creative entrepreneurship, or just want to catch up? Let’s do that!
+**[1:1 Chat](https://zcal.co/christin/30min)** — Do you have a question about Buddhist practice, creative entrepreneurship, or just want to catch up? Let’s do that!

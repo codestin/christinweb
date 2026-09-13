@@ -19,7 +19,7 @@ Continuing the journey of holding space for writers, I’d like to announce…**
 
 [](https://substackcdn.com/image/fetch/$s_!R_oO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c8e3af0-f180-4ee4-9051-b148b1583585_1280x720.png)
 
-✍️** Build **a** rejuvenating writing system **based on **kindness **and **self-reflection**
+** Build **a** rejuvenating writing system **based on **kindness **and **self-reflection**
 
 **❤️‍🔥 Discover **your** truths **using **Buddhist** meditation **+ neuroscience **frameworks
 
@@ -29,37 +29,25 @@ Continuing the journey of holding space for writers, I’d like to announce…**
 
 ### **Who Is Kind Camp For?**
 
-- 
-
 You *might* want an **easier time writing consistently**, uplifted by kindness and encouragement.
-- 
 
 You *think* you found your personal monopoly/mission, but you're not quite sure. Maybe it includes *part* of who you are, but **you want to feel *****whole***.
-- 
 
 You *wonder* about how to **deepen your self-understanding**, perhaps as part of your **writing and/or spiritual practice.**
 
 ### **What Happens in Kind Camp Sessions?**
 
-- 
-
 I will provide **guided reflective writing and meditation practice** to support your self-discovery, based on **time-tested Buddhist + neuroscience themes**.
-- 
 
 We will **share our reflections **in the form of a **mantra** (~5 words) with each other to close the session.
-- 
 
 You will walk away from each session with **a piece of writing** that** reflects your true heart.**
-- 
 
 (Optional, via Discord) The community will workshop strategies and tactics for publicly sharing our writing **without vulnerability hangover**.
 
 ### **Community Schedule**
 
-- 
-
 We meet as a community **every other Thursday at 4-5PM PT** starting **December 1st, 2022** ([check your timezone](https://everytimezone.com/s/bf5d85ad))
-- 
 
 Community sessions and memberships are ongoing, with limited seats per quarter.
 
@@ -71,46 +59,27 @@ What I haven’t yet included in the Kind Camp landing page is the bigger missio
 
 *So here are a few bullets…*
 
-- 
-
 Point Z is some form of universal consciousness and/or ultimate happiness for everybody.
-- 
 
 Points Y to B are:
 
-  - 
-
 **Reflective writing:**
 
-    - 
-
 **What it is:** Reflective writing is the space between journaling and writing for an audience. How can we discover our vulnerable raw thoughts for ourselves, and then turn it into relatable and useful content for others? I have found a somewhat convoluted path to do this and can help others with theirs, but it will make sense to do so in community so we can put our heads together.
-    - 
 
 **How it helps:** Along with meditation, I believe that reflective writing guided by Buddhist teachings + neuroscience frameworks may help others with deep discoveries of themselves. So that they can understand and be kinder to themselves, and in turn, be kinder to others. The writing itself may also benefit others by helping others feel seen and heard, or through the practical benefit of its content.
-    - 
 
 **Why it’s needed:** Society is becoming increasing fractured, and writers can use their strengths in writing to heal the wounds. (This is a point that I’m still putting my finger on…because there’s actually a “split” in the type of people helped here. I can help introspective/reflective people be even more equipped, but I am unsure if this strategy can reach people who are not introspectively-inclined.)
 
-  - 
-
 **Vulnerable****writing pathway: **Right now, it’s quite challenging for most to share their most vulnerable selves through writing. Trolls abound and it’s easy to be misunderstood. But good writing is truthful writing, which sometimes means digging deep into one’s faults, insecurities, traumas. I had inadvertently stumbled upon defining the vulnerable → useful writing pathway for myself, and can help others with theirs.
-  - 
 
 **Mass Adoption:** How can I get an average person to be aware of reflective writing? 
 
-    - 
-
 It would be ideal to use traditional publishing as an avenue of influence.
-    - 
 
 It would be good if I can work with a community of kind writers who can help articulate the simplest, most effective path for reflective writing practices.
 
-  - 
-
 *…other points yet to be articulated…*
-
-- 
 
 Point A is [Kind Camp](https://christinchong.gumroad.com/l/kindcamp/newsletter)!
 

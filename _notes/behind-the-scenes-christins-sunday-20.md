@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Christin's Behind-the-Scenes Sunday 🎥: New Year Edition"
+title: "Christin's Behind-the-Scenes Sunday: New Year Edition"
 date: 2022-01-02
 tags: [creative, meditation, notes, newsletters, relationships, resources, tools, writings]
 ---
@@ -29,13 +29,9 @@ This also give me the confidence that I won’t be replaced by an AI anytime soo
 
 So why tweet so much for 2022? 
 
-- 
-
 Although Twitter has a weird reputation outside of its own bubble, I see **tweets as the minimum unit of creative output.** There’s a character limit, and I’m also pushing myself to illustrate ideas with original graphics to go along with them.
-- 
 
 What I’ve learned is that the moment I raise the bar for creative output, it drops precipitously for me because perfectionism creeps in. So Twitter’s format allows me to [make many little pots](https://www.backstage.com/magazine/article/thing-better-perfectionist-4601/) and iterate instead.
-- 
 
 The character limit also forces me to distill ideas, which is a skill more valued in today’s world of information overload. **[Expression is compression](https://www.youtube.com/watch?v=iw4_OUaLUUU)**.
 

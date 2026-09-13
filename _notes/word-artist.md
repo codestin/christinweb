@@ -5,7 +5,7 @@ date: 2022-01-01
 tags: [word, personal]
 ---
 
-# 🎨 Artist is my word of the year
+# Artist is my word of the year
 
 ## Principles
 

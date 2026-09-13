@@ -49,19 +49,13 @@ Vicky and I met through Write of Passage, and we took Rik van de Berge’s liste
 
 Here’s a ChatGPT-generated TLDW, but robots aren’t good at nuances so I recommend giving our video a listen (maybe do the dishes or laundry or something.)
 
-- 
-
 Christin and Vicky introduce themselves as brand strategist and a YouTuber who runs a channel on clear thinking and communication through the use of frameworks and note-taking. 
-- 
 
 They discuss the benefits and drawbacks of using frameworks and how it can help reduce complexities by breaking things down into basic components, although they acknowledge that it can be limiting and leave out nuances. 
-- 
 
 Vicky mentions that her journey has been about finding like-minded people who share her interests, which led her to create a community on Discord. 
-- 
 
 Christin shares her own community called Kind Camp, where she facilitates internal learning through reflective writing and guided meditation, allowing participants to access their subconscious minds. 
-- 
 
 They discuss the importance of self-exploration and how it can take courage to do so, but it's important to not let that fear stop them from seeking clarity on their personal mission or higher purpose.
 
@@ -82,9 +76,6 @@ Below is where I jot hot-off-the-press, top-of-mind, vulnerable thinking for pai
 
 I am working on a "dharmology" paper for chaplaincy training, which is kind of like a positional paper/mission statement. It will get into why I am choosing to serve through this work/spiritual integration path, instead of a purely spiritual one. 
 
-- 
-
 It traces back to childhood poverty and resulting traumatic growth Seeing how my family’s struggle with financial and physical health prevent them from having the headspace to think about spiritual health. This drove me to be who I am now, yet I also want to provide reasonable paths for people to elevate their financial as well as spiritual well-being.
-- 
 
 It would feel more comfortable for me to charge sustainably if what I am providing directly pertains to financial well-being (in addition to spiritual well-being.)

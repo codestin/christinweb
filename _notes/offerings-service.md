@@ -13,10 +13,7 @@ Excuse the dust as I’ve been making changes to this newsletter. I’m upgradin
 
 Thank you for being OGs!
 
-- 
-
 The free tier will focus on supporting readers towards a life filled with joys from **writing, meditation, and friendship**.
-- 
 
 The paid tier will include behind-the-scenes content, the “meta” around constructing a life of writing, meditation, and friendship. **Vulnerable, raw, human** stuff that gets into the weeds.
 
@@ -26,15 +23,9 @@ Since you as an existing subscriber are added to both, I will continue to appear
 
 ***Why am I starting a paid tier for this newsletter?***
 
-- 
-
 **Clarity of Intent:** As I’m embarking on the Write of Passage mentor journey, I am exposing this newsletter to new folks who don’t have context about this publication. While I started this newsletter as a means of sharing my creator life and building in public, I’m seeing that my posts tend to split between two broad categories of intent: one to educate, and one to share the raw vulnerable stuff. By having free/paid tier, I can separate these intents so folks can choose what they wish to receive.
 
-- 
-
 **Two-Way Permission: **New subscribers might be in for an unpleasant shock if say, they receive a vulnerable post when they were expecting something along the lines of writing tips! There’s a need to express permission from both myself and the recipient: The paywall ensures *opting in* to vulnerable content. It also increases the sense of safety for me, and allow me to share with an intimate group.
-
-- 
 
 **Writing as Vocation:** As I dedicate myself to teaching writing, I’d like to be more explicit about constructing livelihood through words (i.e. more avenues of monetary/value exchange, i.e. get paid.) It becomes a welcomed challenge—to justify the paid tier, I am more motivated than ever to improve my craft, in service of the reader.
 

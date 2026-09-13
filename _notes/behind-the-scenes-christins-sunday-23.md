@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Christin's Behind-the-Scenes Sunday 🎥 : Very Soft Book Launch!"
+title: "Christin's Behind-the-Scenes Sunday: Very Soft Book Launch!"
 date: 2022-07-03
 tags: [creative, meditation, notes, buddhist-teachings, courses, marketing, newsletters, relationships, resources, writings]
 ---
@@ -19,14 +19,9 @@ The First Edition of **Debug Your Meditation: Transform Your Practice From A Cho
 
 There are three parts to this book:
 
-- 
-
 **PART I** is a fable on meditation and happiness. It is a “children’s story for adults.” 
 
-- 
-
 **PART II** explains how the fable relates to Buddhist teachings and your meditation practice.
-- 
 
 **PART III** contains frequently asked questions about meditation. You can read this part linearly, or jump to the questions related to your meditation practice.
 

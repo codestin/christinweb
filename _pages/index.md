@@ -3,7 +3,7 @@ layout: page
 title: Home
 id: home
 permalink: /
-masthead_title: "Hi, I'm Christin. Nice to meet ya! 🤝🏻"
+masthead_title: "Hi, I'm Christin. Nice to meet ya!"
 eyebrow: christinchong.com
 tags: [biotech strategy, medical education, chaplaincy, coaching]
 ---

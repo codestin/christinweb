@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Christin's Behind-the-Scenes Sunday 🎥: Special Edition 💖"
+title: "Christin's Behind-the-Scenes Sunday: Special Edition"
 date: 2021-12-06
 tags: [creative, healthcare, notes, newsletters, relationships, writings]
 ---

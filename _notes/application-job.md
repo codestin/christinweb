@@ -10,5 +10,3 @@ tags: [creative, healthcare, notes]
 - (Expand more on this later)
 
 ## Identify job description
-
--

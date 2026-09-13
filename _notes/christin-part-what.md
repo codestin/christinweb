@@ -7,7 +7,7 @@ tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, new
 
 > This entry was imported from a newsletter.
 
-## State of the Union Address 🫡
+## State of the Union Address
 
 My Fellow Americans Dear Friends,
 

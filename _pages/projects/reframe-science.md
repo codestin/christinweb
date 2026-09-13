@@ -37,11 +37,11 @@ joining reframe science gives you immediate access to a crew of people willing t
 
 ## member benefits
 
-🔮 **monthly hand-in-hand video chats** with reframe science founder christin chong, phd to co-design your personal healthcare experiments
+**monthly hand-in-hand video chats** with reframe science founder christin chong, phd to co-design your personal healthcare experiments
 
-💬 **a private discord community** with the crew of reframe scientists to discuss and share their latest findings. this will be a unique place to learn about new research tools, healthcare products, and emergent discoveries.
+**a private discord community** with the crew of reframe scientists to discuss and share their latest findings. this will be a unique place to learn about new research tools, healthcare products, and emergent discoveries.
 
-📚 **a compendium of reframe science community discussions and frameworks** to sharpen your scientific intuition.
+**a compendium of reframe science community discussions and frameworks** to sharpen your scientific intuition.
 
 ---
 
@@ -51,11 +51,11 @@ ideal reframe science members are entrepreneurs and builders willing to apply th
 
 **you would like reframe science if you want to:**
 
-⚡ explore orthogonal ideas and trends
+explore orthogonal ideas and trends
 
-🤖 apply your technical expertise to build meaningful and/or fun healthcare projects
+apply your technical expertise to build meaningful and/or fun healthcare projects
 
-🤝 meet cool and kind friends
+meet cool and kind friends
 
 members are vetted in an initial interview to ensure mutual and community fit.
 

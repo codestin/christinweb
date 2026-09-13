@@ -42,16 +42,11 @@ Perhaps creators can support their students through **partnerships with SaaS**, 
 
 The **community** matters too. I have more observations than fully-fleshed out hypotheses at this point. To share a few:
 
-- 
-
 Communities seem to “seed” better if the founding members are **genuinely inquisitive** about each other. What does inquisitive mean in this context? To me, this means going beyond “sharing what I’ve been up to” and “giving feedback.” It’s the ability to ask open questions and develop **long-term****friendships. **Notice when one is taking up too much space and encouraging others to join.* Give in a roughly 5:1 ratio. If the balance of inquisitiveness is lacking, people disengage and it’s tough to recover.
-- 
 
 Courses that **truly achieve their outcomes** might** not have a vibrant community** (or need one.) Because now everyone’s chugging along on their doing-train and there’s not as much reason to hang out! Unless long-term friendships have been developed.
-- 
 
 Learning is scalable, but **community participation is non-scalable**. (A student can take many courses, but will not have time to join all the alumni communities. Perhaps not every course needs its own community?
-- 
 
 Students might need to **find their own people organically**. But they might need to be shown the **unspoken etiquette** of inquisitiveness. Or be shown how to share more of themselves beyond what they have gathered to learn, so that common ground that can be discovered. 
 

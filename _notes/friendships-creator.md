@@ -1,6 +1,6 @@
 ---
 layout: note
-title: ❇️ Sacred Spaces for Creator Friendships
+title: Sacred Spaces for Creator Friendships
 date: 2022-09-25
 tags: [creative, meditation, notes, buddhist-teachings, courses, newsletters, relationships, resources, writings]
 ---
@@ -21,13 +21,9 @@ Calling them “accountability groups” is almost a misnomer, because they cont
 
 Here are new words collected to capture the vibe, thanks to friends who reflected on the spaces we co-created:
 
-- 
-
 Hold sacred presence ([tweeted](https://twitter.com/Christintweets/status/1571890232425062400) about this using [Flow Club](https://in.flow.club/h/christin?inviteCode=Christin303) as an example.)
-- 
 
 Provide space for co-creation and co-regulation: reaching a holistic balance.
-- 
 
 Allow room for integrity: coalescing the intellectual cruft and helping each other feel whole.
 
@@ -37,16 +33,11 @@ These qualities remind me of the ***brahmavihārās***.* It’s a spiritual prac
 
 The *brahmavihārās *consist of 4 qualities:
 
-- 
-
 Loving-kindness (*mettā*) 
-- 
 
 Compassion (*karuṇā*) 
-- 
 
 Empathetic joy (*muditā*) 
-- 
 
 Equanimity (*upekkhā*)
 

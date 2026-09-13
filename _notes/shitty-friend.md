@@ -1,6 +1,6 @@
 ---
 layout: note
-title: 🤫 Am I A Shitty Friend?
+title: Am I A Shitty Friend?
 date: 2022-10-03
 tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships, writings]
 ---

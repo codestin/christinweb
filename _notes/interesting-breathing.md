@@ -19,16 +19,11 @@ Imagine you’re hungry. You open the fridge, and see there are ingredients for 
 
 Breath meditation practices are like different kinds of food in the fridge:
 
-- 
-
 Breath work = ready-to-eat snacks
-- 
 
 Counting breaths = leftovers
-- 
 
 Noticing the sensations of the breath= simple meals
-- 
 
 Silent awareness of the breath = 4 course meal
 

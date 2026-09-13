@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Christin's Behind-the-Scenes Sunday 🎥 : 🧲 Fishing Edition"
+title: "Christin's Behind-the-Scenes Sunday: Fishing Edition"
 date: 2022-03-27
 tags: [creative, healthcare, notes, newsletters, relationships]
 ---
@@ -22,13 +22,9 @@ I went magnet fishing* with Yuhong and our friend Scott this weekend:
 
 Why magnet fish? The Mad River had too low flows, and the regulations prohibited actual fishing on Saturday. Here are other reasons:
 
-- 
-
 **Environmentally-friendly alternative to fishing for fish**: While we do enjoy fishing for fish, we do notice the ample amount of trash left by fellow anglers. The magnet allows us to retrieve lost rigs that harm wildlife.
-- 
 
 **Replenish our gear:** lures can cost $5-10 these days because of supply chain issues!
-- 
 
 **Novelty:** I saw that people are pulling up guns and other unexpected items on [r/magnetfishing](http://Reddit.com/r/magnetfishing). There’s also a new survival trend called “wastelander” where the goal is to build a complete survival kit with only scavenged items. I thought it would be neat if I can pull up useful items from bodies of water…
 
@@ -56,10 +52,7 @@ As such, fishing is an activity of information arbitrage—What you see online w
 
 I wonder if this is where the entrepreneurial path and fishing parallels in two ways—
 
-- 
-
 As I get impatient with myself in repeating data gathering phases, should I instead see them as necessary foundations? 
-- 
 
 How can I, as a “thinky person,” identify more areas of information arbitrage—where I can distill information from an exclusive source and sell it to another party? Or know how to use an information source in a new way that others haven’t thought of?
 

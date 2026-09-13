@@ -52,10 +52,7 @@ As my friend  compiled poignantly:
 [](https://substackcdn.com/image/fetch/$s_!NYw5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82478c9a-513c-4ba4-91ee-b4b2a3d46b44_730x1240.png)
 ### An Invitation
 
-- 
-
 The “onchain” world like Farcaster is the equivalent of “early Twitter/YouTube etc.”—the ecosystem is new enough where there is still a cozy sense of community, it’s easier to make friends who have the same creative ambitions, and it’s easier to distribute with higher signal-to-noise ratios.
-- 
 
 To me, this is where  ‘s essay “Beware of Chasing Prestige” applies as well—since Farcaster is still an early social network, I usually get quizzical looks when I mention where I spend my time online. But…
 
@@ -64,7 +61,6 @@ To me, this is where  ‘s essay “Beware of Chasing Prestige” applies as wel
 ![Image](https://substack-post-media.s3.amazonaws.com/public/images/8f422b10-45ed-4139-b05b-e0977193bdfc_658x900.jpeg)
 
 [](https://substackcdn.com/image/fetch/$s_!5hqU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f422b10-45ed-4139-b05b-e0977193bdfc_658x900.jpeg)
-- 
 
 The onchain world is underpriced quality right now. This world may not be for you at all, and I totally get it—it’s high friction to switch to another social network, meet new people, etc. However, if getting traction is challenging for you in your current online space, I highly encourage you to explore where there might be more appreciate for your creativity and craft.
 

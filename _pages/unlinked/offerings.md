@@ -6,7 +6,7 @@ permalink: /offerings
 
 # Offerings
 
-## 📗 Book: Debug Your Meditation
+## Book: Debug Your Meditation
 
 A ⭐⭐⭐⭐⭐ book on establishing a joyful meditation habit.
 
@@ -14,7 +14,7 @@ Debug Your Meditation helps you troubleshoot common obstacles and build a sustai
 
 [Learn more about the book](/offerings/book)
 
-## 🎓 Insight Writing Club
+## Insight Writing Club
 
 Join the Insight Writing Club and develop a lifelong writer's mindset.
 
@@ -22,7 +22,7 @@ This course combines writing instruction with entrepreneurship training, helping
 
 [Learn more about courses](/offerings/courses)
 
-## 🪄 1:1 Coaching
+## 1:1 Coaching
 
 **Leadership and Mindfulness for Entrepreneurs**
 

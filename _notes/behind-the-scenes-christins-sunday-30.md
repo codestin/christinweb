@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Christin's Behind-the-Scenes Sunday 🎥
+title: Christin's Behind-the-Scenes Sunday
 date: 2022-05-16
 tags: [creative, meditation, notes, courses, newsletters]
 ---
@@ -15,13 +15,9 @@ Dear Ones,
 
 **How are you?** I am feeling…overwhelmed in a good way. 
 
-- 
-
 Sometimes my brain goes into hyper-generation mode and I accumulate lots of notes, ideas, and things I want to do. But the side effect of this is that it’s almost like **an engine that overheats**—now all the items are piled on top of one another, in a giant text file named “inbox” for me to sort through. 
-- 
 
 I’m working on building a giant mind map of sorts that connects all my todos together, and using Figma to do it because it has “layers” and allows me to show/hide certain items so they can be more easily reviewed. 
-- 
 
 **Let me know if you are a mindmapping tool user and have any tips or suggestions!**
 

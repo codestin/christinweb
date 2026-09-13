@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Christin's Behind-the-Scenes Sunday 🎥
+title: Christin's Behind-the-Scenes Sunday
 date: 2022-05-09
 tags: [creative, healthcare, meditation, notes, marketing, newsletters, personal-growth, writings]
 ---
@@ -42,10 +42,7 @@ On the upside, I do feel the best I’ve ever felt creatively and am building co
 
 ## What I’m building next week:
 
-- 
-
 Making videos on **Medicare’s Donut Hole** with Christine (I know, what an intriguing combination of words right?? Sadly it’s about a coverage gap…) 
-- 
 
 Writing **Debug Your Meditation**
 

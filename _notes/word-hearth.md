@@ -37,7 +37,7 @@ In his words,
 
 So without further ado...
 
-# 2020 is The Year of The Hearth for me. 🔥
+# 2020 is The Year of The Hearth for me.
 
 For me, the word "hearth" evokes:
 
@@ -104,7 +104,7 @@ My overt impeding pattern is perfectionism (which Dr. Fox calls "the prettiest o
 
 ---
 
-# 🃏 A Fool's Reflection
+# A Fool's Reflection
 
 ## What is A Fool's Reflection?
 

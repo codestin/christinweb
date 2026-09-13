@@ -20,28 +20,19 @@ I took a break from publishing newsletters but I gotta warn y’all—it is VERY
 My excuse reason for not writing? 
 ## Introducing…the School of Human Intellect
 
-- 
-
 Some of you may have heard me lament about this in various forms over the past 2 years—as a creator who had a previous life in the corporate world, I felt there is a huge untapped market for creator energy in the corporate world. (I had called it the Writer’s Collective! Or some other name, and wished for “someone” to make it happen.)
-- 
 
 While the creator economy is growing, the corporate economy is humongous in comparison—and y’all can provide an unprecedented amount of gumption, creativity, and humanity.
-- 
 
 At the same time, I lamented to Vicky (yes I do lament a lot…) that while I love to write and create, the audience building hustle isn’t…something I actually enjoy. (*Yes! I admit it!*) Vicky has a silver-button-level audience on [YouTube ](https://www.youtube.com/@VickyZhaoBEEAMP)and has been thinking about how to share her audience with creator friends.
-- 
 
 Vicky and I had fun collaborating in our Articulation Sprint workshop a while back, and had been reflective listening to each other and with  as part of Rik ()’s listening course. 
-- 
 
 We thought that EVERYONE needs Rik’s listening course, especially those in the corporate world.
-- 
 
 We both have experience in corporate in-house roles and consulting, and have witnessed the huge market for corporate learning and development.
-- 
 
 I was done with chaplaincy school, and chaplains are found at academic institutions.
-- 
 
 So…with these ingredients combined, we present to you…
 
@@ -53,28 +44,19 @@ So…with these ingredients combined, we present to you…
 
 ## What’s in it for you?
 
-- 
-
 In short, we aim to build a TED level educational brand for our creator and writer friends. 
-- 
 
 The mission of the School of Human Intellect is to provide interactive, intellectually stimulating, and practical learning experiences to **boost the irreplaceable essence of human intellect in light of AI.**
-- 
 
 We want to help you become the **next generation of corporate educators**—not the boring, handwave-y courses that are status quo.
 
 ## How can we do that?
 
-- 
-
 The first thing that we can collectively do, is…ok don’t cringe, **be ourselves on LinkedIn.**
-- 
 
 Yes, that place that we all avoid because it has our corporate colleagues and bosses.
-- 
 
 But strength in numbers: Vicky and I will be active and posting about Human Intellect.
-- 
 
 If enough creators and writers hang around, we can reach a completely new group of corporate readers, together.
 
@@ -100,22 +82,15 @@ While I work on the B2B side of the School of Human Intellect,  and  have been m
 
 ​​**It is a place for…**
 
-- 
-
 ​​Practicing a method of creative, associative thinking, for the purpose of connecting dots in personally and collectively profound ways
-- 
 
 ​​Intellectual and creative exploration in a welcoming and inclusive environment
-- 
 
 ​​Collaborative exploration of each other's interests, tapping into collective wisdom and practicing the art of conversation
 
 **​​Future Cafés:**
 
-- 
-
 ​​August 27 (Sun) 12noon ET *6PM CET / *12 midnight HKT
-- 
 
 ​​September 23 (Sat) 8AM ET
 September 24 (Sun) 2PM CET / 8PM HKT

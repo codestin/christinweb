@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Wish you a whole lotta nothing ✨
+title: Wish you a whole lotta nothing
 date: 2022-12-26
 tags: [creative, notes, courses, newsletters, relationships, writings]
 ---

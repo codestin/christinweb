@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Christin's Behind-the-Scenes Sunday 🎥 : Powerlifting Competition Edition"
+title: "Christin's Behind-the-Scenes Sunday: Powerlifting Competition Edition"
 date: 2022-05-01
 tags: [creative, healthcare, notes, newsletters, relationships, writings]
 ---
@@ -15,13 +15,9 @@ In the meantime, this week I published 2 YouTube videos!
 
 I’m having a lot of fun making videos with friends (like the second video with Louis.) While these videos continue to have serious cringe factor and quality issues, 
 
-- 
-
 I’m learning to churn them out quickly and learn only as much as I need to create the next video. 
-- 
 
 I’m also seeing that the #1 issue is still discoverability, since people rarely scroll through YouTube searches. 
-- 
 
 My understanding of the algorithm is that it takes 10 videos before YouTube really pushes your content, so I am trying to get to 10 quickly.
 

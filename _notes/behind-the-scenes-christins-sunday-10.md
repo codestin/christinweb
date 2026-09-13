@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Christin's Behind-the-Scenes Sunday 🎥
+title: Christin's Behind-the-Scenes Sunday
 date: 2022-03-06
 tags: [creative, healthcare, meditation, notes, courses, newsletters, personal-growth, relationships, resources]
 ---
@@ -30,8 +30,6 @@ What can I do to better support those in need, in an effective, sustainable way?
 In today’s world, I’m seeing that the economy has gone from one of just pure finances, to one of attention and influence as well. **And what I vow is to do a better job of managing my attention and influence, so that I can continue to give them to those who need them the most.**
 
 President Zelensky’s [speech today](https://www.reddit.com/r/ukraine/comments/t7wveh/president_zelenskiy_morning_update_6th_march_with/) is well worth a watch if you want to hear the **best motivational speech of this decade**, emphasizing the resources they are gathering for the country to recover in the future. They just need to get through the present.
-
--
 
 **As a reminder, Victoria asked those who live near the Ukrainian borders, and can shelter or help, to leave their contact information by [DMing her on instagram](https://www.instagram.com/minimal_victoria/).** She will provide this information to vetted friends and colleagues who want to leave.
 

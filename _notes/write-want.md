@@ -1,6 +1,6 @@
 ---
 layout: note
-title: I want to help you write a book 📖
+title: I want to help you write a book
 date: 2022-11-21
 tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, personal-growth, relationships, writings]
 ---
@@ -17,13 +17,9 @@ I believe you have a **book in you**. I’ve been pulling them out of my friends
 
 When I wrote [Debug Your Meditation](https://christinchong.gumroad.com/l/debug/newsletter), I remember how lucky I was in having professional experience in long-form writing:
 
-- 
-
 My neuroscience PhD and postdoc research meant lots of technical writing, with [peer-reviewed publications](https://scholar.google.com/citations?user=MerSJC4AAAAJ&hl=en) cited over a thousand times combined…
-- 
 
 I am a Certified Medical Publication Professional, meaning I specialized in project management for complex biotech writing projects…
-- 
 
 I’ve since mentored Write of Passage students and helped them [overcome Writer’s Block](https://christinchong.com/articles/overcome-writers-block-with-loving-kindness) through neuroscience/Buddhist frameworks…
 
@@ -42,31 +38,21 @@ So…*memento mori*. The world needs to know your story and your hard-earned wis
 
 ### Here’s other reasons why you have a book in you:
 
-- 
-
 Aren’t you tired of social media? I know, I know. *We all do it*. But the nuances of messages are lost, even in longer-form writing like essays and newsletters. 
-- 
 
 The inherent length of these formats, suited for the average internet attention span, prevents us from digging deeper into ourselves. 
-- 
 
 It’s like we are given time with a shovel but have to stop because…the output length has to match reader expectations for the format.
-- 
 
 There’s more treasure to be found within, if we can endure plunging ourselves into our ideas further, and make a book out of it.
-- 
 
 Practically speaking, books are fantastic for people to get to know the way you think in-depth as a preview for other offerings, and for corporate opportunities like speaking gigs.
 
 ### **I can help you 1:1 with…**
 
-- 
-
 **Entertaining the absurd idea that you have anything to share with people that’s worth an entire book over**. I have to admit: those of you who are kind enough to subscribe to my newsletter, also tend to be the *most* humble people on earth. Let me convince you that you have a book in you.
-- 
 
 **Organizing your ideas for easy digestion. **I’m the Marie Kondo of book writing. Let me help you make sense of all the floating ideas in your head, ground them, and connect them.
-- 
 
 **Project management and emotional endurance.** Book projects are just like any other grand endeavors—the secret is not sexy, it’s mostly grunt work and whoever can do it for the longest wins. I will help take the not-fun parts off your shoulder, and keep the project fun for you till the finish line.
 

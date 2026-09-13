@@ -7,32 +7,32 @@ tags: [word, personal]
 
 ## Embodied but Abandoned Words for 2021
 
-### mercury ⚕️
+### mercury
 
 Cons: made me feel agitated (mercurial!)
 Pros: matched how I felt—very busy these days, lots of activity, implied focus on commerce and communication
 
-### bonsai 🪴
+### bonsai
 
 Cons: too deliberate and an attempt at manipulating nature/circumstances, finicky
 Pros: beautiful, balance of divergence and convergence
 
-### chief 🪶
+### chief
 
 Cons: vulnerable to the trappings of judging oneself by success/failure
 Pros: regal, a good sense of self-worth
 
-### evergreen 🌲
+### evergreen
 
 Cons: broad-stroked, too static
 Pros: calming
 
-### bamboo 🎍
+### bamboo
 
 Cons: awkward to incorporate into daily language, perhaps too "sprouty" and out-of-control
 Pros: implied prolific and multi-purpose nature
 
-### root 🥕
+### root
 
 Cons: too entangled, too secluded and dark
 Pros: grounding, implied direction towards nourishing qualities/habits and moving away from non-nourishing ones, implied investigation of one's ancestral roots

@@ -27,13 +27,9 @@ Our Perspective sessions are designed to **nourish your inner weirdo** so you ca
 
 **Once you start, you will:**
 
-- 
-
 Write faster and more by fretting less
-- 
 
 Welcome instead of dread feedback
-- 
 
 Find your personal monopoly with passionate confidence
 
@@ -53,13 +49,9 @@ The Big Hypothesis is that writers **who accept and love themselves as they are*
 
 But the art of teaching is giving student “pit stop skills” that can get them by and show them visible progress, while they develop acceptance and love. Here’s what I consider the most important practical factors:
 
-- 
-
 **Creative outlets with varying quality expectations.** Whether by coincidence or by choice, prolific writers have several outlets that allowed for different degrees of polish (e.g. tweets, newsletters, essays, books, in roughly that order.) This means they don't get as easily paralyzed. Even if there are psychological barriers, ***something*** will be produced. This strategy paired with hard deadlines creates consistent practice and output.
-- 
 
 **Genuine friendship with other writers** is the other secret to writing consistently and getting quality feedback.
-- 
 
 **A mission mindset**, instead of one based solely on building a personal monopoly, will take one farther down the writing path.
 

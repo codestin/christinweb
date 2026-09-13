@@ -19,76 +19,51 @@ So what is my day sorta-like? What am I changing?
 
 **General ~Daily**
 
-- 
-
 (NEW) Meditate with [Clear Mountain Monastery](https://www.clearmountainmonastery.org/calendar/) for 30 min
-- 
 
 Cardio workout for 45 min while watching YouTube, Push-ups and Pull-ups routine
-- 
 
 Cook and clean
-- 
 
 Journal using [750 words](https://750words.com/welcome/christin) -  recently added LLM analysis via Claude so now I can super navel-gaze my entries dating back to 2011. I’ve also been using voice memo and dumping the transcript—I found it therapeutic to activate the throat chakra and voice my thoughts instead of typing them out.
 
 **Monday**
 
-- 
-
 (NEW) Writing this substack with [CansaFis](https://cansafis.substack.com/) and crew
-- 
 
 (NEW) Weekly review of inbox and tasks
-- 
 
 (NEWish) Building [Reframe](https://reframescience.org) - a curated community for entrepreneurs, builders, and high-agency individuals taking charge of healthcare for themselves and their loved ones. It’s my newest stab at building a fun and useful place for folks to document their health experiments. Think of this as Kind Camp 2.0 (yes I called OK Banger that but this is even closer [😂](https://emojipedia.org/face-with-tears-of-joy) it’s a vortex I can’t escape from…)
 
 **Tuesday**
 
-- 
-
 Livestream OK banger with Cameron - the core show where we share our lives + talk about a book - we are now 42 episodes in! Cameron also started editing just the book portion, here’s our first one on [Rick Rubin’s The Creative Act](https://www.youtube.com/watch?v=sv_1cMe8zJk) (it’s not just praising the book, we talk about how how realistic it is for someone to read it and become creative…)
-- 
 
 More Reframe building
 
 **Wednesday**
 
-- 
-
 (NEWish) Half day meditation retreat at Insight Meditation Center usually with Gil Fronsdal
-- 
 
 Paperwork catch-up (kinda in an emergency state these few weeks with this because of tax season and passport renewal nightmare, yikes!)
 
 **Thursday**
 
-- 
-
 Livestream OK banger with Cameron - we co-work on “[tar tasks and hassle hurdles](https://www.wysr.xyz/p/tar-tasks)” together with friends - you are welcomed to join us!! We have a lot of good laughs and motivate each other along.
-- 
 
 More Reframe building
 
 **Friday**
 
-- 
-
 Sometimes hike with friends, lunches with friends, date with Yuhong…
-- 
 
 Read the book Cameron and I will discuss on the OK Banger Show next week (which is [Everything is Tuberculosis](https://everythingistb.com) by John Green)
-- 
 
 (NEW) Weekly wrap-up of inbox and tasks
 
 **Weekends**
 
-- 
-
 One harder hike with Yuhong, Sunday Crew every 2 weeks with 
-- 
 
 Groceries, concerted cooking and cleaning
 

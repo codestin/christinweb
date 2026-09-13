@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Christin's Behind-the-Scenes Sunday 🎥: Creativity Gas Tank ⛽"
+title: "Christin's Behind-the-Scenes Sunday: Creativity Gas Tank"
 date: 2022-07-25
 tags: [creative, meditation, notes, buddhist-teachings, courses, newsletters, writings]
 ---

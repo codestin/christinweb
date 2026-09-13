@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Christin's Behind-the-Scenes Sunday 🎥 : Digital Detoxed Edition"
+title: "Christin's Behind-the-Scenes Sunday: Digital Detoxed Edition"
 date: 2022-05-29
 tags: [creative, meditation, notes, newsletters, relationships, writings]
 ---

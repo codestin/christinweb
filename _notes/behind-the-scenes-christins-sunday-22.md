@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Christin's Behind-the-Scenes Sunday 🎥 : Book Writing Edition 2"
+title: "Christin's Behind-the-Scenes Sunday: Book Writing Edition 2"
 date: 2022-06-27
 tags: [creative, meditation, notes, newsletters, writings]
 ---
@@ -19,10 +19,7 @@ I once read this strange description of Justin Timberlake in an interview. He wa
 
 My book writing is similar to JT—somehow, I have gotten **slower** as I head towards the finish line! There’s a couple of reasons: 
 
-- 
-
 When I got back from my retreat, I was operating at closest to 100% maximum efficiency. It was quite a miraculous sight. I wish you were there. But as expected (and confirmed by monastics in a live stream when I bugged them about it) practice is two-steps forward and one-step back. So I’ve dropped back to habitual ways and writing slowed.
-- 
 
 This is the nature of all projects—the last 20% takes 80% of the time!
 

@@ -53,10 +53,7 @@ The more daylight there is when we begin, the less we have when we return. It’
 
 While ChatGPT edited my grammar and tightened up the prose, I still caught a number of issues upon a second read. And I see the potential of this piece in future drafts, e.g.:
 
-- 
-
 How my mind darted from place to place when it was threatened with life-or-death survival situations, weighing pros and cons of every decision. A multiverse of terrifying outcomes avoided, but did I even have a role in the choice of outcomes? When we descended the Grand Canyon and the sun rose, my anxiety alleviated and we had a fantastic hike! Yuhong stuck around longer to fish Phantom Ranch, and I headed back up earlier by myself. The hike up was brutal compared to my last attempt in 2018, when I was training for a half-marathon in aerobically tip-top shape. But I look upon this writing now and laugh—was it really that bad?
-- 
 
 How Yuhong gets snippy…but there’s an unreliable narrator here who conveniently did not include her own snippiness on the rest of the trip. How we both react to survival stress with our preferred default emotional states (her with anger, me with anxiety.) How can we do a better job co-regulating, instead of co-depending on each other’s emotions?
 

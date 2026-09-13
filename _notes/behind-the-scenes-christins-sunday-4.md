@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Christin's Behind-the-Scenes Sunday 🎥
+title: Christin's Behind-the-Scenes Sunday
 date: 2022-04-11
 tags: [creative, healthcare, notes, newsletters, personal-growth, relationships, resources]
 ---
@@ -21,10 +21,7 @@ This makes me...probably above average in the general population, but not quite 
 
 **Mini Glossary**
 
-- 
-
 Olympic weightlifting = clean & jerk, snatch
-- 
 
 Powerlifting = squat (usually low-bar squat allows one to lift more), deadlift, bench press
 
@@ -37,15 +34,9 @@ But why do I devote myself to such a sport, working out for 1-1.5 hours every we
 
 ### Working out is easy when there are...
 
-- 
-
 **Meaningful connections:** My coach is someone that has been there for me even at my lowest lows, and our bond is familial. This is the hardest to explain to others because it is a privileged position--few have the opportunity to have someone who is this supportive. Underneath the gruff exterior is a man who gives unconditionally to those around him. (He's also a Lyme Disease patient and his health is uncertain, so every moment I get to spend with him is a precious gem.)
 
-- 
-
 **Mental health support:** You'd think that physical health is the second reason, but most of us lift because it's a powerful antidote to darkness. There's something about setting and meeting goals, the sweat, and the camaraderie of teammates that alchemizes the lead in my brain into gold.
-
-- 
 
 **Physical health support:** my wife Yuhong has this magical ability to make friends with folks who are decades older than us, and one thing they always tell us is: do the things we want to do NOW while we have the body to do it. 
 
@@ -65,9 +56,6 @@ Christin
 
 ## **Where to find Christin this week**
 
-- 
-
 **[Journal+Meditate+Tea: ](http://christinchong.com/journal-meditate-tea)**I’m still hosting Journal+Meditate+Tea every weekday at 3PM PT. Register using the link on the page.
-- 
 
 **[Flow Club:](https://in.flow.club/host/christin)** Have a task you’ve been procrastinating? I also host co-working sessions through Flow Club. Use my **[invite link](https://in.flow.club/host/christin)** to skip the waitlist and book a session. See you in the flow 🌊

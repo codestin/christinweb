@@ -35,7 +35,7 @@ In his words,
 
 So without further ado...
 
-# 2024 is The Year of the CozyGoober for me. 🥜
+# 2024 is The Year of the CozyGoober for me.
 
 For me, the word "cozy" evokes:
 

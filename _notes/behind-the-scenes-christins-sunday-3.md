@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Christin's Behind-the-Scenes Sunday 🎥
+title: Christin's Behind-the-Scenes Sunday
 date: 2022-02-07
 tags: [creative, meditation, notes, buddhist-teachings, courses, newsletters, relationships, resources, writings]
 ---
@@ -19,13 +19,9 @@ For my non-Twitter friends, it might continue to perplex as to why I have such a
 
 So here are 3 reasons why I was excited to see this tweet take off:
 
-- 
-
 **Finding the “intermediate”: **As mentioned in previous newsletters, I’ve been aiming to write a book about Buddhism based on this year’s tweets. Twitter has been the testing ground to see what topics are of interest to people, and I’ve been passionate about doing this because there is a lack of “intermediate” practitioner content. There’s tons of beginner books about Buddhism, and quite a lot of advanced content, but the space in between to make the connection between Buddhism-curious and getting on the path is wide open for people to get lost in. And I’m beginning to meet more people who are in this space together on Twitter.
-- 
 
 **Diving into deeper conversations:** In the process, there has been an increase “spiritual serendipity” where I find out that friends listen to the same teachers, or get me into discussions that prompt me to check whether I truly understand the teachings (or more importantly, apply them to my life.) I also gather data about what truly matters to people about spirituality and where people get perplexed, which will help shape the book.
-- 
 
 **Going from finding restaurants to eating the food:** But the most important discovery this week is realizing the application of this analogy:
 

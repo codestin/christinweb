@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Christin's Behind-the-Scenes Sunday 🎥 : Silent Retreat Edition"
+title: "Christin's Behind-the-Scenes Sunday: Silent Retreat Edition"
 date: 2022-06-05
 tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, marketing, newsletters, personal-growth, relationships, resources, writings]
 ---
@@ -60,23 +60,13 @@ Overall, I would like to use this framework to explore the idea of “spiritual 
 
 Given the above reflections, these are questions I have for myself but will **not** directly ponder at this retreat:
 
-- 
-
 How can I ensure that my mindfulness and meditation stays bright in this retreat, where I will be maintaining both for an extended period?
-
-- 
 
 How can I apply metta to my family relationships?
 
-- 
-
 How can I be sensitive and forgiving to my body as it adjusts to the retreat schedule, different foods, sleep setting, etc.?
 
-- 
-
 How can I wisely switch meditation techniques as appropriate, rather than out of boredom?
-
-- 
 
 How can I avoid turning dhamma work into its own form of spiritual materialism?
 
@@ -92,16 +82,11 @@ I quietly launched a preorder page for Debug Your Meditation and was shocked to 
 
 I told a few friends that I had put up the preorder page on a whim, but I realized that isn’t actually the full story… here is my thought process in case it is helpful for you to **launch your own projects**:
 
-- 
-
 I’m part of an accountability group with several friends in the Portfolio of Small Bets community (highly recommend, here’s an [affiliate link](https://gumroad.com/a/496542835/BpKYQ)). We meet every week to discuss progress. I had been working on the book outline for a while, but didn’t make as much headway as I thought.
-- 
 
 So I pivoted to writing the copy for the book based on other Gumroad pages that do well, and asked for feedback from the community. I also offered two free 15 min practice discussions with each pre-order.
-- 
 
 To my delight, people ordered even when the copy is a work in progress! From there on, there was a snowball effect. The Gumroad sales page became its own social proof, which then led to more orders , which then led to higher sales…
-- 
 
 So whatever you’re noodling on, I highly recommend making a Gumroad page, or using [yep.so](https://yep.so) to make a landing page to capture email addresses. The fact that there are people who paid to read the book really motivates me to finish it by the deadline, since my credibility is at stake.
 

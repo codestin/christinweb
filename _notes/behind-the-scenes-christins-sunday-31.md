@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Christin's Behind-the-Scenes Sunday 🎥
+title: Christin's Behind-the-Scenes Sunday
 date: 2022-04-04
 tags: [creative, healthcare, meditation, notes, courses, newsletters, personal-growth, relationships, words, writings]
 ---
@@ -15,13 +15,9 @@ I’m near the end of my journey as an editor steward for Write of Passage Cohor
 
 A large segment of students (including myself!):
 
-- 
-
 **Get to the “shiny dime” (most interesting/important part of their essay) at the very end: **It reflects our need to write for a while before realizing what we are trying to get at. Almost all essays immediately improve just by moving their conclusions to the introductions.
-- 
 
 **Need more personal stories: **Essays tend to lean too heavy on observational, sometimes bordering on ranty, and are missing the one important spice: the relationship between the author and the topic. Why the author cares to write about the topic at hand. In comments to students, I have shared that I often exclude myself because it feels odd that anyone would care about what I think. (I think there’s something to explore here, how our self-esteem or self-perception gets in the way of good writing.) But of course, that’s why the reader is reading in the first place—to get to know the writer better!
-- 
 
 **Need more “placemaking”:** Of all POP techniques listed by Michael Dean, the one I think most essays can benefit from is “placemaking”—writing through the senses. Tell me what it was like when you were there—what did it smell like? What did you see, in the greatest level of detail you can describe? I personally think I skip this often on the first draft because it takes a different state of mind to do it—the lecture-y, observational mind has a hard time painting an image with words. It’s easier to do on the second pass, with intention. Learning to do it on the first draft can vastly improve my first draft quality though.
 

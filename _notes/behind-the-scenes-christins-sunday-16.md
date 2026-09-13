@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Christin's Behind-the-Scenes Sunday 🎥 : Poll Edition"
+title: "Christin's Behind-the-Scenes Sunday: Poll Edition"
 date: 2022-03-21
 tags: [creative, notes, newsletters, personal-growth, resources, writings]
 ---
@@ -15,19 +15,13 @@ In the mean time, I want to do some housekeeping and pulse check on this newslet
 
 Which topic(s) do you want to read more about? (Can tell me multiple answers.)
 
-- 
-
 Build in public/creator life topics
-- 
 
 Updates on Christin’s projects and writings
-- 
 
 Christin’s personal life
-- 
 
 Current events, links to interesting internet stuff
-- 
 
 Other (please explain in a few words)
 

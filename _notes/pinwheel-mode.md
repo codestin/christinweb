@@ -1,6 +1,6 @@
 ---
 layout: note
-title: 🍭 Spinning pinwheel mode
+title: Spinning pinwheel mode
 date: 2023-02-07
 tags: [creative, healthcare, meditation, notes, buddhist-teachings, courses, newsletters, relationships]
 ---
@@ -17,10 +17,7 @@ Last week I was at my chaplaincy retreat, where we spent 2 days together explori
 
 You also might not have heard from me as much lately, especially on social media platforms.
 
-- 
-
 I’ve been focusing on work in the form of **[Kind Camp](https://christinchong.gumroad.com/l/kindcamp/newsletter)** and **Author Adventures**, a new 1:1 offering for those who want to author a book in 8 weeks. Please email me if you would like to learn more.
-- 
 
 The more salient reason is because I have **another weeklong silent retreat** coming up at the end of the month! I’ve learned from my past retreats that it’s better to gently hit the brakes on “sense stimulation” rather than slamming on them at full speed. 
 

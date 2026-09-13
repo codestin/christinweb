@@ -35,6 +35,6 @@ Christin
 
 **P.S. When you’re ready, here are ways I can support you:**
 
-➞ **[Debug Your Meditation](https://christinchong.gumroad.com/l/debug/NEWSLETTER)** — This book helps you build a joyful meditation habit.
+**[Debug Your Meditation](https://christinchong.gumroad.com/l/debug/NEWSLETTER)** — This book helps you build a joyful meditation habit.
 
-➞ **[1:1 Chat](https://zcal.co/christin/30min)** — Do you have a question about Buddhist practice, creative entrepreneurship, or just want to catch up? Let’s do that!
+**[1:1 Chat](https://zcal.co/christin/30min)** — Do you have a question about Buddhist practice, creative entrepreneurship, or just want to catch up? Let’s do that!
