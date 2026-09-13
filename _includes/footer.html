@@ -1,47 +1,48 @@
-<div class="footer-content">
-  <div class="footer-links">
-    {% for item in site.data.navigation.footer %}
-      <div class="footer-nav-item">
-        <a class="internal-link footer-nav-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-        {% if item.children %}
-          <div class="footer-subnav">
-            {% for child in item.children %}
+<div class="footer-index">
+  {% for item in site.data.navigation.footer %}
+    <div class="footer-col">
+      <p class="footer-col-head">
+        <span class="index-num">[{{ forloop.index }}.0]</span><a class="internal-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      </p>
+      {% if item.children %}
+        <ul class="footer-subnav">
+          {% for child in item.children %}
+            <li>
               {% if child.url contains "://" %}
-              <a class="footer-subnav-link" href="{{ child.url }}" target="_blank" rel="noopener noreferrer">
-                {{ child.title }}
-              </a>
+              <a href="{{ child.url }}" target="_blank" rel="noopener noreferrer">{{ child.title }}</a>
               {% else %}
-              <a class="internal-link footer-subnav-link" href="{{ site.baseurl }}{{ child.url }}">
-                {{ child.title }}
-              </a>
+              <a class="internal-link" href="{{ site.baseurl }}{{ child.url }}">{{ child.title }}</a>
               {% endif %}
-            {% endfor %}
-          </div>
-        {% endif %}
-      </div>
-    {% endfor %}
-  </div>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
 
-  {% if site.data.navigation.social %}
-  <div class="footer-social">
-    {% for item in site.data.navigation.social %}
-      <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" title="{{ item.title }}">
-        {{ item.icon }} {{ item.title }}
-      </a>
-    {% endfor %}
-  </div>
-  {% endif %}
+{% if site.data.navigation.social %}
+<div class="footer-social">
+  {% for item in site.data.navigation.social %}
+    <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" title="{{ item.title }}">{{ item.title }}</a>
+  {% endfor %}
+</div>
+{% endif %}
 
-  <div class="footer-newsletter">
-    <p class="newsletter-label">Hear from Christin</p>
-    <iframe src="https://christin.substack.com/embed"
-      width="480" height="320"
-      style="border: 1px solid #E5DFD0; background: #FFFCF0"
-      frameborder="0" scrolling="no"></iframe>
-  </div>
+<div class="footer-newsletter">
+  <p class="newsletter-label">Hear from Christin</p>
+  <iframe src="https://christin.substack.com/embed"
+    width="480" height="320"
+    title="Subscribe to Christin's newsletter"
+    frameborder="0" scrolling="no"></iframe>
+</div>
 
-  <div class="footer-meta">
-    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }} &middot; Chong Consulting LLC. Maker of <a href="https://getgumleaf.com" target="_blank" rel="noopener noreferrer">GumLeaf</a>, answers by SMS. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.</p>
-    <p><a class="internal-link" href="{{ site.baseurl }}/privacy">Privacy Policy</a> &middot; Contact: <a href="mailto:support@getgumleaf.com">support@getgumleaf.com</a></p>
-  </div>
+<div class="footer-meta">
+  <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }} &middot; Chong Consulting LLC. Maker of <a href="https://getgumleaf.com" target="_blank" rel="noopener noreferrer">GumLeaf</a>, answers by SMS. Built with <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a>.</p>
+  <p><a class="internal-link" href="{{ site.baseurl }}/privacy">Privacy Policy</a> &middot; Contact: <a href="mailto:support@getgumleaf.com">support@getgumleaf.com</a></p>
+</div>
+
+<div class="footer-strip">
+  <span>Written at home, shared with love</span>
+  <span>Text 252-GUMLEAF &middot; <a href="https://getgumleaf.com" target="_blank" rel="noopener noreferrer">getgumleaf.com</a></span>
 </div>

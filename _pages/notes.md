@@ -4,8 +4,6 @@ title: Notes
 permalink: /notes
 ---
 
-# Notes
-
 ## Search
 
 <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
@@ -32,13 +30,13 @@ window.addEventListener('DOMContentLoaded', (event) => {
   --pagefind-ui-border: var(--color-border);
   --pagefind-ui-border-width: 1px;
   --pagefind-ui-border-radius: 4px;
-  --pagefind-ui-font: 'Menlo', Monaco, 'Courier New', monospace;
+  --pagefind-ui-font: var(--font-body);
 }
 
 /* Style search input to match footer newsletter input */
 #search .pagefind-ui__search-input {
-  font-family: 'Menlo', Monaco, 'Courier New', monospace !important;
-  font-size: 0.65625rem !important; /* Match newsletter input size */
+  font-family: var(--font-body) !important;
+  font-size: 0.9375rem !important;
   height: auto !important;
   padding: 0.5em 0.75em !important;
   background: var(--color-bg-secondary) !important;

@@ -2,12 +2,10 @@
 <html lang="en">
   {% include head.html %}
   <body>
-    <nav>{% include nav.html %}</nav>
+    <header class="site-header">{% include nav.html %}</header>
     <div class="wrapper">
       <main>{{ content }}</main>
-      <footer>{% include footer.html %}</footer>
+      <footer class="site-footer">{% include footer.html %}</footer>
     </div>
-
-    <script src="{{ site.baseurl }}/assets/js/theme-toggle.js"></script>
   </body>
 </html>

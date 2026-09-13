@@ -1,31 +1,25 @@
-<div class="site-nav">
-  <a class="internal-link site-title" href="{{ site.baseurl }}/">
-    <strong>{{ site.title }}</strong>
-  </a>
+<div class="running-head">
+  <a class="internal-link site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
-  <div class="nav-links">
+  <nav class="nav-links" aria-label="Main">
     {% for item in site.data.navigation.main %}
       {% if item.children %}
         <div class="nav-item has-dropdown">
-          <a class="internal-link nav-link" href="{{ site.baseurl }}{{ item.url }}">
-            {{ item.title }}
-          </a>
+          <a class="internal-link nav-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
           <div class="dropdown-menu">
             {% for child in item.children %}
-              <a class="internal-link dropdown-item" href="{{ site.baseurl }}{{ child.url }}">
-                {{ child.title }}
-              </a>
+              {% if child.url contains "://" %}
+              <a class="dropdown-item" href="{{ child.url }}" target="_blank" rel="noopener noreferrer">{{ child.title }}</a>
+              {% else %}
+              <a class="internal-link dropdown-item" href="{{ site.baseurl }}{{ child.url }}">{{ child.title }}</a>
+              {% endif %}
             {% endfor %}
           </div>
         </div>
       {% else %}
-        <a class="internal-link nav-link" href="{{ site.baseurl }}{{ item.url }}">
-          {{ item.title }}
-        </a>
+        <a class="internal-link nav-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       {% endif %}
     {% endfor %}
-    <button class="theme-toggle" aria-label="Toggle dark mode" title="Toggle theme">
-      ☀️
-    </button>
-  </div>
+  </nav>
 </div>
+<div class="double-rule" role="presentation"></div>

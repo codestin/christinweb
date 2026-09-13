@@ -4,14 +4,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Jekyll-based digital garden with Roam-style bidirectional linking, featuring a professional design inspired by stephango.com (minimalism) and christinchong.com (navigation structure). It uses Menlo typography, comprehensive dark mode support, and extensive keyboard shortcuts.
+This is a Jekyll-based digital garden with Roam-style bidirectional linking. The visual design is modelled on Christin's print newsletter layout (cream paper, Roboto Slab, letterspaced small labels, a tan masthead card, thin rules, an indexed footer). Light theme only. See `docs/superpowers/specs/2026-09-13-newsletter-print-redesign-design.md`.
 
 **Key Features:**
 - Double-bracket Wiki syntax (`[[note title]]`) for linking
 - Automatic backlink generation
 - Interactive graph visualization (dedicated `/graph` page)
-- Full dark/light theme system with keyboard toggle
-- Comprehensive keyboard shortcuts (search, navigation, focus mode)
 - Topic/tag-based organization
 - Dropdown navigation menus (pure CSS, hover-based)
 - Hierarchical footer navigation mirroring main nav
@@ -35,39 +33,20 @@ The site will be available at `http://localhost:4000` when running locally.
 ### Deployment
 The site is configured for Netlify deployment with the build command `jekyll build --trace` outputting to `_site/` directory (see netlify.toml:1-3).
 
-### Keyboard Shortcuts (for testing)
-- **d** - Toggle dark/light mode
-- **?** - Show keyboard shortcuts help
-- **/** or **Cmd+K** - Open search/command palette
-- **f** - Toggle focus mode
-- **g+h** - Go to home
-- **g+n** - Go to notes
-- **g+g** - Go to graph page
-- **g+a** - Go to about
-- **Esc** - Close overlays
-
 ## Architecture
 
-### Theme System
-The site uses CSS custom properties for a complete dark/light theme system:
+### Design System
+Palette, type scale and components live in `_sass/_style.scss`; font faces in `styles.scss`.
 
-**Theme Toggle:**
-- JavaScript: `assets/js/theme-toggle.js`
-- Component: `_includes/theme-toggle.html`
-- Storage: localStorage with key `theme-preference`
-- System preference detection via `prefers-color-scheme`
+**Palette (CSS custom properties on `:root`):** `--color-paper` #F4EFE4, `--color-ink` #201F1D, `--color-tan` #C8A76E (masthead, accents), `--color-tan-deep` #8A6A33 (links), `--color-rule` / `--color-rule-soft`. Older names (`--color-bg`, `--color-link`, `--color-border`, `--graph-*`) are kept as aliases for Pagefind and the graph. There is no dark mode.
 
-**Color Variables:**
-- Defined in `_sass/_style.scss` under `:root` (light) and `[data-theme="dark"]` (dark)
-- All components use CSS custom properties: `var(--color-bg)`, `var(--color-text)`, etc.
-- Graph visualization colors also theme-aware
+**Type:** Roboto Slab (variable, self-hosted in `assets/fonts/`) for body, headings and labels. Menlo only for code. The `label` mixin (11px, uppercase, 0.14em tracking) is the letterspaced style used for the running head, nav, eyebrows, bylines and footer headings.
 
-### Keyboard Shortcuts System
-Comprehensive keyboard navigation implemented in `assets/js/keyboard-shortcuts.js`:
+**Masthead card:** `_includes/masthead.html`, included by the `note` and `page` layouts. Renders the tan card with eyebrow, title, optional subtitle, rule and byline. Front matter overrides: `masthead_title`, `eyebrow`, `subtitle`, `tags`. The homepage (`id: home`) also shows the circular seal. Because the masthead renders the title, pages should not start with a `# Title` heading.
 
-**Navigation shortcuts:** g+h (home), g+n (notes), g+g (graph), g+a (about)
-**Utility shortcuts:** / (search), d (dark mode), f (focus mode), ? (help)
-**Components:** `_includes/shortcuts-help.html`, `_includes/command-palette.html`
+**Header:** `_includes/nav.html` renders the running head (site title left, nav right) and the double rule.
+
+**Footer:** `_includes/footer.html` renders indexed columns ("[1.0] Notes" ...), socials, Substack embed, meta, and the bottom strip.
 
 ### Navigation Structure
 Data-driven hierarchical navigation system using `_data/navigation.yml`:
@@ -81,7 +60,7 @@ Data-driven hierarchical navigation system using `_data/navigation.yml`:
 - Desktop: Hover over "Projects" or "Hire Me" to reveal subitems
 - Mobile: Tap to toggle, subitems display inline with left border
 - Visual indicator (▾) shows which items have dropdowns
-- Dark mode support via CSS custom properties
+- Dropdown panel uses paper background, ink border and a tan offset shadow
 - Smooth transitions and proper z-index layering
 
 **Footer Navigation:**
@@ -131,17 +110,9 @@ The site relies on custom Jekyll plugins in `_plugins/` that run during the buil
 - Pages use the `page` layout
 
 ### Layouts
-- `default.html` - Base layout with:
-  - Navigation (`_includes/nav.html`)
-  - Footer (`_includes/footer.html`)
-  - Theme toggle, shortcuts help, command palette
-  - Link previews (`_includes/link-previews.html`)
-  - Theme and keyboard shortcuts JavaScript
-- `note.html` - Extends default, adds note-specific features:
-  - Last modified timestamp
-  - Backlinks sidebar showing notes that mention this note
-  - **Graph removed** - now on dedicated `/graph` page
-- `page.html` - For static pages
+- `default.html` - Base layout: running head (`_includes/nav.html`), main, footer (`_includes/footer.html`)
+- `note.html` - Extends default: masthead card, content, backlinks list
+- `page.html` - Extends default: masthead card, content
 
 ### Graph Visualization
 - **Location:** Dedicated `/graph` page (moved from individual notes)
@@ -149,7 +120,7 @@ The site relies on custom Jekyll plugins in `_plugins/` that run during the buil
 - Graph data comes from `notes_graph.json` generated by bidirectional_links_generator.rb
 - Interactive features: click to navigate, hover to highlight connections
 - Node size based on number of connections (3-12px range)
-- **Dark mode support:** Uses CSS custom properties for theming
+- Colors come from the `--graph-*` custom properties
 - Styled in `_includes/notes_graph.html`
 
 ### Topic/Tag System
@@ -190,9 +161,9 @@ The site relies on custom Jekyll plugins in `_plugins/` that run during the buil
 ```
 
 **Typography**:
-- Font: Menlo (loaded via @font-face in `styles.scss` from `assets/fonts/`)
-- Base size: 1rem (mobile), 1.1rem (desktop)
-- Line height: 1.7 (body), 1.3 (headings)
+- Font: Roboto Slab variable (loaded via @font-face in `styles.scss` from `assets/fonts/`); Menlo for code
+- Base size: 17px desktop, 16px mobile
+- Line height: 1.65 (body), 1.2 (headings)
 
 ## Important Constraints
 
@@ -207,19 +178,14 @@ The site relies on custom Jekyll plugins in `_plugins/` that run during the buil
 
 This order matters when modifying the link generation logic.
 
-**Search Integration**: The keyboard shortcuts and command palette UI are implemented, but search functionality requires a Jekyll search plugin:
-- Recommended: Simple-Jekyll-Search (client-side, no backend needed)
-- Alternative: Lunr.js or Algolia
-- UI is ready at `_includes/command-palette.html`
-- Keyboard shortcuts (/ and Cmd+K) are wired up in `assets/js/keyboard-shortcuts.js`
+**Search**: Pagefind, built by Netlify after Jekyll (`netlify.toml`). The search UI lives in `_pages/notes.md` and `_pages/search.md`.
 
 ## Design Philosophy
 
 The site follows these design principles:
 
-1. **Minimal & Typography-Focused** - stephango.com-inspired clean aesthetic
-2. **Keyboard-First Navigation** - Extensive shortcuts for power users
-3. **Professional Structure** - christinchong.com-style categorical organization
-4. **Dark Mode Native** - Full theme support, not an afterthought
-5. **Accessible** - Proper focus states, semantic HTML, keyboard navigation
-6. **Content-First** - Design serves content, not the other way around
+1. **Print-Inspired** - looks like the mailed newsletter: paper, slab serif, rules, labels
+2. **Minimal & Typography-Focused** - the type does the work; few boxes, no shadows
+3. **Professional Structure** - categorical organization mirrored in header and footer
+4. **Accessible** - visible focus states, semantic HTML, keyboard navigation
+5. **Content-First** - design serves content, not the other way around

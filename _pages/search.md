@@ -4,8 +4,6 @@ title: Search
 permalink: /search
 ---
 
-# Search
-
 <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/_pagefind/pagefind-ui.js"></script>
 

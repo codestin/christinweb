@@ -3,9 +3,10 @@ layout: page
 title: Home
 id: home
 permalink: /
+masthead_title: "Hi, I'm Christin. Nice to meet ya! 🤝🏻"
+eyebrow: christinchong.com
+tags: [biotech strategy, medical education, chaplaincy, coaching]
 ---
-
-# Hi, I'm Christin. Nice to meet ya! 🤝🏻
 
 I'm a biotech strategy leader, a medical education expert, and a neuroscience PhD.
 
@@ -67,71 +68,3 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
 
 [View All Notes](/notes)
 
-<style>
-.home-sections {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 1.5em;
-  margin: 2em 0;
-}
-
-.home-section {
-  padding: 1.5em;
-  background: var(--color-bg-secondary);
-  border: 1px solid var(--color-border);
-  border-radius: 4px;
-  transition: all 0.3s ease;
-}
-
-.home-section:hover,
-.home-section:focus-within {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
-
-.home-section h3 {
-  margin-top: 0;
-  margin-bottom: 0.5em;
-}
-
-.home-section h3 a {
-  border-bottom: none;
-}
-
-.home-section h3 a:focus-visible {
-  outline: 2px solid var(--color-link);
-  outline-offset: 4px;
-  border-radius: 2px;
-}
-
-.home-section p {
-  margin: 0;
-  font-size: 0.9em;
-  color: var(--color-text-secondary);
-}
-
-[data-theme="dark"] .home-section:hover,
-[data-theme="dark"] .home-section:focus-within {
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-}
-
-/* Tablet and mobile: stack vertically */
-@media (max-width: 1024px) {
-  .home-sections {
-    grid-template-columns: 1fr;
-    gap: 1.5em;
-  }
-}
-
-/* Respect reduced motion preferences */
-@media (prefers-reduced-motion: reduce) {
-  .home-section {
-    transition: none;
-  }
-
-  .home-section:hover,
-  .home-section:focus-within {
-    transform: none;
-  }
-}
-</style>
