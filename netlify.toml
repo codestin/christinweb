@@ -2,47 +2,93 @@
   command = "jekyll build --trace && npx pagefind --site _site"
   publish = "_site"
 
-# Redirect old Writing URLs to Notes
+# Legacy URLs.
+#
+# force = true matters here. Without it Netlify serves a real file at the path
+# and never applies the rule, so old pages under _pages/unlinked kept shadowing
+# these redirects and showing superseded copy. Specific rules must stay above
+# the wildcards; Netlify uses the first match.
+
+# Writing -> Notes
 [[redirects]]
   from = "/writing"
   to = "/notes"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/writing/*"
   to = "/notes"
   status = 301
+  force = true
 
-# Legacy URL redirects from Super.so site (SEO preservation)
-[[redirects]]
-  from = "/offerings"
-  to = "/projects"
-  status = 301
-
+# Legacy URLs from the Super.so site (SEO preservation)
 [[redirects]]
   from = "/book"
   to = "/projects/debug-your-meditation"
   status = 301
+  force = true
+
+[[redirects]]
+  from = "/offerings/book"
+  to = "/projects/debug-your-meditation"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/offerings/coaching"
+  to = "/hire/coaching"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/offerings/*"
+  to = "/projects"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/offerings"
+  to = "/projects"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "/courses"
   to = "/projects"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/coaching"
   to = "/hire/coaching"
   status = 301
+  force = true
+
+[[redirects]]
+  from = "/speaking/*"
+  to = "/hire/consulting"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "/speaking"
   to = "/hire/consulting"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/consulting"
   to = "/hire/consulting"
   status = 301
+  force = true
+
+# Placeholder contact page from the site template
+[[redirects]]
+  from = "/contact"
+  to = "/hire"
+  status = 301
+  force = true
 
 # chong.consulting domain redirect (all paths -> consulting page)
 [[redirects]]

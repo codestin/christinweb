@@ -101,10 +101,10 @@ The site relies on custom Jekyll plugins in `_plugins/` that run during the buil
     - `hire/healthcare-consulting.md`
     - `hire/creativity-coaching.md`
     - `hire/meditation-support.md`
-  - **Unlinked (legacy/archived pages):**
-    - `unlinked/contact.md`, `unlinked/graph.html`, `unlinked/topics.html`
-    - `unlinked/offerings/`, `unlinked/speaking/`, `unlinked/about/` (subdirectories)
-    - Accessible via direct URL but not in navigation
+  - **Unlinked (not in navigation, still reachable by URL):**
+    - `unlinked/graph.html` (/graph) and `unlinked/topics.html` (/topics, linked from the Notes page)
+    - `unlinked/about/` archive pages
+    - Superseded offer pages (consulting, offerings, speaking, contact) were deleted; those URLs are handled by forced redirects in `netlify.toml`
 - Notes can be nested in subdirectories (e.g., `_notes/animals/cats.md`)
 - All notes use the `note` layout which includes backlinks (graph moved to dedicated page)
 - Pages use the `page` layout
@@ -166,6 +166,8 @@ The site relies on custom Jekyll plugins in `_plugins/` that run during the buil
 - Line height: 1.65 (body), 1.2 (headings)
 
 ## Important Constraints
+
+**Netlify redirects need `force = true`**: without it Netlify serves a real built file at the path and skips the rule. Legacy pages under `_pages/unlinked/` shadowed `/consulting`, `/offerings` and `/speaking` this way, serving superseded copy for months. Specific rules must appear above wildcards; the first match wins. If you add a page whose permalink collides with a redirect, the redirect stops working unless it is forced.
 
 **GitHub Pages Limitation**: This template uses custom plugins, so it cannot be deployed directly to GitHub Pages without building locally first. The `bidirectional_links_generator.rb` plugin is essential for generating `notes_graph.json` and GitHub Pages doesn't support custom plugins.
 
