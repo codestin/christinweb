@@ -42,7 +42,7 @@ Oncology, ophthalmology, nephrology, neurology, pulmonology, rheumatology, cardi
 
 I like meeting people working on hard problems in diagnostics, patient education, and healthcare marketing. I also like answering questions from people earlier on the path, especially the one about going from a neuroscience PhD into industry.
 
-If that's you, find a time and we'll talk. There's nothing to buy and nothing to sign. I'm not going to follow up with a proposal.
+If that's you, find a time and let's chat.
 
 [Find a time to talk](https://zcal.co/i/jUGywbl-)
 

@@ -16,6 +16,6 @@ I take a limited number of clients at a time.
 
 **Closed to new client work.** I'm full time at Guardant Health, so I'm not consulting on the side.
 
-I'm still glad to talk with people building in diagnostics, patient education, and healthcare marketing, and to answer questions from anyone considering the move from a science PhD into industry. Nothing to buy, nothing to sign.
+I'm still glad to talk with people building in diagnostics, patient education, and healthcare marketing, and to answer questions from anyone considering the move from a science PhD into industry.
 
 [What that work covered](/hire/consulting) &middot; [Find a time to talk](https://zcal.co/i/jUGywbl-)
