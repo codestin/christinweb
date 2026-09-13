@@ -1,5 +1,6 @@
 {%- comment -%}
-Tan masthead card, modelled on the print newsletter.
+Tan masthead card, modelled on the print newsletter. Each row carries
+different information: eyebrow = where you are, title, byline = topics.
 Front matter overrides: masthead_title, eyebrow, subtitle, tags.
 {%- endcomment -%}
 {%- assign is_note = false -%}
@@ -9,21 +10,19 @@ Front matter overrides: masthead_title, eyebrow, subtitle, tags.
 {%- if url_parts.size > 2 -%}{%- assign section = url_parts[1] | replace: "-", " " -%}{%- endif -%}
 <section class="masthead{% if page.id == 'home' %} masthead--home{% endif %}">
   <p class="masthead-eyebrow">
-    {{ site.title }} &middot;
-    {%- if page.eyebrow %} {{ page.eyebrow }}
-    {%- elsif is_note and page.date %} {{ page.date | date: "%b %-d, %Y" }}
-    {%- else %} christinchong.com{% endif %}
+    {%- if page.eyebrow %}{{ page.eyebrow }}
+    {%- elsif is_note %}Note &middot; {{ page.date | date: "%b %-d, %Y" }}
+    {%- elsif section != "" %}{{ section }}
+    {%- else %}christinchong.com{% endif -%}
   </p>
   <h1 class="masthead-title">{{ page.masthead_title | default: page.title }}</h1>
   {%- if page.subtitle %}
   <p class="masthead-subtitle">{{ page.subtitle }}</p>
   {%- endif %}
+  {%- if page.tags and page.tags.size > 0 %}
   <div class="masthead-rule" role="presentation"></div>
-  <p class="masthead-byline">
-    <span>{{ site.title }}</span>
-    {%- if is_note %}<span>Note</span>{% elsif section != "" %}<span>{{ section }}</span>{% endif %}
-    {%- if page.tags and page.tags.size > 0 %}<span>{{ page.tags | join: " &middot; " }}</span>{% endif %}
-  </p>
+  <p class="masthead-byline">{{ page.tags | slice: 0, 5 | join: " &middot; " }}</p>
+  {%- endif %}
   {%- if page.id == 'home' %}
   <div class="masthead-seal" aria-hidden="true"><span>Typed</span><span>&middot; &amp; &middot;</span><span>Posted</span></div>
   {%- endif %}

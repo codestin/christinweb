@@ -13,6 +13,15 @@ Make christinchong.com look like the print newsletter: cream paper, slab serif t
 - Dark mode removed: toggle, script, include, and dark color block deleted.
 - Circular stamp seal on the homepage masthead reading TYPED · & · POSTED.
 
+## Revisions after first review (same day)
+
+- **Sheet on a desk.** The body is a cream sheet with a border and soft shadow on a darker warm ground (`--color-desk` #E4D9C4). Full-bleed below 700px.
+- **Weights matched to the print piece.** Body 350, headings and the masthead title 600, labels 600. The PDF embeds Roboto Slab at weight 350 for body and Medium for display.
+- **Section heads.** `content > h2` is uppercase, letterspaced, auto-numbered `[1.0]` and ruled above and below. A divider immediately before one is hidden so the rule does not double.
+- **Drop cap** on the first paragraph of notes. That paragraph is `display: flow-root` so a short opening line cannot push the next paragraph sideways.
+- **Masthead de-duplicated.** Each row now says something different: eyebrow is location or date, then the title, then topics. The name appears once per screen, in the running head.
+- **Footer** no longer carries the contact address or the phone number and URL in the bottom strip.
+
 ## Palette
 
 | Token | Hex | Use |
@@ -32,7 +41,7 @@ Legacy variable names (`--color-bg`, `--color-link`, etc.) keep working as alias
 ## Type
 
 - Roboto Slab variable font, self-hosted in `assets/fonts/`, Apache 2.0 license file alongside.
-- Body 17px / 1.65. Headings weight 500. h1 in masthead 2.25rem.
+- Body 17px / 1.65 at weight 350. Headings and the masthead title weight 600. h1 in masthead 2.25rem.
 - Label style: 0.6875rem, weight 500, uppercase, letter-spacing 0.14em. Used for running head, nav, eyebrows, bylines, footer headings and strip.
 
 ## Components
