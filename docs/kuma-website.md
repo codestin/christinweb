@@ -27,3 +27,7 @@ Social sharing copy and artwork omit pricing claims to leave room for future pai
 ## Widget showcase
 
 The dedicated `#widgets` section shows the app’s small/medium Sunshine and Night Gold renders, explains weekly pebbles, the total-aspiration bar, optional streaks, Lock Screen support, and setup. Sources: MEDITATIONTIMER/docs/screenshots/widget-palettes. Desktop and 390px mobile layouts reviewed. App functionality is unchanged.
+
+## Apple Watch and Health showcase
+
+The `#apple-health` section covers independent Watch meditation, haptics, completed-session sync, heart-rate reports, optional Mindful Minutes, walking steps, permissions, and privacy. Claims checked against MEDITATIONTIMER/docs/WATCH.md, docs/HEART-RATE.md, docs/PRIVACY.md, and Sources/RitualView.swift. The report image is a cropped actual UI-test screenshot with synthetic example data, explicitly labeled on the page. Source: /tmp/KumaHealthWebsiteUI.xcresult, testHeartRateReportAndHistory (passed). Kuma and its embedded WidgetKit/Watch targets built as part of that run. Desktop and 390px mobile website previews checked; no overflow or missing report image.

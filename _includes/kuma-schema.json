@@ -45,7 +45,10 @@
         "Small and medium Home Screen widgets in Sunshine and Night Gold palettes",
         "Weekly practice pebbles or optional daily streak",
         "Total meditation-time aspiration progress bar",
-        "Compact Lock Screen widget"
+        "Compact Lock Screen widget",
+        "Start and finish meditation independently on Apple Watch; completed sessions sync to iPhone",
+        "Optional heart-rate reports from recorded Apple Health samples during meditation",
+        "Optional Apple Health step reports for walking meditations"
       ],
       "creator": {
         "@id": "https://christinchong.com/kuma/#creator"
