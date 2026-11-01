@@ -31,3 +31,7 @@ The dedicated `#widgets` section shows the app’s small/medium Sunshine and Nig
 ## Apple Watch and Health showcase
 
 The `#apple-health` section covers independent Watch meditation, haptics, completed-session sync, heart-rate reports, optional Mindful Minutes, walking steps, permissions, and privacy. Claims checked against MEDITATIONTIMER/docs/WATCH.md, docs/HEART-RATE.md, docs/PRIVACY.md, and Sources/RitualView.swift. The report image is a cropped actual UI-test screenshot with synthetic example data, explicitly labeled on the page. Source: /tmp/KumaHealthWebsiteUI.xcresult, testHeartRateReportAndHistory (passed). Kuma and its embedded WidgetKit/Watch targets built as part of that run. Desktop and 390px mobile website previews checked; no overflow or missing report image.
+
+## Watch screenshots
+
+The Watch gallery uses actual 416×496 screenshots from KumaWatch in the Apple Watch Series 11 (46mm), watchOS 26.2 simulator. Captured with the existing debug --watch-preview and --watch-active-preview flags; the 68 bpm value is fixture data and is labeled as such. CSS frames are illustrative, not device photographs. Originals: /tmp/kuma-watch-begin.png and /tmp/kuma-watch-meditating.png. No app or artwork code changed. Jekyll build and desktop/390px browser checks passed.

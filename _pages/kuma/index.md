@@ -63,6 +63,12 @@ permalink: /kuma/
       <h2 id="health-title">A quiet moment.<br>A fuller picture.</h2>
       <p>Leave your phone aside, begin from your wrist, and bring your practice into Apple Health. Kuma connects the time you make for meditation with the readings your Watch records along the way.</p>
     </div>
+    <div class="watch-gallery" aria-labelledby="watch-gallery-title">
+      <div class="watch-gallery-intro"><p class="eyebrow">Kuma on your wrist</p><h3 id="watch-gallery-title">A little quiet.<br>Within reach.</h3><p>Simple controls, a familiar companion, and your session at a glance. Here’s what Kuma looks like on Apple Watch.</p></div>
+      <figure class="watch-example"><div class="watch-frame"><img src="/assets/kuma/watch-begin.webp" width="416" height="496" loading="lazy" alt="Kuma’s Apple Watch home screen with the bear illustration, A little quiet, and Begin button"></div><figcaption><strong>A place to begin.</strong><span>Open Kuma on your Watch and settle into a session.</span></figcaption></figure>
+      <figure class="watch-example"><div class="watch-frame"><img src="/assets/kuma/watch-meditating.webp" width="416" height="496" loading="lazy" alt="Kuma’s active Apple Watch meditation screen showing the timer and an example heart-rate reading"></div><figcaption><strong>Stay with your moment.</strong><span>See your timer and, with Health access, your heart rate.</span></figcaption></figure>
+      <p class="watch-preview-note">Actual app screens captured in the Apple Watch simulator, shown in illustrative frames. Heart rate is example data; appearance varies by Watch size and text settings.</p>
+    </div>
     <div class="health-story">
       <figure class="health-report"><div class="health-chart"><p class="eyebrow">A closer look at your session</p><h3>Heart rate over time</h3><img src="/assets/kuma/heart-rate-report.webp" width="1000" height="580" loading="lazy" alt="Kuma’s heart-rate report displaying recorded readings across a meditation session"></div><figcaption>Detail from Kuma’s session report. Example data from a test session; not a prediction of how your heart rate will change.</figcaption></figure>
       <div class="health-features">
