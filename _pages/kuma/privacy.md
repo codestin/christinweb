@@ -50,3 +50,7 @@ Feedback is stored separately from your optional Kuma account and is not deleted
 You can practice without an account, decline Health permissions, leave cloud backup and sharing off, disable notifications, export your history, delete your account, or contact us about access, correction, and deletion. Privacy rights depend on your location. We will update this policy when Kuma’s data practices change and show the effective date above.
 
 [Back to Kuma](/kuma/) · [Support](/kuma/support/)
+
+## Beta waitlist
+
+If you join the beta waitlist on this website, Chong Consulting LLC collects your email address and your consent to receive Kuma beta availability updates. This signup is separate from the app and does not subscribe you to Christin’s newsletter. Netlify Forms processes and stores submissions and may process request information for spam prevention. We use the list to send beta availability and installation updates, not advertising for other products. We retain it while the beta invitation program is active, then delete it when no longer needed for that purpose. To withdraw consent or request deletion, email [hi@christinchong.com](mailto:hi@christinchong.com) with “Kuma beta list” in the subject. See [Netlify’s privacy policy](https://www.netlify.com/privacy/) for its handling of service data.

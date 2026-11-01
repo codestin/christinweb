@@ -1,42 +1,23 @@
 ---
-layout: page
-title: Kuma Meditation Timer
+layout: kuma
+title: A little room for being here
+description: A free meditation timer for iPhone. Meet Kuma, find your own rhythm, and make a little room for quiet. Join the beta list.
 permalink: /kuma/
-eyebrow: A project by Christin Chong
-subtitle: A quiet companion for returning to practice.
 ---
-
-Kuma is a free meditation timer for iPhone, with an Apple Watch companion and Home Screen widgets. Settle in, choose a posture, and let the bell mark your time. You can practice without an account.
-
-## A little space to practice
-
-- Choose an open-ended or timed meditation, with preparation, interval, starting, and finishing bells.
-- Practice sitting, walking, standing, or lying down.
-- Keep a private session history, set daily and longer-term aspirations, and export your history as CSV.
-- Keep encouragement nearby with Home Screen widgets and the Apple Watch companion.
-- Read the offline meditation guide whenever you need a reminder.
-- Optionally save sessions as Apple Health Mindful Minutes and view heart-rate or walking-step reports with permission.
-
-All meditation features are free. Optional newsletter support does not unlock app features.
-
-## Public beta
-
-Kuma’s public TestFlight beta is being prepared. External testing is not yet available; Apple must approve a build before new testers can install it. This page will be updated when the beta opens.
-
-The beta requires an iPhone running iOS 18 or later. The optional Watch app requires watchOS 11 or later. TestFlight builds expire after 90 days, so keep the TestFlight app installed for updates.
-
-When testing opens, install Apple’s TestFlight app, follow the invitation link, and choose Install. Please focus on timer reliability, bells with the phone locked, saving sessions, widgets, and accessibility. The beta may contain bugs; exporting important history gives you a copy you control.
-
-## Privacy and your choices
-
-Solo practice works without signing in. Apple Health is optional. Sign in with Apple and private cloud backup are separate choices. New friend invitations are disabled while the beta installation flow is being validated.
-
-[Read Kuma’s privacy policy](/kuma/privacy/) for details about local history, optional cloud backup, Health, feedback, and deletion. The policy is also available inside Kuma’s Settings.
-
-## Feedback and support
-
-Use **Send Christin feedback** in Settings, or email [hi@christinchong.com](mailto:hi@christinchong.com). Helpful bug reports include your device, iOS version, Kuma version, what you expected, and what happened. Please do not include private Health information unless you intend to share it.
-
-[Support and frequently asked questions](/kuma/support/)
-
-Kuma is made by Christin Chong and provided by Chong Consulting LLC.
+<section class="hero wrap">
+<div class="hero-copy"><p class="eyebrow">A quiet companion for meditation</p><h1>A little room<br>for <em>being here.</em></h1><p class="intro">Meet Kuma. A gentle meditation timer that helps you return to your own practice, one quiet moment at a time.</p><a class="button" href="#beta">Let me know when it’s ready <span aria-hidden="true">↗</span></a><p class="fine">Free meditation features · Made for iPhone · Beta coming soon</p></div>
+<figure class="hero-art"><img src="/assets/kuma/kuma.webp" alt="Kuma, a round bear with an ensō on his belly, resting on a golden cushion" width="1000" height="1000" fetchpriority="high"><figcaption>A small companion. A softer place to begin.</figcaption></figure>
+</section>
+<div class="manifesto"><div class="wrap"><p>You don’t have to make every day perfect.<br><strong>Just make a little space to return.</strong></p><span aria-hidden="true">● ● ● ○ ● ○ ○</span></div></div>
+<section id="practice" class="wrap section">
+<div class="section-heading"><p class="eyebrow">Less choosing. More being.</p><h2>Your practice,<br>at your pace.</h2><p>For the moments when you already know what you need: a little quiet, a bell, and somewhere to begin.</p></div>
+<div class="screens">
+<article><div class="phone"><img src="/assets/kuma/meditate.webp" alt="Kuma’s Meditate screen with a ten-minute timer and illustrated sitting, walking, standing, and lying-down options" width="690" height="1500" loading="lazy"></div><p class="eyebrow">01 / Settle in</p><h3>A timer that leaves you room.</h3><p>Choose your time and posture. Let the bell end your session, or keep going until you’re ready. Preparation and interval bells help you settle into your own rhythm.</p></article>
+<article><div class="phone"><img src="/assets/kuma/log.webp" alt="The practice log showing seven practice pebbles, a flexible weekly aspiration, and recent sessions" width="690" height="1500" loading="lazy"></div><p class="eyebrow">02 / Return gently</p><h3>A rhythm you can live with.</h3><p>Aspire to practice on one to seven days a week. Short sessions count. See your days gather as pebbles, with a personal log of the time you’ve made for yourself.</p></article>
+<article><div class="phone"><img src="/assets/kuma/guide.webp" alt="Kuma’s offline Guide with expandable teachings for meditation practice" width="690" height="1500" loading="lazy"></div><p class="eyebrow">03 / Find your bearings</p><h3>A little guidance, close by.</h3><p>Open the illustrated, offline guide when you need a reminder. Read a teaching, take a reflection with you, and come back to your experience.</p></article>
+</div><p class="caption">Real screens from the app in development. Details may change before release.</p>
+</section>
+<section class="difference"><div class="wrap difference-grid"><div><p class="eyebrow">A different kind of meditation app</p><h2>Come for the quiet.<br>Stay for the bear.</h2><p class="intro">Kuma is built around the simple act of showing up.</p><p>A library of guided meditations can be wonderful when you want someone to lead. Kuma offers a small, personal space for practicing on your own—with a companion who’s happy to see you return.</p></div><div class="notes"><article><span>01</span><div><h3>Something to return to</h3><p>Warm woodblock-inspired illustrations and Kuma’s changing expressions bring a little personality to an everyday ritual.</p></div></article><article><span>02</span><div><h3>Encouragement, on your terms</h3><p>Flexible weekly aspirations are the starting point. Prefer a daily streak? That’s an option, too. Choose the reminders that fit your day.</p></div></article><article><span>03</span><div><h3>Your attention stays yours</h3><p>Open the timer and begin. Solo practice needs no account, and all meditation features are free.</p></div></article></div></div></section>
+<section class="wrap section nearby"><div class="widget-art"><img src="/assets/kuma/widget.webp" alt="Golden Kuma Home Screen widget with practice pebbles and a Begin button" width="1000" height="478" loading="lazy"><p class="caption">A small reminder, right on your Home Screen.</p></div><div><p class="eyebrow">Fits into your everyday</p><h2>Keep a little<br>quiet nearby.</h2><p>Home Screen widgets keep Kuma within reach. The optional Apple Watch companion lets you start a meditation from your wrist.</p><p>Save Mindful Minutes to Apple Health if you choose. Keep your session history close, and export it whenever you want a copy of your own.</p><a class="text-link" href="/kuma/privacy/">Your practice, your choices <span aria-hidden="true">↗</span></a></div></section>
+<section class="signup" id="beta"><div class="wrap signup-grid"><div><p class="eyebrow">A quiet invitation</p><h2>Be here<br>for the beginning.</h2><p class="intro">Leave your email and we’ll let you know when Kuma’s public beta is ready to try.</p><p>For iPhone with iOS 18 or later.<br>No release date yet. We’ll write when it’s ready.</p></div><div class="signup-form"><form name="kuma-beta" method="POST" action="/kuma/thanks/" data-netlify="true" netlify-honeypot="bot-field"><input type="hidden" name="form-name" value="kuma-beta"><p hidden><label>Leave this empty <input name="bot-field" tabindex="-1" autocomplete="off"></label></p><label for="email">Your email address</label><input id="email" name="email" type="email" autocomplete="email" placeholder="you@example.com" maxlength="254" required aria-describedby="signup-privacy"><label class="consent"><input name="beta-consent" type="checkbox" value="yes" required><span>Email me about Kuma’s beta availability.</span></label><button class="button" type="submit">Save my place <span aria-hidden="true">↗</span></button><p class="fine" id="signup-privacy">Only Kuma beta updates. This won’t subscribe you to a newsletter. Your email is stored securely through Netlify Forms. To leave the list, email <a href="mailto:hi@christinchong.com?subject=Remove%20me%20from%20the%20Kuma%20beta%20list">hi@christinchong.com</a>. <a href="/kuma/privacy/#beta-waitlist">Waitlist privacy</a>.</p></form></div></div></section>
+<section class="wrap section faq" id="questions"><div><p class="eyebrow">A few things to know</p><h2>Before you settle in.</h2></div><div><details><summary>Is Kuma free?</summary><p>Yes. All meditation features are free. Optional support for Christin’s work does not unlock features.</p></details><details><summary>How is Kuma different from apps like Insight Timer?</summary><p>If you want a wide library of guided sessions, an app like <a href="https://insighttimer.com/">Insight Timer</a> may suit you. Kuma focuses on self-directed practice: a flexible timer, an illustrated companion, a weekly rhythm, and your personal log. Its offline guide offers written teachings and reflections rather than an audio catalog.</p></details><details><summary>Do I need an account or an Apple Watch?</summary><p>Neither. Solo practice works without signing in. Cloud backup and Apple Health are optional, and you can use Kuma entirely on your iPhone. The optional Watch companion requires watchOS 11 or later.</p></details><details><summary>When can I try the beta?</summary><p>The public TestFlight beta is being prepared. Join the email list above and we’ll send the installation details when external testing is available. Signing up does not install the app or guarantee a release date.</p></details><details><summary>What if I miss a day?</summary><p>Kuma starts with a flexible weekly aspiration, so you can build a rhythm that makes room for life. Any completed session counts as practice that day, including a short one. You can choose a strict daily streak in Settings if that’s helpful to you.</p></details></div></section>
