@@ -23,3 +23,7 @@ The landing page includes a visible product facts section and JSON-LD in `_inclu
 These changes improve clarity and discoverability; they do not guarantee citations, AI rankings, or rich results. Guidance: https://developers.google.com/search/docs/appearance/ai-features .
 
 Social sharing copy and artwork omit pricing claims to leave room for future paid features.
+
+## Widget showcase
+
+The dedicated `#widgets` section shows the app’s small/medium Sunshine and Night Gold renders, explains weekly pebbles, the total-aspiration bar, optional streaks, Lock Screen support, and setup. Sources: MEDITATIONTIMER/docs/screenshots/widget-palettes. Desktop and 390px mobile layouts reviewed. App functionality is unchanged.

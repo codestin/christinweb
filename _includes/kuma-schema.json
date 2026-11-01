@@ -40,9 +40,12 @@
         "Flexible weekly aspirations",
         "Private session history and CSV export",
         "Offline written meditation guide",
-        "Home Screen widgets",
         "Optional Apple Watch companion (watchOS 11+)",
-        "Optional Apple Health Mindful Minutes"
+        "Optional Apple Health Mindful Minutes",
+        "Small and medium Home Screen widgets in Sunshine and Night Gold palettes",
+        "Weekly practice pebbles or optional daily streak",
+        "Total meditation-time aspiration progress bar",
+        "Compact Lock Screen widget"
       ],
       "creator": {
         "@id": "https://christinchong.com/kuma/#creator"
