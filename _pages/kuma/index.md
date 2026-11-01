@@ -1,7 +1,8 @@
 ---
 layout: kuma
 title: A little room for being here
-description: A free meditation timer for iPhone. Meet Kuma, find your own rhythm, and make a little room for quiet. Join the beta list.
+seo_title: Free iPhone Meditation Timer & Beta Waitlist
+description: Kuma is a free iPhone meditation timer with flexible weekly aspirations, an illustrated bear companion, widgets, and an offline guide. Join the beta waitlist.
 permalink: /kuma/
 ---
 <section class="hero wrap">
@@ -9,6 +10,11 @@ permalink: /kuma/
 <figure class="hero-art"><img src="/assets/kuma/kuma.webp" alt="Kuma, a round bear with an ensō on his belly, resting on a golden cushion" width="1000" height="1000" fetchpriority="high"><figcaption>A small companion. A softer place to begin.</figcaption></figure>
 </section>
 <div class="manifesto"><div class="wrap"><p>You don’t have to make every day perfect.<br><strong>Just make a little space to return.</strong></p><span aria-hidden="true">● ● ● ○ ● ○ ○</span></div></div>
+<section class="wrap product-facts" aria-labelledby="about-kuma">
+<p class="eyebrow">Meet your practice companion</p><h2 id="about-kuma">What is Kuma?</h2>
+<p>Kuma is a free meditation timer for iPhone, made by Christin Chong and provided by Chong Consulting LLC. It supports self-directed meditation with timed or open-ended sessions, flexible weekly aspirations, an illustrated bear companion, a personal practice log, and an offline written guide.</p>
+<dl><div><dt>Availability</dt><dd>Public beta in preparation; email waitlist open</dd></div><div><dt>Devices</dt><dd>iPhone with iOS 18+; optional Apple Watch with watchOS 11+</dd></div><div><dt>Price</dt><dd>All meditation features are free</dd></div><div><dt>Account</dt><dd>No account needed for solo practice</dd></div></dl>
+</section>
 <section id="practice" class="wrap section">
 <div class="section-heading"><p class="eyebrow">Less choosing. More being.</p><h2>Your practice,<br>at your pace.</h2><p>For the moments when you already know what you need: a little quiet, a bell, and somewhere to begin.</p></div>
 <div class="screens">

@@ -1,0 +1,121 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://christinchong.com/kuma/#webpage",
+      "url": "https://christinchong.com/kuma/",
+      "name": "Kuma — Free iPhone Meditation Timer & Beta Waitlist",
+      "description": "A free meditation timer for self-directed practice. Public beta in preparation; email waitlist open.",
+      "inLanguage": "en",
+      "mainEntity": {
+        "@id": "https://christinchong.com/kuma/#app"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://christinchong.com/kuma/#social-image"
+      },
+      "publisher": {
+        "@id": "https://christinchong.com/kuma/#publisher"
+      }
+    },
+    {
+      "@type": "MobileApplication",
+      "@id": "https://christinchong.com/kuma/#app",
+      "name": "Kuma",
+      "url": "https://christinchong.com/kuma/",
+      "applicationCategory": "LifestyleApplication",
+      "operatingSystem": "iOS 18 or later",
+      "isAccessibleForFree": true,
+      "description": "Kuma is a free iPhone meditation timer for self-directed practice. The public beta is being prepared; installation is not yet available. Solo practice needs no account.",
+      "image": "https://christinchong.com/assets/kuma/social-preview-v2.jpg",
+      "screenshot": [
+        "https://christinchong.com/assets/kuma/meditate.webp",
+        "https://christinchong.com/assets/kuma/log.webp",
+        "https://christinchong.com/assets/kuma/guide.webp"
+      ],
+      "featureList": [
+        "Timed and open-ended meditation",
+        "Preparation and interval bells",
+        "Sitting, walking, standing, and lying-down postures",
+        "Flexible weekly aspirations",
+        "Private session history and CSV export",
+        "Offline written meditation guide",
+        "Home Screen widgets",
+        "Optional Apple Watch companion (watchOS 11+)",
+        "Optional Apple Health Mindful Minutes"
+      ],
+      "creator": {
+        "@id": "https://christinchong.com/kuma/#creator"
+      },
+      "publisher": {
+        "@id": "https://christinchong.com/kuma/#publisher"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://christinchong.com/kuma/#creator",
+      "name": "Christin Chong",
+      "url": "https://christinchong.com/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://christinchong.com/kuma/#publisher",
+      "name": "Chong Consulting LLC",
+      "url": "https://christinchong.com/"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://christinchong.com/kuma/#social-image",
+      "contentUrl": "https://christinchong.com/assets/kuma/social-preview-v2.jpg",
+      "width": 1200,
+      "height": 630,
+      "caption": "Kuma — A quiet companion for meditation"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://christinchong.com/kuma/#questions",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is Kuma free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. All meditation features are free. Optional support for Christin’s work does not unlock features."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Kuma different from apps like Insight Timer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If you want a wide library of guided sessions, an app like Insight Timer may suit you. Kuma focuses on self-directed practice: a flexible timer, an illustrated companion, a weekly rhythm, and your personal log. Its offline guide offers written teachings and reflections rather than an audio catalog."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need an account or an Apple Watch?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Neither. Solo practice works without signing in. Cloud backup and Apple Health are optional, and you can use Kuma entirely on your iPhone. The optional Watch companion requires watchOS 11 or later."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When can I try the beta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The public TestFlight beta is being prepared. Join the email list above and we’ll send the installation details when external testing is available. Signing up does not install the app or guarantee a release date."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I miss a day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kuma starts with a flexible weekly aspiration, so you can build a rhythm that makes room for life. Any completed session counts as practice that day, including a short one. You can choose a strict daily streak in Settings if that’s helpful to you."
+          }
+        }
+      ]
+    }
+  ]
+}
