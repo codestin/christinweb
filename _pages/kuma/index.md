@@ -1,8 +1,8 @@
 ---
 layout: kuma
 title: A little room for being here
-seo_title: Free iPhone Meditation Timer & Beta Waitlist
-description: Kuma is a free iPhone meditation timer with flexible weekly aspirations, an illustrated bear companion, widgets, and an offline guide. Join the beta waitlist.
+seo_title: iPhone Meditation Timer & Beta Waitlist
+description: Kuma is an iPhone meditation timer with flexible weekly aspirations, an illustrated bear companion, widgets, and an offline guide. Join the beta waitlist.
 permalink: /kuma/
 ---
 <section class="hero wrap">

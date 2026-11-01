@@ -5,7 +5,7 @@
       "@type": "WebPage",
       "@id": "https://christinchong.com/kuma/#webpage",
       "url": "https://christinchong.com/kuma/",
-      "name": "Kuma — Free iPhone Meditation Timer & Beta Waitlist",
+      "name": "Kuma — iPhone Meditation Timer & Beta Waitlist",
       "description": "A free meditation timer for self-directed practice. Public beta in preparation; email waitlist open.",
       "inLanguage": "en",
       "mainEntity": {
@@ -27,7 +27,7 @@
       "operatingSystem": "iOS 18 or later",
       "isAccessibleForFree": true,
       "description": "Kuma is a free iPhone meditation timer for self-directed practice. The public beta is being prepared; installation is not yet available. Solo practice needs no account.",
-      "image": "https://christinchong.com/assets/kuma/social-preview-v2.jpg",
+      "image": "https://christinchong.com/assets/kuma/social-preview-v3.jpg",
       "screenshot": [
         "https://christinchong.com/assets/kuma/meditate.webp",
         "https://christinchong.com/assets/kuma/log.webp",
@@ -66,7 +66,7 @@
     {
       "@type": "ImageObject",
       "@id": "https://christinchong.com/kuma/#social-image",
-      "contentUrl": "https://christinchong.com/assets/kuma/social-preview-v2.jpg",
+      "contentUrl": "https://christinchong.com/assets/kuma/social-preview-v3.jpg",
       "width": 1200,
       "height": 630,
       "caption": "Kuma — A quiet companion for meditation"
