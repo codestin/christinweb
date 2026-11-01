@@ -4,6 +4,14 @@ title: Projects
 permalink: /projects
 ---
 
+## [Kuma](/kuma/)
+
+A free meditation timer for iPhone, with an Apple Watch companion, gentle bells, a private practice history, and Home Screen widgets. Public TestFlight testing is being prepared.
+
+[Meet Kuma](/kuma/) · [Privacy](/kuma/privacy/) · [Support](/kuma/support/)
+
+---
+
 ## [GumLeaf](https://getgumleaf.com)
 
 Text any question and get a real answer back by SMS — weather, how-tos, anything — even over satellite, ten miles past your last bar of signal. No app, no account: your phone number is your account. Operated by Chong Consulting LLC.

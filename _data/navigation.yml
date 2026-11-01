@@ -6,6 +6,8 @@ main:
   - title: Projects
     url: /projects
     children:
+      - title: Kuma
+        url: /kuma/
       - title: GumLeaf
         url: https://getgumleaf.com
       - title: Reframe Science
@@ -42,6 +44,8 @@ footer:
   - title: Projects
     url: /projects
     children:
+      - title: Kuma
+        url: /kuma/
       - title: GumLeaf
         url: https://getgumleaf.com
       - title: Reframe Science
