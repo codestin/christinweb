@@ -89,5 +89,5 @@
 
 .duo-portrait .duo-leaf,.duo-tabletop .duo-leaf{background:#faf8f0;display:flex;flex-direction:column;align-items:center;justify-content:center;overflow:hidden;padding:8px;position:relative}.duo-portrait .duo-primary img,.duo-tabletop .duo-primary img{height:100px;width:100px;object-fit:contain}.duo-mini-title{position:absolute;left:8px;top:5px;font-size:12px;font-weight:bold}.duo-primary strong{font-size:10px;margin-top:12px}.duo-mini-clock{font-size:30px;line-height:1.2}.duo-mini-label{font-size:5px;letter-spacing:.1em}.duo-mini-options,.duo-mini-times{display:flex;gap:4px;justify-content:center;margin-top:8px;width:100%;font-size:6px}.duo-mini-options span,.duo-mini-times span{padding:5px 4px;border:1px solid #d1cab9;border-radius:5px}.duo-mini-options span:first-child,.duo-mini-times span:first-child{background:#ffda57}.duo-mini-times span{flex:1;text-align:center}.duo-mini-begin{font-size:8px;background:#353a31;color:#faf8f0;width:100%;text-align:center;padding:4px;border-radius:6px;margin-top:6px}.duo-mini-tabs{font-size:6px;margin-top:6px}
 
-.duo-pose{perspective:700px}.duo-tabletop{transform:scale(.8);width:250px}.duo-card:last-child{grid-column:1/-1}.duo-card:last-child .duo-wide{width:540px}.duo-card:last-child .duo-stage{height:430px}
-@media(max-width:750px){.duo-card:last-child .duo-stage{height:310px}}
+.duo-pose{perspective:700px}.duo-tabletop{transform:scale(.8);width:250px}
+
