@@ -1,8 +1,3 @@
-{%- comment -%}
-Tan masthead card, modelled on the print newsletter. Each row carries
-different information: eyebrow = where you are, title, byline = topics.
-Front matter overrides: masthead_title, eyebrow, subtitle, tags.
-{%- endcomment -%}
 {%- assign is_note = false -%}
 {%- if page.collection == "notes" -%}{%- assign is_note = true -%}{%- endif -%}
 {%- assign url_parts = page.url | split: "/" -%}
@@ -15,7 +10,7 @@ Front matter overrides: masthead_title, eyebrow, subtitle, tags.
     {%- elsif section != "" %}{{ section }}
     {%- else %}christinchong.com{% endif -%}
   </p>
-  <h1 class="masthead-title">{{ page.masthead_title | default: page.title }}</h1>
+  <h1 class="masthead-title">{% if page.id == 'home' %}Hi, I'm Christin.<br><span class="heading-highlight">Nice to meet ya!</span>{% else %}{{ page.masthead_title | default: page.title }}{% endif %}</h1>
   {%- if page.subtitle %}
   <p class="masthead-subtitle">{{ page.subtitle }}</p>
   {%- endif %}
@@ -24,6 +19,6 @@ Front matter overrides: masthead_title, eyebrow, subtitle, tags.
   <p class="masthead-byline">{{ page.tags | slice: 0, 5 | join: " &middot; " }}</p>
   {%- endif %}
   {%- if page.id == 'home' %}
-  <div class="masthead-seal" aria-hidden="true"><span>Typed</span><span>&middot; &amp; &middot;</span><span>Posted</span></div>
+  <div class="hero-actions"><a class="button" href="#projects">Explore my work <span aria-hidden="true">↗</span></a><a class="text-link" href="/hire">Work with me <span aria-hidden="true">→</span></a></div>
   {%- endif %}
 </section>

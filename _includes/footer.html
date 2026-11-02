@@ -2,7 +2,7 @@
   {% for item in site.data.navigation.footer %}
     <div class="footer-col">
       <p class="footer-col-head">
-        <span class="index-num">[{{ forloop.index }}.0]</span><a class="internal-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+        <a class="internal-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.title | replace: "Hire Me", "Hire me" }}</a>
       </p>
       {% if item.children %}
         <ul class="footer-subnav">
@@ -24,7 +24,7 @@
 {% if site.data.navigation.social %}
 <div class="footer-social">
   {% for item in site.data.navigation.social %}
-    <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" title="{{ item.title }}">{{ item.title }}</a>
+    <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" title="{{ item.title | replace: "Hire Me", "Hire me" }}">{{ item.title | replace: "Hire Me", "Hire me" }}</a>
   {% endfor %}
 </div>
 {% endif %}
@@ -34,7 +34,7 @@
   <iframe src="https://christin.substack.com/embed"
     width="480" height="320"
     title="Subscribe to Christin's newsletter"
-    frameborder="0" scrolling="no"></iframe>
+    loading="lazy" scrolling="no"></iframe>
 </div>
 
 <div class="footer-meta">

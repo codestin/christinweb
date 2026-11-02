@@ -1,25 +1,24 @@
 <div class="running-head">
-  <a class="internal-link site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-  <nav class="nav-links" aria-label="Main">
-    {% for item in site.data.navigation.main %}
-      {% if item.children %}
-        <div class="nav-item has-dropdown">
-          <a class="internal-link nav-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-          <div class="dropdown-menu">
-            {% for child in item.children %}
-              {% if child.url contains "://" %}
-              <a class="dropdown-item" href="{{ child.url }}" target="_blank" rel="noopener noreferrer">{{ child.title }}</a>
-              {% else %}
-              <a class="internal-link dropdown-item" href="{{ site.baseurl }}{{ child.url }}">{{ child.title }}</a>
-              {% endif %}
-            {% endfor %}
-          </div>
-        </div>
-      {% else %}
-        <a class="internal-link nav-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-      {% endif %}
-    {% endfor %}
-  </nav>
+  <a class="site-title" href="{{ site.baseurl }}/">Christin Chong<span class="site-credential">, PhD</span><span class="brand-dot" aria-hidden="true"></span></a>
+  <nav class="nav-links desktop-navigation" aria-label="Main">{% include nav-items.html %}</nav>
+  <details class="mobile-navigation">
+    <summary>Menu</summary>
+    <nav class="nav-links" aria-label="Main mobile">{% include nav-items.html %}</nav>
+  </details>
 </div>
-<div class="double-rule" role="presentation"></div>
+<script>
+  document.querySelector('.site-header').addEventListener('keydown', function (event) {
+    if (event.key !== 'Escape') return;
+    const disclosure = event.target.closest('details[open]');
+    if (disclosure) {
+      disclosure.open = false;
+      disclosure.querySelector('summary').focus();
+      event.preventDefault();
+    }
+  });
+  document.addEventListener('click', function (event) {
+    document.querySelectorAll('.desktop-navigation details[open]').forEach(function (menu) {
+      if (!menu.contains(event.target)) menu.open = false;
+    });
+  });
+</script>

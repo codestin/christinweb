@@ -9,99 +9,19 @@ permalink: /notes
 <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/_pagefind/pagefind-ui.js"></script>
 
-<div id="search"></div>
+<div id="notes-search" class="site-search"></div>
 
 <script>
 window.addEventListener('DOMContentLoaded', (event) => {
   new PagefindUI({
-    element: "#search",
+    element: "#notes-search",
     showSubResults: true,
     excerptLength: 30
   });
 });
 </script>
 
-<style>
-/* Override Pagefind CSS variables to match site theme */
-#search {
-  --pagefind-ui-primary: var(--color-link);
-  --pagefind-ui-text: var(--color-text);
-  --pagefind-ui-background: var(--color-bg-secondary);
-  --pagefind-ui-border: var(--color-border);
-  --pagefind-ui-border-width: 1px;
-  --pagefind-ui-border-radius: 4px;
-  --pagefind-ui-font: var(--font-body);
-}
 
-/* Style search input to match footer newsletter input */
-#search .pagefind-ui__search-input {
-  font-family: var(--font-body) !important;
-  font-size: 0.9375rem !important;
-  height: auto !important;
-  padding: 0.5em 0.75em !important;
-  background: var(--color-bg-secondary) !important;
-  border: 1px solid var(--color-border) !important;
-  border-radius: 4px !important;
-  color: var(--color-text) !important;
-  transition: background 300ms ease, border-color 300ms ease !important;
-}
-
-#search .pagefind-ui__search-input::placeholder {
-  color: var(--color-text-secondary) !important;
-}
-
-#search .pagefind-ui__search-input:hover {
-  border-color: var(--color-link) !important;
-}
-
-#search .pagefind-ui__search-input:focus {
-  outline: 2px solid var(--color-link-focus-bg) !important;
-  outline-offset: 2px !important;
-  background: var(--color-link-focus-bg) !important;
-  border-color: var(--color-link) !important;
-}
-
-/* Hide search clear button completely */
-#search .pagefind-ui__search-clear {
-  display: none !important;
-}
-
-/* Style result items */
-#search .pagefind-ui__result {
-  border: 1px solid var(--color-border) !important;
-  background: var(--color-bg-secondary) !important;
-  border-radius: 4px !important;
-  padding: 1em !important;
-  margin-bottom: 0.5em !important;
-}
-
-#search .pagefind-ui__result-link {
-  color: var(--color-link) !important;
-  font-weight: 700 !important;
-}
-
-#search .pagefind-ui__result-link:hover {
-  color: var(--color-link) !important;
-  text-decoration: underline !important;
-}
-
-#search .pagefind-ui__result-excerpt {
-  font-size: 0.65625rem !important;
-  color: var(--color-text) !important;
-  margin-top: 0.5em !important;
-}
-
-/* Style message text */
-#search .pagefind-ui__message {
-  font-size: 0.65625rem !important;
-  color: var(--color-text-secondary) !important;
-}
-
-/* Hide search icon completely */
-#search .pagefind-ui__form::before {
-  display: none !important;
-}
-</style>
 
 {% comment %}
 Get the most recent note
@@ -155,6 +75,8 @@ Display all notes in flat reverse chronological list
 
 ## Notes
 
+<ul class="note-list">
 {% for note in all_notes %}
-- {{ note.date | date: "%Y-%m-%d" }} — [{{ note.title }}]({{ note.url }})
+  <li><time datetime="{{ note.date | date: '%Y-%m-%d' }}">{{ note.date | date: "%b %-d, %Y" }}</time><a href="{{ note.url }}">{{ note.title }}</a></li>
 {% endfor %}
+</ul>

@@ -5,26 +5,29 @@ id: home
 permalink: /
 masthead_title: "Hi, I'm Christin. Nice to meet ya!"
 eyebrow: christinchong.com
-tags: [biotech strategy, medical education, chaplaincy, coaching]
+tags: [Buddhist Chaplain, Builder, Biotech Marketer]
 ---
 
-I'm a biotech strategy leader, a medical education expert, and a neuroscience PhD.
+I'm an **Interfaith Buddhist chaplain**, a leadership coach, and a builder. I bring chaplaincy into everyday life through [writing](/notes), [coaching](/hire/coaching), and creative projects that make room for reflection and practice.
 
-- I **help biotech companies succeed** through strategic engagements and innovative medical education for healthcare providers and patients.
-- My research experience and **publications** spanned cancer imaging, multiple sclerosis, and human genetics underlying sleep and circadian rhythms.
+I build things that put these interests into practice: from [Kuma](/kuma/), a gentle meditation timer, to [Debug Your Meditation](/projects/debug-your-meditation), a book about finding more joy in meditation.
 
-I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative entrepreneur.
-
-- I provide chaplaincy services in modern, accessible, and creative formats: through **writing**, **projects** and **coaching.**
+My work also reaches into biotech. With a neuroscience PhD and a background in strategy and medical education, I help biotech companies connect with healthcare providers and patients. My research has spanned cancer imaging, multiple sclerosis, and the human genetics of sleep and circadian rhythms.
 
 <hr class="section-divider">
 
 ## Projects
 
-- **[GumLeaf](https://getgumleaf.com)** — Text any question, get a real answer back by SMS — even over satellite, off the grid. No app, no account. A service of **Chong Consulting LLC**. [getgumleaf.com](https://getgumleaf.com)
-- **[OK Banger Show](/projects/ok-banger-show)** — A live podcast about being a good person IRL, online, and onchain, co-hosted with Cameron Armstrong.
-- **[Reframe Science](/projects/reframe-science)** — A curated community for entrepreneurs and builders to study health like a compassionate scientist.
-- **[Debug Your Meditation](/projects/debug-your-meditation)** — A book that transforms meditation from a chore to "I want more!"
+<div class="project-list">
+  <article class="project-entry project-entry--featured">
+    <div><p class="eyebrow">Meditation &amp; everyday practice</p><h3><a href="/kuma/">Kuma <span aria-hidden="true">↗</span></a></h3><p>A meditation timer for iPhone, with an Apple Watch companion, gentle bells, a private practice history, and Home Screen widgets.</p><a class="text-link" href="/kuma/">Meet Kuma <span aria-hidden="true">→</span></a></div>
+    <a class="project-art" href="/kuma/" aria-label="Meet Kuma"><img src="/assets/kuma/kuma.webp" alt="Kuma resting on a golden cushion" width="1000" height="1000" loading="lazy"></a>
+  </article>
+  <article class="project-entry"><h3><a href="https://getgumleaf.com">GumLeaf <span aria-hidden="true">↗</span></a></h3><p>Text any question, get a real answer back by SMS — even over satellite, off the grid. No app, no account. A service of <strong>Chong Consulting LLC</strong>. <a href="https://getgumleaf.com">getgumleaf.com</a></p></article>
+  <article class="project-entry"><h3><a href="/projects/ok-banger-show">OK Banger Show <span aria-hidden="true">↗</span></a></h3><p>A live podcast about being a good person IRL, online, and onchain, co-hosted with Cameron Armstrong.</p></article>
+  <article class="project-entry"><h3><a href="/projects/reframe-science">Reframe Science <span aria-hidden="true">↗</span></a></h3><p>A curated community for entrepreneurs and builders to study health like a compassionate scientist.</p></article>
+  <article class="project-entry"><h3><a href="/projects/debug-your-meditation">Debug Your Meditation <span aria-hidden="true">↗</span></a></h3><p>A book that transforms meditation from a chore to “I want more!”</p></article>
+</div>
 
 <hr class="section-divider">
 
@@ -33,12 +36,12 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
 <div class="home-sections">
   <div class="home-section">
     <h3><a href="/notes" class="internal-link">Notes</a></h3>
-    <p>Thoughts, essays, and reflections on healthcare, creative practice, and meditation</p>
+    <p>Thoughts, essays, and reflections on meditation, creative practice, and healthcare</p>
   </div>
 
   <div class="home-section">
     <h3><a href="/projects" class="internal-link">Projects</a></h3>
-    <p>Check out GumLeaf, Reframe Science, The OK Banger Show, and Debug Your Meditation</p>
+    <p>Check out Kuma, GumLeaf, Reframe Science, The OK Banger Show, and Debug Your Meditation</p>
   </div>
 
   <div class="home-section">
@@ -62,9 +65,11 @@ I'm also an Interfaith Buddhist chaplain, a leadership coach, and a creative ent
 ## Recent Notes
 
 {% assign recent_notes = site.notes | sort: "date" | reverse %}
+<ul class="note-list">
 {% for note in recent_notes limit: 8 %}
-- {{ note.date | date: "%Y-%m-%d" }} — [{{ note.title }}]({{ note.url }})
+  <li><time datetime="{{ note.date | date: '%Y-%m-%d' }}">{{ note.date | date: "%b %-d, %Y" }}</time><a href="{{ note.url }}">{{ note.title }}</a></li>
 {% endfor %}
+</ul>
 
 [View All Notes](/notes)
 
