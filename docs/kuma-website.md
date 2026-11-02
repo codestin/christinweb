@@ -54,3 +54,11 @@ The 390px mobile layout also passed image-loading and overflow checks.
 Removed the prominent heart-rate chart and dedicated measurement feature from the landing page. Watch messaging now leads with the timer, haptics, and phone-free practice; optional Mindful Minutes remain visible. Heart-rate and step reports are described in a collapsed optional-details disclosure, including that heart rate does not measure meditation quality. The privacy policy and setup instructions retain accurate Health information.
 
 Validation: Jekyll build passed; desktop preview and the optional disclosure were checked, and the 390px mobile layout had no horizontal overflow. Regenerated the Kuma project with XcodeGen; Kuma and embedded extensions built, and all 13 selected widget tests passed (`/tmp/KumaWebsiteGentleHealth.xcresult`). Publication explicitly approved by the user on November 1, 2026.
+
+## iPhone Duo discovery — November 1, 2026
+
+The landing page title, description, product facts, visible Duo section, and FAQs now explain Kuma’s native SwiftUI implementation and fold-aware meditation/reflection support. JSON-LD mirrors those claims and the visible FAQ wording. The existing canonical URL remains `/kuma/`; a second near-duplicate landing page was not added. Social cards inherit the revised title and description.
+
+Claims were checked against MEDITATIONTIMER/Sources/KumaPracticeLayout.swift and duo-notes.md: iOS 18 minimum, iOS 27.1+ expanded-layout guard, compact fallback, simulator validation, physical-device checks pending. Beta remains in preparation. No new artwork, pricing, ratings, or release-date claims.
+
+After publication, submit `https://christinchong.com/kuma/` for reindexing in the verified Google Search Console property and submit `https://christinchong.com/kuma-sitemap.xml` if not already registered. Monitor impressions/clicks for Kuma, iPhone Duo meditation, and native iPhone meditation app; indexing and placement are not guaranteed. Search Console access is not configured in this checkout.

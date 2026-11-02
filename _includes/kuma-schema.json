@@ -5,8 +5,8 @@
       "@type": "WebPage",
       "@id": "https://christinchong.com/kuma/#webpage",
       "url": "https://christinchong.com/kuma/",
-      "name": "Kuma — iPhone Meditation Timer & Beta Waitlist",
-      "description": "A meditation timer for self-directed practice. Public beta in preparation; email waitlist open.",
+      "name": "Native Meditation App for iPhone & iPhone Duo · Kuma",
+      "description": "Kuma is a native meditation app for iPhone and iPhone Duo, with a fold-aware timer, widgets, Apple Watch support, and an offline guide. Join the beta waitlist.",
       "inLanguage": "en",
       "mainEntity": {
         "@id": "https://christinchong.com/kuma/#app"
@@ -25,7 +25,7 @@
       "url": "https://christinchong.com/kuma/",
       "applicationCategory": "LifestyleApplication",
       "operatingSystem": "iOS 18 or later",
-      "description": "Kuma is an iPhone meditation timer for self-directed practice. The public beta is being prepared; installation is not yet available. Solo practice needs no account.",
+      "description": "Kuma is a native SwiftUI meditation app for iPhone and iPhone Duo, with fold-aware meditation and reflection layouts on iOS 27.1 or later. Public beta in preparation; email waitlist open. Solo practice needs no account.",
       "image": "https://christinchong.com/assets/kuma/social-preview-v5.jpg",
       "screenshot": [
         "https://christinchong.com/assets/kuma/meditate.webp",
@@ -35,6 +35,7 @@
         "https://christinchong.com/assets/kuma/watch-meditating.webp"
       ],
       "featureList": [
+        "Fold-aware meditation and reflection layouts for iPhone Duo (iOS 27.1+); simulator validated, physical-device validation pending",
         "Timed and open-ended meditation",
         "Preparation and interval bells",
         "Sitting, walking, standing, and lying-down postures",
@@ -82,6 +83,22 @@
       "@type": "FAQPage",
       "@id": "https://christinchong.com/kuma/#questions",
       "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is Kuma a native meditation app for iPhone Duo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Kuma is built with SwiftUI and includes fold-aware meditation and reflection layouts for iPhone Duo on iOS 27.1 or later. The timer and practice controls adapt to the inner display while compact iPhones keep a single-column layout. Duo layouts have been checked in the simulator; physical-device validation is pending. The public beta is in preparation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Kuma work on other iPhones?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Kuma supports iPhone with iOS 18 or later. The fold-aware Duo layout requires iOS 27.1 or later, but the meditation timer, personal practice log, offline written guide, and widgets are also available on supported compact iPhones."
+          }
+        },
         {
           "@type": "Question",
           "name": "How is Kuma different from apps like Insight Timer?",
