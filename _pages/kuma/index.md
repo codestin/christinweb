@@ -28,7 +28,7 @@ permalink: /kuma/
   <div class="section-heading">
     <p class="eyebrow">A little Kuma, right at home</p>
     <h2 id="widgets-title">Your practice.<br>A glance away.</h2>
-    <p>A familiar face when you pick up your phone. Kuma’s widgets keep your weekly rhythm in view and give you a gentle way back to meditation.</p>
+    <p>A little surprise each time you glance. Kuma’s widgets bring a variety of delightful illustrations to your Home Screen, with gentle encouragement to return to practice.</p>
   </div>
   <div class="widget-palettes">
     <figure class="widget-palette">
@@ -37,7 +37,6 @@ permalink: /kuma/
         <img src="/assets/kuma/widget-sunshine-medium.webp" width="712" height="340" loading="lazy" alt="Medium Sunshine widget: Kuma on a golden background, three filled practice pebbles out of five, and an aspiration progress bar">
         <img src="/assets/kuma/widget-sunshine-small.webp" width="340" height="340" loading="lazy" alt="Small Sunshine widget with Kuma and five practice pebbles">
       </div>
-      <p class="widget-size-label">Medium &amp; small Home Screen widgets</p>
     </figure>
     <figure class="widget-palette night">
       <figcaption><h3>Night Gold</h3><p>A quiet glow against warm charcoal.</p></figcaption>
@@ -45,7 +44,6 @@ permalink: /kuma/
         <img src="/assets/kuma/widget-nightGold-medium.webp" width="712" height="340" loading="lazy" alt="Medium Night Gold widget: Kuma on charcoal, three golden practice pebbles out of five, and a golden aspiration progress bar">
         <img src="/assets/kuma/widget-nightGold-small.webp" width="340" height="340" loading="lazy" alt="Small Night Gold widget with Kuma and golden practice pebbles">
       </div>
-      <p class="widget-size-label">Medium &amp; small Home Screen widgets</p>
     </figure>
   </div>
 
