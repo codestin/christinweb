@@ -7,7 +7,7 @@ permalink: /kuma/
 ---
 <section class="hero wrap">
 <div class="hero-copy"><p class="eyebrow">A native meditation app for iPhone &amp; iPhone Duo</p><h1>A little room<br>for <em>being here.</em></h1><p class="intro">Meet Kuma. A gentle meditation timer that helps you return to your own practice, one quiet moment at a time.</p><a class="button" href="#beta">Let me know when it’s ready <span aria-hidden="true">↗</span></a><p class="fine">Made for iPhone · Duo native · Beta coming soon</p></div>
-<figure class="hero-art"><img src="/assets/kuma/kuma.webp" alt="Kuma, a round bear with an ensō on his belly, resting on a golden cushion" width="1000" height="1000" fetchpriority="high"></figure>
+<figure class="hero-art"><img src="/assets/kuma/kuma-recessed-arch.png" alt="Kuma, a round bear with an ensō on his belly, resting on a golden cushion" width="1254" height="1254" fetchpriority="high"></figure>
 </section>
 <section id="practice" class="wrap section">
 <div class="section-heading"><p class="eyebrow">Less choosing. More being.</p><h2>Your practice,<br>at your pace.</h2><p>For the moments when you already know what you need: a little quiet, a bell, and somewhere to begin.</p></div>

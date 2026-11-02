@@ -24,7 +24,7 @@ My work also reaches into biotech. With a neuroscience PhD and a background in s
 <div class="project-list">
   <article class="project-entry project-entry--featured">
     <div><p class="eyebrow">Meditation &amp; everyday practice</p><h3><a href="/kuma/">Kuma <span aria-hidden="true">↗</span></a></h3><p>A meditation timer for iPhone, with an Apple Watch companion, gentle bells, a private practice history, and Home Screen widgets.</p><a class="text-link" href="/kuma/">Meet Kuma <span aria-hidden="true">→</span></a></div>
-    <a class="project-art" href="/kuma/" aria-label="Meet Kuma"><img src="/assets/kuma/kuma.webp" alt="Kuma resting on a golden cushion" width="1000" height="1000" loading="lazy"></a>
+    <a class="project-art" href="/kuma/" aria-label="Meet Kuma"><img src="/assets/kuma/kuma-recessed-arch.png" alt="Kuma resting on a golden cushion" width="1254" height="1254" loading="lazy"></a>
   </article>
   <article class="project-entry project-entry--featured">
     <div><h3><a href="https://getgumleaf.com">GumLeaf <span aria-hidden="true">↗</span></a></h3><p>Text any question, get a real answer back by SMS — even over satellite, off the grid. No app, no account. A service of <strong>Chong Consulting LLC</strong>. <a href="https://getgumleaf.com">getgumleaf.com</a></p></div>
