@@ -22,7 +22,7 @@ Jekyll production build, desktop and 390px mobile browser checks, form required 
 
 ## Social preview and search discovery
 
-The 1200×630 JPEG at `assets/kuma/social-preview-v3.jpg` composes the unchanged approved master with product text. Open Graph and Twitter large-image metadata share the same absolute URL, dimensions, and alt text. New filename avoids the previous image cache key; social services may retain old card data until recrawled.
+The 1200×630 JPEG at `assets/kuma/social-preview-v5.jpg` reuses the unchanged website Kuma artwork, Refuge Slab fonts, cream/charcoal/gold palette, arched hero frame, and homepage headline. No new illustration or decorative motifs were generated. Reproducible renderer: MEDITATIONTIMER/docs/artwork/social-preview/site-aligned/render.swift. Open Graph and Twitter large-image metadata share the same absolute URL, dimensions, and alt text. New filename avoids the previous image cache key; social services may retain old card data until recrawled.
 
 The landing page includes a visible product facts section and JSON-LD in `_includes/kuma-schema.json` describing the app, creator, publisher, preview image, and exact visible FAQs. Keep the schema synchronized with visible content. Beta availability is explicit; no invented ratings, reviews, or download offer are included. The thank-you page is noindex. `kuma-sitemap.xml` includes the three public Kuma pages; robots.txt advertises it and preserves unrestricted crawler access.
 
