@@ -113,6 +113,14 @@
             "@type": "Answer",
             "text": "Kuma starts with a flexible weekly aspiration, so you can build a rhythm that makes room for life. Any completed session counts as practice that day, including a short one. You can choose a strict daily streak in Settings if that’s helpful to you."
           }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is Kuma?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "<p>Kuma is a quiet companion for your practice. His round, legless body recalls a Daruma doll, the Japanese figure inspired by Bodhidharma and associated with perseverance. His circular form also echoes the ensō of Zen brush painting—a simple expression of practice, presence, and space. (<a href=\"https://www.japan.travel/en/blog/try-your-luck-with-takasaki-daruma/\">Daruma</a>, <a href=\"https://searchcollection.asianart.org/objects/19254/enso\">Ensō</a>)</p>\n    <p>His white color is a nod to the <em>upāsaka</em>, a lay Buddhist practitioner. The Pāli Canon describes white-clad lay followers practicing amid everyday life. Kuma carries that spirit: a little company as you sit, return, and begin again. (<a href=\"https://suttacentral.net/dn29/en/sujato\">DN 29</a>)</p>"
+          }
         }
       ]
     }
