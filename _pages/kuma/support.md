@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: kuma
+kuma_document: true
 title: Kuma Support
 permalink: /kuma/support/
 eyebrow: Kuma / Support

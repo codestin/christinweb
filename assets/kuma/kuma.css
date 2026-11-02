@@ -44,7 +44,7 @@
 
 .health-chart{padding:25px 20px;background:#f5eedf;border:1px solid #cec3af;border-radius:16px}.health-chart .eyebrow{font-size:10px;margin-bottom:12px}.health-chart h3{font-size:25px;margin-bottom:25px}.health-chart img{width:100%;height:auto}.health-report figcaption{margin-top:20px;max-width:390px}.health-story{grid-template-columns:1fr 1.15fr;gap:60px}@media(max-width:650px){.health-story{grid-template-columns:1fr;gap:30px}.health-chart{padding:22px 12px}}
 
-.watch-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:40px;align-items:start;padding:20px 0 55px;margin-bottom:50px;border-bottom:1px solid #ccc2af}
+.watch-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:40px;align-items:start;padding:20px 0 0;margin-bottom:0}
 .watch-gallery-intro{grid-column:1/-1;max-width:640px}
 .watch-gallery-intro h3{font-size:36px;margin-bottom:20px}
 .watch-gallery-intro>p:last-child{font-size:15px}
@@ -55,8 +55,8 @@
 .watch-example figcaption strong{display:block;color:var(--ink);font-size:17px;font-weight:550;margin-bottom:8px}
 .watch-example figcaption span{display:block}
 .watch-preview-note{grid-column:1/-1;text-align:center;font-size:11px;max-width:720px;margin:0 auto}
-@media(max-width:900px){.watch-gallery{grid-template-columns:1fr 1fr;gap:25px}.watch-gallery-intro{grid-column:1/-1;max-width:600px}.watch-gallery-intro h3 br{display:none}}
-@media(max-width:500px){.watch-gallery{grid-template-columns:1fr;gap:30px}.watch-gallery-intro{grid-column:1/-1;max-width:640px}
+@media(max-width:900px){.watch-gallery{grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}.watch-gallery-intro{grid-column:1/-1;max-width:600px}.watch-gallery-intro h3 br{display:none}}
+@media(max-width:650px){.watch-gallery{grid-template-columns:1fr;gap:30px}.watch-gallery-intro{grid-column:1/-1;max-width:640px}
 .watch-gallery-intro h3{font-size:30px}.watch-frame{max-width:215px}.watch-preview-note{margin-top:0}}
 
 /* Native Duo screenshots preserve the complete app display. */
@@ -78,16 +78,49 @@
 .duo-card{margin:0;min-width:0}.duo-stage{height:340px;display:flex;align-items:center;justify-content:center;background:#eee8dc;border-radius:8px;perspective:1000px;overflow:hidden;padding:24px}
 .duo-device{display:block;border:5px solid #36372f;border-radius:17px;overflow:hidden;box-shadow:0 14px 24px #36372f20;max-width:100%;line-height:0}.duo-device img{display:block;width:100%;height:auto}.duo-closed{width:190px}.duo-wide{width:440px}
 .duo-pose{width:430px;max-width:95%;display:flex;transform-style:preserve-3d;filter:drop-shadow(0 15px 10px #36372f25)}
-.duo-leaf{width:50%;aspect-ratio:800/1126;border:5px solid #36372f;background-image:url('/assets/kuma/duo-timer-tabs-fixed.webp');background-size:200% 100%;background-repeat:no-repeat}
+.duo-leaf{width:50%;aspect-ratio:800/1126;border:5px solid #36372f;background-image:url('/assets/kuma/duo-timer-clear.png');background-size:200% 100%;background-repeat:no-repeat}
 .duo-primary{background-position:left center;border-radius:15px 3px 3px 15px;transform-origin:right center}.duo-secondary{background-position:right center;border-radius:3px 15px 15px 3px;transform-origin:left center}
 .duo-book .duo-primary{transform:rotateY(-27deg)}.duo-book .duo-secondary{transform:rotateY(27deg)}
 .duo-standing{transform:rotate(-8deg) scale(.88)}.duo-standing .duo-primary{transform:rotateY(-38deg)}.duo-standing .duo-secondary{transform:rotateY(38deg)}
 .duo-portrait,.duo-tabletop{flex-direction:column;width:220px}.duo-portrait .duo-leaf,.duo-tabletop .duo-leaf{width:100%;aspect-ratio:800/640;background-size:200% 100%}.duo-portrait .duo-primary,.duo-tabletop .duo-primary{border-radius:15px 15px 3px 3px}.duo-portrait .duo-secondary,.duo-tabletop .duo-secondary{border-radius:3px 3px 15px 15px}
 .duo-portrait{transform:scale(.83)}.duo-tabletop{transform:translateY(-28px);width:250px}.duo-tabletop .duo-secondary{transform-origin:center top;transform:rotateX(55deg);height:175px}
-.duo-gallery figcaption{margin-top:22px}.duo-gallery .duo-state{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:10px}.duo-gallery h3{font-size:24px;margin-bottom:10px}.duo-gallery figcaption>p:last-child{font-size:15px;max-width:440px}.duo-continuity{margin-top:45px;padding-top:24px;border-top:1px solid var(--rule);text-align:center}
+.duo-gallery figcaption{margin-top:22px}.duo-gallery .duo-state{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:10px}.duo-gallery h3{font-size:24px;margin-bottom:10px}.duo-gallery figcaption>p:last-child{font-size:15px;max-width:440px}
 @media(max-width:750px){.duo-gallery{grid-template-columns:1fr;gap:36px}.duo-gallery figure{width:100%;max-width:none}.duo-stage{height:310px;padding:20px}.duo-gallery h3{font-size:23px}.duo-gallery figcaption>p:last-child{font-size:16px}}
 
 .duo-portrait .duo-leaf,.duo-tabletop .duo-leaf{background:#faf8f0;display:flex;flex-direction:column;align-items:center;justify-content:center;overflow:hidden;padding:8px;position:relative}.duo-portrait .duo-primary img,.duo-tabletop .duo-primary img{height:100px;width:100px;object-fit:contain}.duo-mini-title{position:absolute;left:8px;top:5px;font-size:12px;font-weight:bold}.duo-primary strong{font-size:10px;margin-top:12px}.duo-mini-clock{font-size:30px;line-height:1.2}.duo-mini-label{font-size:5px;letter-spacing:.1em}.duo-mini-options,.duo-mini-times{display:flex;gap:4px;justify-content:center;margin-top:8px;width:100%;font-size:6px}.duo-mini-options span,.duo-mini-times span{padding:5px 4px;border:1px solid #d1cab9;border-radius:5px}.duo-mini-options span:first-child,.duo-mini-times span:first-child{background:#ffda57}.duo-mini-times span{flex:1;text-align:center}.duo-mini-begin{font-size:8px;background:#353a31;color:#faf8f0;width:100%;text-align:center;padding:4px;border-radius:6px;margin-top:6px}.duo-mini-tabs{font-size:6px;margin-top:6px}
 
 .duo-pose{perspective:700px}.duo-tabletop{transform:scale(.8);width:250px}
 
+
+/* One introduction for Watch and Health, followed directly by the gallery. */
+.health-heading{display:block;max-width:720px;margin-bottom:40px}
+.health-heading .eyebrow{margin-bottom:22px}
+.health-heading h2{margin-bottom:24px}
+.health-heading>p:last-child{max-width:640px}
+
+
+/* Readable secondary text and captions. */
+.fine,.caption,.watch-preview-note,.health-report figcaption,.widget-size-label,.footer small{font-size:14px}
+.eyebrow,.duo-gallery .duo-state{font-size:12px}
+.watch-example figcaption,.widget-palette figcaption p,.footer p,.footer nav,.signup-form .consent{font-size:15px}
+
+/* Mobile navigation stays in document flow, including with enlarged text. */
+.mobile-navigation{display:none}
+@media(max-width:900px){
+  .nav{align-items:center;flex-wrap:wrap;gap:16px}
+  .nav .desktop-navigation{display:none}
+  .mobile-navigation{display:block;margin-left:auto}
+  .mobile-navigation summary{cursor:pointer;min-height:44px;padding:9px 14px;border:1px solid var(--rule);border-radius:6px;font-size:16px}
+  .mobile-navigation[open]{flex-basis:100%;margin-left:0}
+  .mobile-navigation[open] summary{width:fit-content;margin-left:auto}
+  .nav .mobile-navigation nav{display:flex;flex-direction:column;align-items:stretch;gap:0;margin-top:12px}
+  .nav .mobile-navigation nav>a:not(.button){display:block;font-size:16px;padding:12px 4px;min-height:48px;border-bottom:1px solid var(--rule)}
+}
+/* Supporting pages retain the product navigation and a comfortable reading width. */
+.kuma-document{max-width:760px;padding-block:64px 80px;overflow-wrap:anywhere}
+.kuma-document header{margin-bottom:36px}
+.kuma-document h1{font-size:clamp(36px,5vw,56px)}
+.kuma-document h2{font-size:clamp(25px,3vw,32px);margin:40px 0 18px;line-height:1.25}
+.kuma-document p,.kuma-document li{font-size:17px;line-height:1.8}
+.kuma-document a{color:var(--ink)}
+@media(max-width:650px){.kuma-document{padding-block:40px 60px}}

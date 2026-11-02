@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: kuma
+kuma_document: true
 title: Kuma Privacy Policy
 permalink: /kuma/privacy/
 eyebrow: Kuma / Privacy
