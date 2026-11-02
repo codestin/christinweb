@@ -32,7 +32,9 @@
         "https://christinchong.com/assets/kuma/log.webp",
         "https://christinchong.com/assets/kuma/guide.webp",
         "https://christinchong.com/assets/kuma/watch-begin.webp",
-        "https://christinchong.com/assets/kuma/watch-meditating.webp"
+        "https://christinchong.com/assets/kuma/watch-meditating.webp",
+        "https://christinchong.com/assets/kuma/duo-timer.webp",
+        "https://christinchong.com/assets/kuma/duo-reflection.webp"
       ],
       "featureList": [
         "Fold-aware meditation and reflection layouts for iPhone Duo (iOS 27.1+); simulator validated, physical-device validation pending",
@@ -50,7 +52,8 @@
         "Compact Lock Screen widget",
         "Start and finish meditation independently on Apple Watch; completed sessions sync to iPhone",
         "Optional heart-rate reports from recorded Apple Health samples during meditation",
-        "Optional Apple Health step reports for walking meditations"
+        "Optional Apple Health step reports for walking meditations",
+        "Optional post-session reflection saved on your device, separate from feedback"
       ],
       "creator": {
         "@id": "https://christinchong.com/kuma/#creator"

@@ -62,3 +62,9 @@ The landing page title, description, product facts, visible Duo section, and FAQ
 Claims were checked against MEDITATIONTIMER/Sources/KumaPracticeLayout.swift and duo-notes.md: iOS 18 minimum, iOS 27.1+ expanded-layout guard, compact fallback, simulator validation, physical-device checks pending. Beta remains in preparation. No new artwork, pricing, ratings, or release-date claims.
 
 After publication, submit `https://christinchong.com/kuma/` for reindexing in the verified Google Search Console property and submit `https://christinchong.com/kuma-sitemap.xml` if not already registered. Monitor impressions/clicks for Kuma, iPhone Duo meditation, and native iPhone meditation app; indexing and placement are not guaranteed. Search Console access is not configured in this checkout.
+
+## Duo native screenshot feature — November 1, 2026
+
+Added the Duo native navigation item and feature gallery with optimized WebP screenshots of the native timer and post-session reflection. The gallery replaces the text-only Duo introduction while preserving its discovery metadata, FAQ, and anchor. Copy retains the familiar iPhone experience and identifies the images as simulator previews of a feature in development.
+
+Validation: Jekyll build and all 12 existing beta signup tests passed. Both screenshot assets, alt text, JSON-LD, and navigation anchors were checked. Browser review verified the desktop gallery and a 390px mobile layout without horizontal overflow.

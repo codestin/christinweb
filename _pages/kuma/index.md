@@ -6,7 +6,7 @@ description: Kuma is a native meditation app for iPhone and iPhone Duo, with a f
 permalink: /kuma/
 ---
 <section class="hero wrap">
-<div class="hero-copy"><p class="eyebrow">A native meditation app for iPhone &amp; iPhone Duo</p><h1>A little room<br>for <em>being here.</em></h1><p class="intro">Meet Kuma. A gentle meditation timer that helps you return to your own practice, one quiet moment at a time.</p><a class="button" href="#beta">Let me know when it’s ready <span aria-hidden="true">↗</span></a><p class="fine">Made for iPhone · Beta coming soon</p></div>
+<div class="hero-copy"><p class="eyebrow">A native meditation app for iPhone &amp; iPhone Duo</p><h1>A little room<br>for <em>being here.</em></h1><p class="intro">Meet Kuma. A gentle meditation timer that helps you return to your own practice, one quiet moment at a time.</p><a class="button" href="#beta">Let me know when it’s ready <span aria-hidden="true">↗</span></a><p class="fine">Made for iPhone · Duo native · Beta coming soon</p></div>
 <figure class="hero-art"><img src="/assets/kuma/kuma.webp" alt="Kuma, a round bear with an ensō on his belly, resting on a golden cushion" width="1000" height="1000" fetchpriority="high"><figcaption>A small companion. A softer place to begin.</figcaption></figure>
 </section>
 <div class="manifesto"><div class="wrap"><p>You don’t have to make every day perfect.<br><strong>Just make a little space to return.</strong></p><span aria-hidden="true">● ● ● ○ ● ○ ○</span></div></div>
@@ -15,13 +15,6 @@ permalink: /kuma/
 <p>Kuma is a native meditation app for iPhone and iPhone Duo, built with SwiftUI and made by Christin Chong and provided by Chong Consulting LLC. It supports self-directed meditation with timed or open-ended sessions, flexible weekly aspirations, an illustrated bear companion, a personal practice log, and an offline written guide.</p>
 <dl><div><dt>Availability</dt><dd>Public beta in preparation; email waitlist open</dd></div><div><dt>Devices</dt><dd>iPhone with iOS 18+; fold-aware iPhone Duo layouts on iOS 27.1+; optional Apple Watch with watchOS 11+</dd></div><div><dt>Account</dt><dd>No account needed for solo practice</dd></div></dl>
 </section>
-<section class="wrap product-facts" id="iphone-duo" aria-labelledby="duo-title">
-<p class="eyebrow">Room to unfold</p><h2 id="duo-title">Native meditation on iPhone Duo.</h2>
-<p>Kuma’s meditation screen adapts to iPhone Duo’s inner display. The timer and practice controls have their own scrollable regions, with a fold-aware layout that adjusts as you open or rotate your phone. Finish your session with an optional reflection, with room to write.</p>
-<p>Built in SwiftUI, Kuma uses the system’s split arrangement to place content around the fold. Your session stays in progress as the layout changes. On a compact iPhone display, the familiar single-column timer stays close at hand.</p>
-<p class="fine">The Duo layout requires iOS 27.1 or later. Open, partially folded, and rotated layouts have been checked in the iPhone Duo simulator; physical-device validation is still pending. Kuma’s public beta is in preparation.</p>
-<p><a href="#beta">Join the Kuma beta waitlist</a> or <a href="#practice">explore the meditation timer</a>.</p>
-</section>
 <section id="practice" class="wrap section">
 <div class="section-heading"><p class="eyebrow">Less choosing. More being.</p><h2>Your practice,<br>at your pace.</h2><p>For the moments when you already know what you need: a little quiet, a bell, and somewhere to begin.</p></div>
 <div class="screens">
@@ -29,6 +22,26 @@ permalink: /kuma/
 <article><div class="phone"><img src="/assets/kuma/log.webp" alt="The practice log showing seven practice pebbles, a flexible weekly aspiration, and recent sessions" width="690" height="1500" loading="lazy"></div><p class="eyebrow">02 / Return gently</p><h3>A rhythm you can live with.</h3><p>Aspire to practice on one to seven days a week. Short sessions count. See your days gather as pebbles, with a personal log of the time you’ve made for yourself.</p></article>
 <article><div class="phone"><img src="/assets/kuma/guide.webp" alt="Kuma’s offline Guide with expandable teachings for meditation practice" width="690" height="1500" loading="lazy"></div><p class="eyebrow">03 / Find your bearings</p><h3>A little guidance, close by.</h3><p>Open the illustrated, offline guide when you need a reminder. Read a teaching, take a reflection with you, and come back to your experience.</p></article>
 </div><p class="caption">Real screens from the app in development. Details may change before release.</p>
+</section>
+<section class="duo-section" id="duo" aria-labelledby="duo-title">
+  <div class="wrap" id="iphone-duo">
+    <div class="section-heading">
+      <p class="eyebrow">Duo native</p>
+      <h2 id="duo-title">A little more room.<br>The same quiet practice.</h2>
+      <p>Open Kuma on iPhone Duo and give your practice space to unfold. Kuma and your timer settle into separate panes that adapt as you open, fold, or rotate. Your familiar iPhone timer stays just as it is.</p>
+    </div>
+    <div class="duo-gallery">
+      <figure>
+        <a class="duo-screen" href="/assets/kuma/duo-timer.webp" aria-label="View the full-size Duo timer screenshot"><img src="/assets/kuma/duo-timer.webp" width="1600" height="1126" loading="lazy" alt="Kuma on iPhone Duo: the bear companion on the left, with the ten-minute timer, posture choices, and familiar controls on the right"></a>
+        <figcaption><h3>Room for your companion.</h3><p>The same timer, bells, and posture choices, arranged around the fold. Your session stays with you as the display changes.</p></figcaption>
+      </figure>
+      <figure>
+        <a class="duo-screen" href="/assets/kuma/duo-reflection.webp" aria-label="View the full-size Duo reflection screenshot"><img src="/assets/kuma/duo-reflection.webp" width="1600" height="1126" loading="lazy" alt="Kuma’s Duo completion sheet with the session summary on the left and an optional reflection above the feedback form on the right"></a>
+        <figcaption><h3>A moment after sitting.</h3><p>Keep your session summary in view while you jot down a few words. Reflection is optional, saved on your device, and kept separate from feedback to Christin.</p></figcaption>
+      </figure>
+    </div>
+    <p class="caption">Actual screens from the iPhone Duo simulator, shown in illustrative frames. Duo layouts require iOS 27.1 or later. Physical-device validation is pending. This feature is in development for the upcoming beta. Select a screenshot to see it in detail.</p>
+  </div>
 </section>
 <section class="difference"><div class="wrap difference-grid"><div><p class="eyebrow">A different kind of meditation app</p><h2>Come for the quiet.<br>Stay for the bear.</h2><p class="intro">Kuma is built around the simple act of showing up.</p><p>A library of guided meditations can be wonderful when you want someone to lead. Kuma offers a small, personal space for practicing on your own—with a companion who’s happy to see you return.</p></div><div class="notes"><article><span>01</span><div><h3>Something to return to</h3><p>Warm woodblock-inspired illustrations and Kuma’s changing expressions bring a little personality to an everyday ritual.</p></div></article><article><span>02</span><div><h3>Encouragement, on your terms</h3><p>Flexible weekly aspirations are the starting point. Prefer a daily streak? That’s an option, too. Choose the reminders that fit your day.</p></div></article><article><span>03</span><div><h3>Your attention stays yours</h3><p>Open the timer and begin. Solo practice needs no account.</p></div></article></div></div></section>
 <section class="wrap section widget-section" id="widgets" aria-labelledby="widgets-title">
