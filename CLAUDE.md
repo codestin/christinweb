@@ -191,3 +191,7 @@ The site follows these design principles:
 3. **Professional Structure** - categorical organization mirrored in header and footer
 4. **Accessible** - visible focus states, semantic HTML, keyboard navigation
 5. **Content-First** - design serves content, not the other way around
+
+## Kuma website copy
+
+Keep public copy focused on the visitor’s experience. Do not add unsolicited simulator provenance, screenshot-validation notes, development caveats, font or artwork implementation details, or preview disclaimers. Put internal validation evidence in development documentation.
