@@ -40,4 +40,11 @@ The `#apple-health` section covers independent Watch meditation, haptics, comple
 
 ## Watch screenshots
 
-The Watch gallery uses actual 416×496 screenshots from KumaWatch in the Apple Watch Series 11 (46mm), watchOS 26.2 simulator. Captured with the existing debug --watch-preview and --watch-active-preview flags; the 68 bpm value is fixture data and is labeled as such. CSS frames are illustrative, not device photographs. Originals: /tmp/kuma-watch-begin.png and /tmp/kuma-watch-meditating.png. No app or artwork code changed. Jekyll build and desktop/390px browser checks passed.
+Updated November 1, 2026 to match the implemented paper, charcoal, and sungold Watch design. The gallery shows Welcome, Settle, and Sit using actual 374×446 Apple Watch Series 11 (42mm), watchOS 26.2 simulator captures. New `watch-paper-*.webp` filenames avoid stale image cache entries. CSS frames remain illustrative.
+
+The landing page now bundles the same RefugeSlab400/500/600/700 files as the app, with the font license, rather than approximating them with the older variable font. Captions describe the configurable settling countdown and heart-rate readings below the main timer; no guided-breathing or new health features are implied.
+
+Sources: MEDITATIONTIMER/docs/screenshots/watch-paper/sit-42mm.png and fresh `--watch-preview` / `--watch-settle-preview` captures of the implemented app. The fonts and bear rendering within screenshots are native app output, not generated mockups.
+
+Validation: Jekyll build passed (existing Sass deprecation notices only). Browser checks confirmed all three Watch images load and the desktop gallery has no horizontal overflow.
+The 390px mobile layout also passed image-loading and overflow checks.
