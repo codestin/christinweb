@@ -2,6 +2,9 @@
   command = "jekyll build --trace && npx pagefind --site _site"
   publish = "_site"
 
+[functions]
+  directory = "netlify/functions"
+
 # Legacy URLs.
 #
 # force = true matters here. Without it Netlify serves a real file at the path

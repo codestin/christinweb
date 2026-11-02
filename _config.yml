@@ -1,6 +1,6 @@
 title: Christin Chong, PhD
 include:             ['_pages']
-exclude:             ['_includes/notes_graph.json']
+exclude:             ['_includes/notes_graph.json', 'netlify', 'tests', 'docs']
 # You may need to change the base URL depending on your deploy configuration.
 baseurl:             ''
 

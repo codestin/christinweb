@@ -4,11 +4,17 @@ The consumer page at `/kuma/` uses `_layouts/kuma.html` and `assets/kuma/kuma.cs
 
 ## Beta signup
 
-Netlify Forms form name: `kuma-beta`. The static POST form collects an email and required beta consent, with a honeypot. Netlify form detection must remain enabled (`processing_settings.ignore_html_forms: false`). Successful submission redirects to `/kuma/thanks/`. Native browser validation requires an email and consent; no JavaScript dependency.
+The form posts directly to `/.netlify/functions/kuma-beta` (no JavaScript required). The Netlify Function validates email, explicit consent, same-origin requests, and a honeypot, then adds the contact to the dedicated Resend Kuma beta segment. It redirects to `/kuma/thanks/` only after Resend succeeds. Provider errors show a retry page; existing global unsubscribes are preserved.
 
-Open the christinweb project in Netlify → Forms → kuma-beta to view or export the list. This does not send a welcome message or add anyone to Substack. When the beta is approved, export the opt-in list and send installation instructions using the chosen email provider. Honor removal requests sent to hi@christinchong.com. Retention/use are described in `/kuma/privacy/#beta-waitlist`.
+Required Netlify environment variables: `RESEND_API_KEY` (Full Access, required by the Contacts API) and `RESEND_KUMA_SEGMENT_ID` (the dedicated Kuma beta segment). The API key is a secret limited to the production deploy context. The current Netlify plan includes Builds, Functions, and Runtime scopes together; Functions-only scope requires an upgrade. Keep credentials out of source and static output. Deploy after setting them.
 
-Verification submissions use the reserved example.com domain and a `kuma-qa-` prefix. Exclude those from all mailings.
+Send beta updates through Resend Broadcasts targeted only to this segment. Include `<a href="{{{RESEND_UNSUBSCRIBE_URL}}}">Unsubscribe</a>` in every broadcast; Resend handles the personalized unsubscribe page and suppresses unsubscribed contacts. Do not use the transactional `/emails` API for list updates. Signup does not send a welcome email or add contacts to a newsletter. Do not send account-wide broadcasts to this list.
+
+Migration check on November 1, 2026: the legacy form contained one QA submission and no real subscribers to migrate.
+
+Before the first broadcast, review legacy Netlify Forms `kuma-beta` submissions and import only genuine consenting subscribers into the Kuma segment, honoring earlier removal requests. Never reset existing opt-outs during import. Verification submissions use the reserved example.com domain and a `kuma-qa-` prefix; exclude those from all mailings. Retention/use are described in `/kuma/privacy/#beta-waitlist`.
+
+Run endpoint checks with `node --test tests/kuma-beta.test.mjs` and build the website with `bundle exec jekyll build`.
 
 ## Validation — November 1, 2026
 
