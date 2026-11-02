@@ -1,7 +1,7 @@
 const headers = { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store' };
 const success = () => new Response(null, { status: 303, headers: { Location: '/kuma/thanks/', 'Cache-Control': 'no-store' } });
-function error(status, message) {
-  return new Response(`<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Kuma beta signup</title><main><h1>We couldn’t save your place</h1><p>${message}</p><p><a href="/kuma/#beta">Return to the signup form</a></p></main></html>`, { status, headers });
+function error(status, message, diagnostic) {
+  return new Response(`<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Kuma beta signup</title><main><h1>We couldn’t save your place</h1><p>${message}</p><p><a href="/kuma/#beta">Return to the signup form</a></p></main></html>`, { status, headers: { ...headers, ...(diagnostic ? { "X-Kuma-Signup-Status": diagnostic } : {}) } });
 }
 
 export default async function handler(request) {
@@ -32,17 +32,18 @@ export default async function handler(request) {
       // A public form must never undo an existing account-wide unsubscribe.
       if (contact.unsubscribed) return error(409, 'This address has opted out of our emails. To rejoin, use the preferences link in a previous email or contact hi@christinchong.com.');
       const added = await api(`${contactPath}/segments/${encodeURIComponent(segment)}`, 'POST');
-      if (!added.ok) throw new Error('Segment unavailable');
+      if (!added.ok) throw new Error(`segment-${added.status}`);
     } else if (existing.status === 404) {
       // Omit unsubscribed so a concurrent signup cannot reset an opt-out.
       const created = await api('/contacts', 'POST', { email, segments: [{ id: segment }] });
-      if (!created.ok) throw new Error('Contact unavailable');
+      if (!created.ok) throw new Error(`create-${created.status}`);
     } else {
-      throw new Error('Resend unavailable');
+      throw new Error(`lookup-${existing.status}`);
     }
     return success();
-  } catch {
+  } catch (failure) {
     // Do not log email addresses, credentials, or provider response bodies.
-    return error(503, 'We couldn’t save your signup right now. Please try again in a moment.');
+    const diagnostic = /^(lookup|create|segment)-[0-9]{3}$/.test(failure.message) ? failure.message : 'network';
+    return error(503, 'We couldn’t save your signup right now. Please try again in a moment.', diagnostic);
   }
 }

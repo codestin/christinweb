@@ -11,10 +11,6 @@ For help, feedback, or a privacy request, email [hi@christinchong.com](mailto:hi
 
 No. The timer, history, guide, aspirations, widgets, CSV export, and feedback work without an account. Optional Sign in with Apple enables account features such as private cloud backup. Newsletter subscriptions are separate from Kuma.
 
-## What will Kuma cost?
-
-Pricing and feature availability will be shared when Kuma is ready to launch. See the [Kuma page](/kuma/) for updates.
-
 ## Why can’t I install the beta yet?
 
 Public TestFlight distribution is still being prepared. Apple must approve an external build before the invitation can provide an installable version. Check the [Kuma project page](/kuma/) for availability.

@@ -84,14 +84,6 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What will Kuma cost?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Pricing and feature availability will be shared when Kuma is ready to launch. Join the beta list to hear when it’s ready to try."
-          }
-        },
-        {
-          "@type": "Question",
           "name": "How is Kuma different from apps like Insight Timer?",
           "acceptedAnswer": {
             "@type": "Answer",
