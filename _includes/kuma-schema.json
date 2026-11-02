@@ -6,7 +6,7 @@
       "@id": "https://christinchong.com/kuma/#webpage",
       "url": "https://christinchong.com/kuma/",
       "name": "Kuma — iPhone Meditation Timer & Beta Waitlist",
-      "description": "A free meditation timer for self-directed practice. Public beta in preparation; email waitlist open.",
+      "description": "A meditation timer for self-directed practice. Public beta in preparation; email waitlist open.",
       "inLanguage": "en",
       "mainEntity": {
         "@id": "https://christinchong.com/kuma/#app"
@@ -25,8 +25,7 @@
       "url": "https://christinchong.com/kuma/",
       "applicationCategory": "LifestyleApplication",
       "operatingSystem": "iOS 18 or later",
-      "isAccessibleForFree": true,
-      "description": "Kuma is a free iPhone meditation timer for self-directed practice. The public beta is being prepared; installation is not yet available. Solo practice needs no account.",
+      "description": "Kuma is an iPhone meditation timer for self-directed practice. The public beta is being prepared; installation is not yet available. Solo practice needs no account.",
       "image": "https://christinchong.com/assets/kuma/social-preview-v3.jpg",
       "screenshot": [
         "https://christinchong.com/assets/kuma/meditate.webp",
@@ -85,10 +84,10 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Is Kuma free?",
+          "name": "What will Kuma cost?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. All meditation features are free. Optional support for Christin’s work does not unlock features."
+            "text": "Pricing and feature availability will be shared when Kuma is ready to launch. Join the beta list to hear when it’s ready to try."
           }
         },
         {

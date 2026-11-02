@@ -7,9 +7,13 @@ eyebrow: Kuma / Support
 
 For help, feedback, or a privacy request, email [hi@christinchong.com](mailto:hi@christinchong.com). You can also use **Send Christin feedback** in Kuma’s Settings.
 
-## Do I need an account or subscription?
+## Do I need an account?
 
-No. The timer, history, guide, aspirations, widgets, CSV export, and feedback work without an account. All meditation features are free. Optional Sign in with Apple enables account features such as private cloud backup. Newsletter support does not unlock app functionality.
+No. The timer, history, guide, aspirations, widgets, CSV export, and feedback work without an account. Optional Sign in with Apple enables account features such as private cloud backup. Newsletter subscriptions are separate from Kuma.
+
+## What will Kuma cost?
+
+Pricing and feature availability will be shared when Kuma is ready to launch. See the [Kuma page](/kuma/) for updates.
 
 ## Why can’t I install the beta yet?
 

@@ -6,7 +6,7 @@ permalink: /projects
 
 ## [Kuma](/kuma/)
 
-A free meditation timer for iPhone, with an Apple Watch companion, gentle bells, a private practice history, and Home Screen widgets. Public TestFlight testing is being prepared.
+A meditation timer for iPhone, with an Apple Watch companion, gentle bells, a private practice history, and Home Screen widgets. Public TestFlight testing is being prepared.
 
 [Meet Kuma](/kuma/) · [Privacy](/kuma/privacy/) · [Support](/kuma/support/)
 

@@ -35,7 +35,7 @@ Sending feedback is optional. When you tap Send, Kuma sends your message, requir
 
 We use Supabase for accounts, cloud practice, and feedback; GitHub for the private feedback archive; Resend for feedback email; and Apple for sign-in, Health, notifications, and TestFlight distribution. Service providers may process operational information, such as IP addresses and request logs, to deliver and protect their services. Data may be processed outside your country.
 
-Kuma has no advertising or cross-app tracking SDK. We do not sell your personal information or use Health information for advertising. Opening an external Substack support link takes you to a separate service governed by its own privacy policy. A subscription does not unlock Kuma features.
+Kuma has no advertising or cross-app tracking SDK. We do not sell your personal information or use Health information for advertising. Opening an external Substack support link takes you to a separate service governed by its own privacy policy. Newsletter subscriptions are separate from Kuma.
 
 During the beta, Apple TestFlight may collect crash reports, usage information, and feedback and share them with us under Apple’s TestFlight terms and privacy disclosures.
 
