@@ -48,3 +48,9 @@ Sources: MEDITATIONTIMER/docs/screenshots/watch-paper/sit-42mm.png and fresh `--
 
 Validation: Jekyll build passed (existing Sass deprecation notices only). Browser checks confirmed all three Watch images load and the desktop gallery has no horizontal overflow.
 The 390px mobile layout also passed image-loading and overflow checks.
+
+## Practice-first Watch section — November 1, 2026
+
+Removed the prominent heart-rate chart and dedicated measurement feature from the landing page. Watch messaging now leads with the timer, haptics, and phone-free practice; optional Mindful Minutes remain visible. Heart-rate and step reports are described in a collapsed optional-details disclosure, including that heart rate does not measure meditation quality. The privacy policy and setup instructions retain accurate Health information.
+
+Validation: Jekyll build passed; desktop preview and the optional disclosure were checked, and the 390px mobile layout had no horizontal overflow. Regenerated the Kuma project with XcodeGen; Kuma and embedded extensions built, and all 13 selected widget tests passed (`/tmp/KumaWebsiteGentleHealth.xcresult`). Publication explicitly approved by the user on November 1, 2026.
