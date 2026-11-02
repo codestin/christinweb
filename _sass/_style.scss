@@ -117,6 +117,9 @@ hr { border: 0; border-top: 1px solid var(--color-rule-soft); margin: 56px 0; }
 .project-entry--featured .text-link { margin-top: 16px; }
 .project-art { display: block; max-width: 255px; justify-self: center; border-radius: 48% 48% 8px 8px; overflow: hidden; }
 .project-art img { margin: 0; border: 0; width: 100%; }
+.gumleaf-art { display: block; width: 100%; max-width: 360px; justify-self: center; margin: 0 auto 24px; }
+.gumleaf-art img { display: block; margin: 0; border: 0; width: 100%; height: auto; }
+.project-entry .gumleaf-art { margin-bottom: 0; }
 .home-sections { display: grid; grid-template-columns: repeat(3, 1fr); gap: 36px 48px; }
 .home-section h3 { margin: 0 0 12px; font-size: 24px; }
 .home-section p { color: var(--color-ink-2); font-size: 16px; margin: 0; }

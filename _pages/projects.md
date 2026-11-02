@@ -14,6 +14,8 @@ A meditation timer for iPhone, with an Apple Watch companion, gentle bells, a pr
 
 ## [GumLeaf](https://getgumleaf.com)
 
+<a class="gumleaf-art" href="https://getgumleaf.com" aria-label="Visit GumLeaf"><img src="/assets/gumleaf/gumleaf-koala-soft-pouch.webp" alt="GumLeaf koala holding a phone, with speech bubbles saying hello and Here’s your answer" width="1376" height="1152" loading="lazy"></a>
+
 Text any question and get a real answer back by SMS — weather, how-tos, anything — even over satellite, ten miles past your last bar of signal. No app, no account: your phone number is your account. Operated by Chong Consulting LLC.
 
 [Visit getgumleaf.com](https://getgumleaf.com)
