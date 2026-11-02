@@ -32,7 +32,7 @@ permalink: /kuma/
     </div>
     <div class="duo-gallery">
       <figure>
-        <a class="duo-screen" href="/assets/kuma/duo-timer.webp" aria-label="View the full-size Duo timer screenshot"><img src="/assets/kuma/duo-timer.webp" width="1600" height="1126" loading="lazy" alt="Kuma on iPhone Duo: the bear companion on the left, with the ten-minute timer, posture choices, and familiar controls on the right"></a>
+        <a class="duo-screen" href="/assets/kuma/duo-timer-tabs-fixed.webp" aria-label="View the full-size Duo timer screenshot"><img src="/assets/kuma/duo-timer-tabs-fixed.webp" width="1600" height="1126" loading="lazy" alt="Kuma on iPhone Duo: the bear companion on the left, with the ten-minute timer, posture choices, and familiar controls on the right"></a>
         <figcaption><h3>Room for your companion.</h3><p>The same timer, bells, and posture choices, arranged around the fold. Your session stays with you as the display changes.</p></figcaption>
       </figure>
       <figure>

@@ -68,3 +68,7 @@ After publication, submit `https://christinchong.com/kuma/` for reindexing in th
 Added the Duo native navigation item and feature gallery with optimized WebP screenshots of the native timer and post-session reflection. The gallery replaces the text-only Duo introduction while preserving its discovery metadata, FAQ, and anchor. Copy retains the familiar iPhone experience and identifies the images as simulator previews of a feature in development.
 
 Validation: Jekyll build and all 12 existing beta signup tests passed. Both screenshot assets, alt text, JSON-LD, and navigation anchors were checked. Browser review verified the desktop gallery and a 390px mobile layout without horizontal overflow.
+
+## Duo tab screenshot correction — November 1, 2026
+
+Replaced the Duo timer image with the fresh app capture after correcting tab widths and the gap between Log and Guide. Both the inline image and full-size link use `duo-timer-tabs-fixed.webp` to avoid cached copies. The source is `MEDITATIONTIMER/docs/screenshots/duo/open-timer.png`; the website export retains its aspect ratio at 1600 × 1126.
