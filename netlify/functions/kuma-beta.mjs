@@ -20,15 +20,29 @@ export default async function handler(request) {
   const key = process.env.RESEND_API_KEY;
   const segment = process.env.RESEND_KUMA_SEGMENT_ID;
   if (!key || !segment) return error(503, 'Signup is temporarily unavailable. Please try again later.');
-  const api = (path, method = 'GET', data) => fetch(`https://api.resend.com${path}`, {
-    method, headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
-    body: data === undefined ? undefined : JSON.stringify(data), signal: AbortSignal.timeout(8000),
-  });
+  let lastRequestAt = 0;
+  const api = async (path, method = 'GET', data) => {
+    // Resend's default limit is two requests per second, shared by the team.
+    for (let attempt = 0; attempt < 3; attempt++) {
+      const wait = Math.max(0, 550 - (Date.now() - lastRequestAt));
+      if (wait) await new Promise(resolve => setTimeout(resolve, wait));
+      lastRequestAt = Date.now();
+      const response = await fetch(`https://api.resend.com${path}`, {
+        method, headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
+        body: data === undefined ? undefined : JSON.stringify(data), signal: AbortSignal.timeout(8000),
+      });
+      if (response.status !== 429 || attempt === 2) return response;
+      const seconds = Number(response.headers.get('retry-after')) || 1;
+      await new Promise(resolve => setTimeout(resolve, Math.min(5, Math.max(1, seconds)) * 1000));
+    }
+  };
   try {
     const contactPath = `/contacts/${encodeURIComponent(email)}`;
     const existing = await api(contactPath);
+    let welcomeQueued = false;
     if (existing.ok) {
       const contact = await existing.json();
+      welcomeQueued = contact.properties?.kuma_welcome_status === 'queued';
       // A public form must never undo an existing account-wide unsubscribe.
       if (contact.unsubscribed) return error(409, 'This address has opted out of our emails. To rejoin, use the preferences link in a previous email or contact hi@christinchong.com.');
       const added = await api(`${contactPath}/segments/${encodeURIComponent(segment)}`, 'POST');
@@ -40,10 +54,16 @@ export default async function handler(request) {
     } else {
       throw new Error(`lookup-${existing.status}`);
     }
+    if (!welcomeQueued) {
+      const queued = await api('/events/send', 'POST', { event: 'kuma.beta_signed_up', email });
+      if (!queued.ok) throw new Error(`welcome-${queued.status}`);
+      const marked = await api(contactPath, 'PATCH', { properties: { kuma_welcome_status: 'queued' } });
+      if (!marked.ok) throw new Error(`welcome-status-${marked.status}`);
+    }
     return success();
   } catch (failure) {
     // Do not log email addresses, credentials, or provider response bodies.
-    const diagnostic = /^(lookup|create|segment)-[0-9]{3}$/.test(failure.message) ? failure.message : 'network';
+    const diagnostic = /^(lookup|create|segment|welcome|welcome-status)-[0-9]{3}$/.test(failure.message) ? failure.message : 'network';
     return error(503, 'We couldn’t save your signup right now. Please try again in a moment.', diagnostic);
   }
 }

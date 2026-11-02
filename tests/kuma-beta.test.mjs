@@ -14,15 +14,15 @@ function mock(responses) {
   return calls;
 }
 test('new consenting contact is added only to Kuma and redirects after success', async () => {
-  const calls = mock([[404, {}], [200, { id: 'contact' }]]);
+  const calls = mock([[404, {}], [200, { id: 'contact' }], [200, {event: 'kuma.beta_signed_up'}], [200, {}]]);
   const response = await handler(request());
   assert.equal(response.status, 303); assert.equal(response.headers.get('location'), '/kuma/thanks/');
   assert.deepEqual(JSON.parse(calls[1].body), {email: 'kuma-qa-test@example.com', segments: [{id: 'beta-segment'}]});
 });
 test('existing contact joins segment without resetting preferences', async () => {
-  const calls = mock([[200, { unsubscribed: false }], [200, {}]]);
+  const calls = mock([[200, { unsubscribed: false, properties: {kuma_welcome_status: 'queued'} }], [200, {}]]);
   assert.equal((await handler(request())).status, 303);
-  assert.match(calls[1].url, /\/segments\/beta-segment$/); assert.equal(calls[1].method, 'POST');
+  assert.match(calls[1].url, /\/segments\/beta-segment$/); assert.equal(calls[1].method, 'POST'); assert.equal(calls.length, 2);
 });
 test('global unsubscribe is preserved', async () => {
   const calls = mock([[200, { unsubscribed: true }]]);
@@ -42,7 +42,7 @@ test('missing configuration fails without false success', async () => {
   assert.equal((await handler(request())).status, 503);
 });
 test('Resend create, lookup and segment failures all offer retry', async () => {
-  for (const responses of [[[429, {}]], [[404, {}], [500, {}]], [[200, {unsubscribed: false}], [500, {}]]]) {
+  for (const responses of [[[429, {}], [429, {}], [429, {}]], [[404, {}], [500, {}]], [[200, {unsubscribed: false}], [500, {}]]]) {
     mock(responses); assert.equal((await handler(request())).status, 503);
   }
 });
@@ -54,4 +54,24 @@ test('network failure does not expose credentials or contact information', async
 test('method and content type are validated', async () => {
   assert.equal((await handler(new Request('https://christinchong.com/api'))).status, 405);
   assert.equal((await handler(new Request('https://christinchong.com/api', {method:'POST', body:'{}'}))).status, 415);
+});
+
+test('welcome event targets only the signup email, then records it as queued', async () => {
+  const calls = mock([[200, {unsubscribed: false, properties: {kuma_welcome_status:'pending'}}], [200, {}], [200, {}], [200, {}]]);
+  assert.equal((await handler(request())).status, 303);
+  assert.equal(calls[2].url, 'https://api.resend.com/events/send');
+  assert.deepEqual(JSON.parse(calls[2].body), {event:'kuma.beta_signed_up', email:'kuma-qa-test@example.com'});
+  assert.equal(calls[3].method, 'PATCH');
+  assert.deepEqual(JSON.parse(calls[3].body), {properties:{kuma_welcome_status:'queued'}});
+});
+test('failed welcome event remains retryable and does not mark it queued', async () => {
+  const calls = mock([[200, {unsubscribed:false}], [200, {}], [500, {}]]);
+  assert.equal((await handler(request())).status, 503);
+  assert.equal(calls.length, 3);
+});
+test('rate limited API call retries before advancing to the next operation', async () => {
+  const calls = mock([[429, {}], [200, {unsubscribed:false, properties:{kuma_welcome_status:'queued'}}], [200, {}]]);
+  assert.equal((await handler(request())).status, 303);
+  assert.equal(calls[0].url, calls[1].url);
+  assert.equal(calls.length, 3);
 });
