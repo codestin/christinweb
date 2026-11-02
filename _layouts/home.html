@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+{% assign home_parts = content | split: '<!-- home-intro-end -->' %}
+{% include masthead.html intro=home_parts.first %}
+
+<content>
+  {{ home_parts.last }}
+</content>

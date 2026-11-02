@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: home
 title: Home
 id: home
 permalink: /
 masthead_title: "Hi, I'm Christin. Nice to meet ya!"
-eyebrow: christinchong.com
 tags: [Buddhist Chaplain, Builder, Biotech Marketer]
 ---
 
@@ -15,6 +14,8 @@ I build things that put these interests into practice: from [Kuma](/kuma/), a ge
 My work also reaches into biotech. With a neuroscience PhD and a background in strategy and medical education, I help biotech companies connect with healthcare providers and patients. My research has spanned cancer imaging, multiple sclerosis, and the human genetics of sleep and circadian rhythms.
 
 <div class="hero-actions"><a class="button" href="#projects">Explore my work <span aria-hidden="true">↗</span></a><a class="text-link" href="/hire">Work with me <span aria-hidden="true">→</span></a></div>
+
+<!-- home-intro-end -->
 
 <hr class="section-divider">
 

@@ -5,12 +5,14 @@
 {%- if url_parts.size > 2 -%}{%- assign section = url_parts[1] | replace: "-", " " -%}{%- endif -%}
 <section class="masthead{% if page.id == 'home' %} masthead--home{% endif %}">
   <div class="masthead-copy">
+  {% unless page.id == 'home' %}
   <p class="masthead-eyebrow">
     {%- if page.eyebrow %}{{ page.eyebrow }}
     {%- elsif is_note %}Note &middot; {{ page.date | date: "%b %-d, %Y" }}
     {%- elsif section != "" %}{{ section }}
     {%- else %}christinchong.com{% endif -%}
   </p>
+  {% endunless %}
   <h1 class="masthead-title">{% if page.id == 'home' %}Hi, I'm Christin.<br><span class="heading-highlight">Nice to meet ya!</span>{% else %}{{ page.masthead_title | default: page.title }}{% endif %}</h1>
   {%- if page.subtitle %}
   <p class="masthead-subtitle">{{ page.subtitle }}</p>
@@ -19,6 +21,7 @@
   <div class="masthead-rule" role="presentation"></div>
   <p class="masthead-byline">{{ page.tags | slice: 0, 5 | join: " &middot; " }}</p>
   {%- endif %}
+  {% if include.intro %}<div class="hero-intro">{{ include.intro }}</div>{% endif %}
   </div>
   {% if page.id == 'home' %}
   <figure class="hero-portrait"><img src="{{ site.baseurl }}/assets/images/portraits/christin-hero.png" alt="Christin Chong standing in a doorway" width="2238" height="1492" fetchpriority="high"></figure>
