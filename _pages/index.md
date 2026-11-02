@@ -8,11 +8,13 @@ eyebrow: christinchong.com
 tags: [Buddhist Chaplain, Builder, Biotech Marketer]
 ---
 
-I'm an **Interfaith Buddhist chaplain**, a leadership coach, and a builder. I bring chaplaincy into everyday life through [writing](/notes), [coaching](/hire/coaching), and creative projects that make room for reflection and practice.
+I'm a Buddhist Chaplain, Builder, and Biotech marketer. I bring chaplaincy into everyday life through [writing](/notes), [coaching](/hire/coaching), and creative projects that make room for reflection and practice.
 
 I build things that put these interests into practice: from [Kuma](/kuma/), a gentle meditation timer, to [Debug Your Meditation](/projects/debug-your-meditation), a book about finding more joy in meditation.
 
 My work also reaches into biotech. With a neuroscience PhD and a background in strategy and medical education, I help biotech companies connect with healthcare providers and patients. My research has spanned cancer imaging, multiple sclerosis, and the human genetics of sleep and circadian rhythms.
+
+<div class="hero-actions"><a class="button" href="#projects">Explore my work <span aria-hidden="true">↗</span></a><a class="text-link" href="/hire">Work with me <span aria-hidden="true">→</span></a></div>
 
 <hr class="section-divider">
 
