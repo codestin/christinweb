@@ -46,7 +46,7 @@
   <meta name="twitter:title" content="{{ social_title | escape }}">
   <meta name="twitter:description" content="{{ social_description | escape }}">
 
-  <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
+  {% include favicons.html %}
   <meta name="theme-color" content="#f8f4e9">
   <link rel="preload" href="{{ site.baseurl }}/assets/fonts/RefugeSlab400.ttf" as="font" type="font/ttf" crossorigin>
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
