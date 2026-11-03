@@ -82,3 +82,7 @@ The homepage and Kuma landing page use `assets/kuma/kuma-recessed-arch.png`. Thi
 Updated the Open Graph and Twitter card to social-preview-v7.jpg (1200 × 630 JPEG), using the current transparent recessed-arch hero with its projecting cushion and shadow. The selected headline is “A quiet timer. A little company.” Landing-page social title and description now explain the free meditation timer and beta waitlist; the SEO title and other pages’ descriptions are retained. Schema image URLs and image alt text match the new asset. No animation metadata is included. The versioned URL allows crawlers to fetch a fresh image; previously cached messages may retain the old card.
 
 The renderer is docs/artwork/render-kuma-social.swift and uses existing bundled fonts and assets/kuma/kuma-recessed-arch.png. The rendered card was visually reviewed. The app and WidgetKit build/unit checks passed earlier in this task (171 tests, one skipped, no failures); this update changes website files only.
+
+### Card typography revision
+
+Version 8 removes “Free to practice. Yours to return to.” and enlarges the product label from 22 to 32 pixels, in two lines: “Meditation timer for / iPhone and iPhone Duo.” The selected headline and updated hero remain. Both social image tags and schema reference the versioned static JPEG. Visually reviewed at full card size.

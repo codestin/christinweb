@@ -27,10 +27,10 @@ func text(_ value: String,_ x: CGFloat,_ y: CGFloat,_ size: CGFloat,_ weight: In
 rect(0,0,1200,630,paper)
 text("Kuma",56,33,62,700)
 color(0xecb522).setFill(); NSBezierPath(ovalIn:NSRect(x:222,y:80,width:12,height:12)).fill()
-text("Meditation timer for iPhone",58,124,22,400,color(0x646255))
+text("Meditation timer for",58,120,32,500,color(0x646255))
+text("iPhone and iPhone Duo",58,160,32,500,color(0x646255))
 text("A quiet timer.",54,225,68)
 text("A little company.",54,307,68)
-text("Free to practice. Yours to return to.",58,426,25,400,color(0x646255))
 // Reuse the website hero's arched framing and unchanged approved source artwork.
 NSGraphicsContext.saveGraphicsState()
 let art=NSImage(contentsOfFile:base + "/assets/kuma/kuma-recessed-arch.png")!
