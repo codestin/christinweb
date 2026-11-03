@@ -20,32 +20,6 @@ permalink: /kuma/
 </div>
 </section>
 
-<section class="community-section" id="community" aria-labelledby="community-title">
-  <div class="wrap">
-    <div class="section-heading">
-      <p class="eyebrow">A little encouragement</p>
-      <h2 id="community-title">Your own practice.<br>A little company.</h2>
-      <p>Some days, knowing someone else is making time to meditate can help you find your way back. Kuma’s community is a place to find that quiet encouragement, and offer a little of your own.</p>
-    </div>
-    <figure class="community-animals">
-      <ul class="animal-gallery" aria-label="A few of the community animals">
-        <li><img src="/assets/kuma/community/bear.webp" alt="" width="300" height="300" loading="lazy"><span>Bear</span></li>
-        <li><img src="/assets/kuma/community/koala.webp" alt="" width="300" height="300" loading="lazy"><span>Koala</span></li>
-        <li><img src="/assets/kuma/community/cat.webp" alt="" width="300" height="300" loading="lazy"><span>Cat</span></li>
-        <li><img src="/assets/kuma/community/dog.webp" alt="" width="300" height="300" loading="lazy"><span>Dog</span></li>
-        <li><img src="/assets/kuma/community/frog.webp" alt="" width="300" height="300" loading="lazy"><span>Frog</span></li>
-        <li><img src="/assets/kuma/community/capybara.webp" alt="" width="300" height="300" loading="lazy"><span>Capybara</span></li>
-      </ul>
-      <figcaption>55 little faces to choose from. Find an animal that feels like you.</figcaption>
-    </figure>
-    <div class="community-benefits">
-      <article><h3>A reminder to return.</h3><p>See others who have meditated in Kuma. You each practice in your own time, with a shared intention to keep making room for it.</p></article>
-      <article><h3>A little personality.</h3><p>Choose a community name and a cute animal avatar, from Bear to Capybara. A familiar little face for your place in the community.</p></article>
-      <article><h3>Share only a little.</h3><p>Members see your chosen name, animal, and that you’ve meditated in Kuma. Your session times, durations, reflections, and Health data stay private.</p></article>
-    </div>
-    <div class="community-joining"><p>When you’re ready, open <strong>Community</strong> from Log or Settings in Kuma. Sign in with Apple, choose your name and animal, and join. After your first meditation, you can see other members and appear alongside them.</p><p class="fine">Joining is optional, and you can leave anytime. This is a community of people who have practiced, rather than a live group session.</p><a class="text-link" href="#beta">Try Kuma and find your little face <span aria-hidden="true">↗</span></a></div>
-  </div>
-</section>
 <section class="wrap section widget-section" id="widgets" aria-labelledby="widgets-title">
   <div class="section-heading">
     <p class="eyebrow">A little Kuma, right at home</p>
@@ -75,6 +49,32 @@ permalink: /kuma/
     <article><p class="eyebrow">Ready when you are</p><h3>Tap to begin.</h3><p>Tap a widget to open your timer. You can also add a small widget to your Lock Screen to see your recent practice or daily streak.</p></article>
   </div>
 
+</section>
+<section class="community-section" id="community" aria-labelledby="community-title">
+  <div class="wrap">
+    <div class="section-heading">
+      <p class="eyebrow">A little encouragement</p>
+      <h2 id="community-title">Your own practice.<br>A little company.</h2>
+      <p>Some days, knowing someone else is making time to meditate can help you find your way back. Kuma’s community is a place to find that quiet encouragement, and offer a little of your own.</p>
+    </div>
+    <figure class="community-animals">
+      <ul class="animal-gallery" aria-label="A few of the community animals">
+        <li><img src="/assets/kuma/community/bear.webp" alt="" width="300" height="300" loading="lazy"><span>Bear</span></li>
+        <li><img src="/assets/kuma/community/koala.webp" alt="" width="300" height="300" loading="lazy"><span>Koala</span></li>
+        <li><img src="/assets/kuma/community/cat.webp" alt="" width="300" height="300" loading="lazy"><span>Cat</span></li>
+        <li><img src="/assets/kuma/community/dog.webp" alt="" width="300" height="300" loading="lazy"><span>Dog</span></li>
+        <li><img src="/assets/kuma/community/frog.webp" alt="" width="300" height="300" loading="lazy"><span>Frog</span></li>
+        <li><img src="/assets/kuma/community/capybara.webp" alt="" width="300" height="300" loading="lazy"><span>Capybara</span></li>
+      </ul>
+      <figcaption>55 little faces to choose from. Find an animal that feels like you.</figcaption>
+    </figure>
+    <div class="community-benefits">
+      <article><h3>A reminder to return.</h3><p>See others who have meditated in Kuma. You each practice in your own time, with a shared intention to keep making room for it.</p></article>
+      <article><h3>A little personality.</h3><p>Choose a community name and a cute animal avatar, from Bear to Capybara. A familiar little face for your place in the community.</p></article>
+      <article><h3>Share only a little.</h3><p>Members see your chosen name, animal, and that you’ve meditated in Kuma. Your session times, durations, reflections, and Health data stay private.</p></article>
+    </div>
+    <div class="community-joining"><p>When you’re ready, open <strong>Community</strong> from Log or Settings in Kuma. Sign in with Apple, choose your name and animal, and join. After your first meditation, you can see other members and appear alongside them.</p><p class="fine">Joining is optional, and you can leave anytime. This is a community of people who have practiced, rather than a live group session.</p><a class="text-link" href="#beta">Try Kuma and find your little face <span aria-hidden="true">↗</span></a></div>
+  </div>
 </section>
 <section class="health-section" id="apple-health" aria-labelledby="health-title">
   <div class="wrap">
