@@ -2,6 +2,8 @@
 layout: home
 title: Home
 id: home
+seo_title: Christin Chong, PhD — Buddhist Chaplain, Builder & Biotech Marketer
+description: Buddhist Chaplain. Builder. Biotech Marketer. Neuroscience PhD exploring care through writing, coaching, and creative projects.
 permalink: /
 masthead_title: "Hi, I'm Christin. Nice to meet ya!"
 tags: [Buddhist Chaplain, Builder, Biotech Marketer]
