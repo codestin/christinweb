@@ -3,6 +3,8 @@ layout: kuma
 title: A little room for being here
 seo_title: Native Meditation App for iPhone & iPhone Duo
 description: Kuma is a native meditation app for iPhone and iPhone Duo, with a fold-aware timer, widgets, Apple Watch support, and an offline guide. Join the beta waitlist.
+social_title: Kuma — a free meditation timer for iPhone
+social_description: Make a little room for yourself. A quiet timer, a gentle bell, and Kuma for company. Join the beta waitlist.
 permalink: /kuma/
 ---
 <section class="hero wrap">

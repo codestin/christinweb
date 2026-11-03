@@ -76,3 +76,9 @@ Replaced the Duo timer image with the fresh app capture after correcting tab wid
 ## Recessed arch artwork
 
 The homepage and Kuma landing page use `assets/kuma/kuma-recessed-arch.png`. This is the user-approved extended arch composition, made directly from the original Kuma master without regenerating the character. The character and cushion pixels remain unchanged; only the backdrop and contact shadow were composited. Transparent outer margins let the artwork sit naturally on both page backgrounds. Do not add CSS border-radius clipping or a border around this image. The social preview reuses this same asset.
+
+## Static adoption preview — November 2, 2026
+
+Updated the Open Graph and Twitter card to social-preview-v7.jpg (1200 × 630 JPEG), using the current transparent recessed-arch hero with its projecting cushion and shadow. The selected headline is “A quiet timer. A little company.” Landing-page social title and description now explain the free meditation timer and beta waitlist; the SEO title and other pages’ descriptions are retained. Schema image URLs and image alt text match the new asset. No animation metadata is included. The versioned URL allows crawlers to fetch a fresh image; previously cached messages may retain the old card.
+
+The renderer is docs/artwork/render-kuma-social.swift and uses existing bundled fonts and assets/kuma/kuma-recessed-arch.png. The rendered card was visually reviewed. The app and WidgetKit build/unit checks passed earlier in this task (171 tests, one skipped, no failures); this update changes website files only.
