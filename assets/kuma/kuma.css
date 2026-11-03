@@ -124,3 +124,19 @@
 .kuma-document p,.kuma-document li{font-size:17px;line-height:1.8}
 .kuma-document a{color:var(--ink)}
 @media(max-width:650px){.kuma-document{padding-block:40px 60px}}
+
+/* Quiet company, with the same approved animal portraits as the app. */
+.community-section{padding:80px 0;background:#eee8dc;border-block:1px solid var(--rule)}
+.community-animals{margin:0 0 45px}
+.animal-gallery{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:20px;list-style:none;padding:0;margin:0}
+.animal-gallery li{text-align:center;min-width:0}
+.animal-gallery img{width:100%;height:auto;aspect-ratio:1;object-fit:contain;background:#f8f4e9;border-radius:50%;padding:10px}
+.animal-gallery span{display:block;margin-top:12px;font-size:15px}
+.community-animals figcaption{text-align:center;margin-top:28px;color:var(--muted);font-size:16px}
+.community-benefits{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:40px}
+.community-benefits h3{margin-bottom:15px}
+.community-benefits p{font-size:16px}
+.community-joining{max-width:800px;margin-top:40px;padding-top:28px;border-top:1px solid var(--rule)}
+.community-joining p+p{margin-top:16px}
+@media(max-width:900px){.animal-gallery{grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}.animal-gallery img{max-width:180px}.community-benefits{gap:24px}}
+@media(max-width:650px){.community-section{padding:55px 0}.animal-gallery{gap:24px 14px}.animal-gallery img{padding:6px}.animal-gallery span{font-size:14px}.community-benefits{grid-template-columns:1fr;gap:28px}}

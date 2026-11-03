@@ -118,3 +118,9 @@ Revised Kuma’s landing page around Christin’s writing about enjoying practic
 Support now reflects the available TestFlight version. Support, privacy, confirmation, navigation, and signup errors use christin@kumatimer.com. The privacy policy retains its provider, collection, backup, sharing, retention, and deletion disclosures in shorter paragraphs. Artwork and signup behavior are unchanged.
 
 Validation: production Jekyll build passed (existing Sass deprecation warnings); all 13 signup endpoint tests passed. Desktop and 390px phone previews checked, with no horizontal overflow or broken loaded images. Local links/assets and all ten FAQ schema entries checked. Regenerated the app project using XcodeGen; Kuma and embedded widget targets built, and 171 unit tests finished with one skip and zero failures (/tmp/KumaFriendlyCopy.xcresult).
+
+## Community showcase — November 3, 2026
+
+Added a community section after the practice introduction, with six approved animal portraits (Bear, Koala, Cat, Dog, Frog, Capybara), the 55-avatar choice, quiet encouragement, optional joining, and the visibility/privacy boundary. The gallery is illustrative: it contains no actual member names or live presence claims. WebP portraits use the native app's bounded artwork windows; no artwork was regenerated. Desktop/mobile navigation and the community FAQ/schema match the visible section.
+
+Validation: production Jekyll build passed with existing Sass deprecation warnings; all 13 signup endpoint tests passed. Desktop and 390px layouts checked, all six images loaded and no horizontal overflow. Regenerated the authoritative native project with XcodeGen; Kuma and embedded WidgetKit extensions built. Native suite reported 180 tests, one skipped, no failures (MEDITATIONTIMER/build/Community/Logs/Test/Test-Kuma-2026.11.03_00-36-09--0800.xcresult).

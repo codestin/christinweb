@@ -20,6 +20,32 @@ permalink: /kuma/
 </div>
 </section>
 
+<section class="community-section" id="community" aria-labelledby="community-title">
+  <div class="wrap">
+    <div class="section-heading">
+      <p class="eyebrow">A little encouragement</p>
+      <h2 id="community-title">Your own practice.<br>A little company.</h2>
+      <p>Some days, knowing someone else is making time to meditate can help you find your way back. Kuma’s community is a place to find that quiet encouragement, and offer a little of your own.</p>
+    </div>
+    <figure class="community-animals">
+      <ul class="animal-gallery" aria-label="A few of the community animals">
+        <li><img src="/assets/kuma/community/bear.webp" alt="" width="300" height="300" loading="lazy"><span>Bear</span></li>
+        <li><img src="/assets/kuma/community/koala.webp" alt="" width="300" height="300" loading="lazy"><span>Koala</span></li>
+        <li><img src="/assets/kuma/community/cat.webp" alt="" width="300" height="300" loading="lazy"><span>Cat</span></li>
+        <li><img src="/assets/kuma/community/dog.webp" alt="" width="300" height="300" loading="lazy"><span>Dog</span></li>
+        <li><img src="/assets/kuma/community/frog.webp" alt="" width="300" height="300" loading="lazy"><span>Frog</span></li>
+        <li><img src="/assets/kuma/community/capybara.webp" alt="" width="300" height="300" loading="lazy"><span>Capybara</span></li>
+      </ul>
+      <figcaption>55 little faces to choose from. Find an animal that feels like you.</figcaption>
+    </figure>
+    <div class="community-benefits">
+      <article><h3>A reminder to return.</h3><p>See others who have meditated in Kuma. You each practice in your own time, with a shared intention to keep making room for it.</p></article>
+      <article><h3>A little personality.</h3><p>Choose a community name and a cute animal avatar, from Bear to Capybara. A familiar little face for your place in the community.</p></article>
+      <article><h3>Share only a little.</h3><p>Members see your chosen name, animal, and that you’ve meditated in Kuma. Your session times, durations, reflections, and Health data stay private.</p></article>
+    </div>
+    <div class="community-joining"><p>When you’re ready, open <strong>Community</strong> from Log or Settings in Kuma. Sign in with Apple, choose your name and animal, and join. After your first meditation, you can see other members and appear alongside them.</p><p class="fine">Joining is optional, and you can leave anytime. This is a community of people who have practiced, rather than a live group session.</p><a class="text-link" href="#beta">Try Kuma and find your little face <span aria-hidden="true">↗</span></a></div>
+  </div>
+</section>
 <section class="wrap section widget-section" id="widgets" aria-labelledby="widgets-title">
   <div class="section-heading">
     <p class="eyebrow">A little Kuma, right at home</p>
@@ -97,6 +123,7 @@ permalink: /kuma/
 <details><summary>How do I use Kuma on Apple Watch?</summary><ol><li>Install Kuma on the Apple Watch paired with your iPhone.</li><li>Open Kuma on your Watch and choose how you’ll meditate and for how long.</li><li>Tap Begin. You can pause or finish from your Watch, too.</li></ol><p>Your Watch needs watchOS 11 or later. Completed meditations appear in your iPhone history when the devices reconnect.</p></details>
 <details><summary>How do I use Kuma with Apple Health?</summary><ol><li>In Kuma, open Settings → Apple Health.</li><li>Choose Save to Mindful Minutes if you’d like to record your meditation time in Apple Health.</li><li>For optional heart-rate readings, turn on Heart rate reports and Measure on Apple Watch, then allow the access Apple asks for.</li></ol><p>With Watch measurement enabled, beginning a meditation on your iPhone can start recording on your nearby Watch. Readings may take time to appear and depend on what your devices record. Heart rate doesn’t tell you how well you meditated, and Kuma doesn’t assess it for medical purposes.</p></details>
 <details><summary>How do I add a Kuma widget?</summary><p>A widget is a small view of Kuma that lives on your Home Screen.</p><ol><li>Touch and hold your iPhone’s Home Screen.</li><li>Choose Edit → Add Widget and search for Kuma.</li><li>Pick a small or medium widget.</li></ol><p>To change its colors, open Kuma’s Settings → Widget appearance and choose Sunshine, Night Gold, or Match System. Your iPhone decides when widgets update, so changes may take a little time to appear.</p></details>
+<details><summary>How does Kuma’s community work?</summary><p>Open Community from Log or Settings, sign in with Apple, and choose a community name and one of 55 animal avatars. Joining is optional; signing in alone doesn’t make you visible. After you have joined and meditated, you can see other members who have meditated in Kuma at any time. This isn’t a live group session. Members see your chosen name, animal, and that you’ve meditated; your session times, durations, reflections, and Health data stay private. You can leave anytime.</p></details>
 <details><summary>What kind of meditation is Kuma for?</summary><p>Kuma gives you a timer for practicing on your own, whether you’re sitting, walking, standing, or lying down. There’s also a written guide with teachings and reflections to explore. The guide works without an internet connection.</p></details>
 <details><summary>What if I miss a day?</summary><p>Then you can practice again when you’re able. You can choose a weekly aspiration that fits your life, and change it as your circumstances change. Even a short meditation counts. If you enjoy keeping a daily streak, you can choose that in Settings.</p></details>
 <details id="who-is-kuma"><summary>Who is Kuma?</summary><p>Kuma is the bear keeping you company as you practice. His round, legless shape is inspired by Japanese Daruma dolls, traditionally associated with perseverance.</p><h3>The inspiration behind Kuma</h3><p>Daruma dolls are inspired by Bodhidharma, a Buddhist teacher. The circle on Kuma’s belly echoes the <em>ensō</em>, a circle painted with a brush in Zen art. His white color is a nod to the <em>upāsaka</em>, a lay Buddhist practitioner. The Pāli Canon describes white-clad lay followers practicing amid everyday life.</p><p>Explore the inspirations: <a href="https://www.japan.travel/en/blog/try-your-luck-with-takasaki-daruma/">Daruma dolls</a>, <a href="https://searchcollection.asianart.org/objects/19254/enso">the ensō in Zen art</a>, and <a href="https://suttacentral.net/dn29/en/sujato">lay followers in the Pāli Canon</a>.</p></details>

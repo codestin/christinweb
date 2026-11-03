@@ -53,7 +53,8 @@
         "Start and finish meditation independently on Apple Watch; completed sessions sync to iPhone",
         "Optional heart-rate reports from recorded Apple Health samples during meditation",
         "Optional Apple Health step reports for walking meditations",
-        "Optional post-session reflection saved on your device, separate from feedback"
+        "Optional post-session reflection saved on your device, separate from feedback",
+        "Optional community with 55 animal avatars and private meditation details"
       ],
       "creator": {
         "@id": "https://christinchong.com/kuma/#creator"
@@ -140,6 +141,14 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "A widget is a small view of Kuma that lives on your Home Screen. Touch and hold your iPhone’s Home Screen. Choose Edit → Add Widget and search for Kuma. Pick a small or medium widget. To change its colors, open Kuma’s Settings → Widget appearance and choose Sunshine, Night Gold, or Match System. Your iPhone decides when widgets update, so changes may take a little time to appear."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does Kuma’s community work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Open Community from Log or Settings, sign in with Apple, and choose a community name and one of 55 animal avatars. Joining is optional; signing in alone doesn’t make you visible. After you have joined and meditated, you can see other members who have meditated in Kuma at any time. This isn’t a live group session. Members see your chosen name, animal, and that you’ve meditated; your session times, durations, reflections, and Health data stay private. You can leave anytime."
           }
         },
         {
