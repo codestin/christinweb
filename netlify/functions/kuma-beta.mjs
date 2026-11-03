@@ -1,7 +1,7 @@
 const headers = { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store' };
 const success = () => new Response(null, { status: 303, headers: { Location: '/kuma/thanks/', 'Cache-Control': 'no-store' } });
 function error(status, message, diagnostic) {
-  return new Response(`<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Kuma beta signup</title><main><h1>We couldn’t send your instructions</h1><p>${message}</p><p><a href="/kuma/#beta">Return to the signup form</a></p></main></html>`, { status, headers: { ...headers, ...(diagnostic ? { "X-Kuma-Signup-Status": diagnostic } : {}) } });
+  return new Response(`<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Kuma beta signup</title><main><h1>We couldn’t send your link</h1><p>${message}</p><p><a href="/kuma/#beta">Back to the form</a></p></main></html>`, { status, headers: { ...headers, ...(diagnostic ? { "X-Kuma-Signup-Status": diagnostic } : {}) } });
 }
 
 export default async function handler(request) {
@@ -15,11 +15,11 @@ export default async function handler(request) {
   if (form.get('bot-field')) return success();
   const email = (form.get('email') || '').trim().toLowerCase();
   if (email.length > 254 || !/^[^\s@<>]+@[^\s@<>]+\.[^\s@<>]+$/.test(email) || form.get('beta-consent') !== 'yes') {
-    return error(400, 'Enter a valid email address and check the box to receive Kuma installation instructions and beta updates.');
+    return error(400, 'Enter your email address and tick the box so we can send your link and updates.');
   }
   const key = process.env.RESEND_API_KEY;
   const segment = process.env.RESEND_KUMA_SEGMENT_ID;
-  if (!key || !segment) return error(503, 'Signup is temporarily unavailable. Please try again later.');
+  if (!key || !segment) return error(503, 'We can’t send your link just now. Please try again later.');
   let lastRequestAt = 0;
   const api = async (path, method = 'GET', data) => {
     // Resend's default limit is two requests per second, shared by the team.
@@ -44,7 +44,7 @@ export default async function handler(request) {
       const contact = await existing.json();
       welcomeQueued = contact.properties?.kuma_welcome_status === 'install-queued-v1';
       // A public form must never undo an existing account-wide unsubscribe.
-      if (contact.unsubscribed) return error(409, 'This address has opted out of our emails. To rejoin, use the preferences link in a previous email or contact hi@christinchong.com.');
+      if (contact.unsubscribed) return error(409, 'You’ve unsubscribed from our emails. To sign up again, use the preferences link in a previous email or contact christin@kumatimer.com.');
       const added = await api(`${contactPath}/segments/${encodeURIComponent(segment)}`, 'POST');
       if (!added.ok) throw new Error(`segment-${added.status}`);
     } else if (existing.status === 404) {
@@ -64,6 +64,6 @@ export default async function handler(request) {
   } catch (failure) {
     // Do not log email addresses, credentials, or provider response bodies.
     const diagnostic = /^(lookup|create|segment|welcome|welcome-status)-[0-9]{3}$/.test(failure.message) ? failure.message : 'network';
-    return error(503, 'We couldn’t save your signup right now. Please try again in a moment.', diagnostic);
+    return error(503, 'Something went wrong. Please try again in a moment.', diagnostic);
   }
 }

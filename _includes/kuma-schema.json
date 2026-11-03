@@ -5,8 +5,8 @@
       "@type": "WebPage",
       "@id": "https://christinchong.com/kuma/#webpage",
       "url": "https://christinchong.com/kuma/",
-      "name": "Native Meditation App for iPhone & iPhone Duo · Kuma",
-      "description": "Kuma is a native meditation app for iPhone and iPhone Duo, with a fold-aware timer, widgets, Apple Watch support, and an offline guide. Get installation instructions for the TestFlight beta.",
+      "name": "Meditation Timer for iPhone & iPhone Duo · Kuma",
+      "description": "Meet Kuma, a meditation timer and a little company for your practice. For iPhone and iPhone Duo, with widgets, Apple Watch, and a written guide. Try Kuma through TestFlight.",
       "inLanguage": "en",
       "mainEntity": {
         "@id": "https://christinchong.com/kuma/#app"
@@ -25,7 +25,7 @@
       "url": "https://christinchong.com/kuma/",
       "applicationCategory": "LifestyleApplication",
       "operatingSystem": "iOS 18 or later",
-      "description": "Kuma is a native SwiftUI meditation app for iPhone and iPhone Duo, with fold-aware meditation and reflection layouts on iOS 27.1 or later. Public beta available on TestFlight; installation instructions by email. Solo practice needs no account.",
+      "description": "Kuma is a meditation timer and a little company for your practice on iPhone and iPhone Duo. Includes a written guide, widgets, and optional Apple Watch support. Try an early version through TestFlight. No account needed to meditate.",
       "image": "https://christinchong.com/assets/kuma/social-preview-v8.jpg",
       "screenshot": [
         "https://christinchong.com/assets/kuma/meditate.webp",
@@ -88,26 +88,26 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Is Kuma a native meditation app for iPhone Duo?",
+          "name": "How do I try Kuma?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Kuma is built with SwiftUI and includes fold-aware meditation and reflection layouts for iPhone Duo on iOS 27.1 or later. The timer and practice controls adapt to the inner display while compact iPhones keep a single-column layout. Duo layouts have been checked in the simulator; physical-device validation is pending. The public beta is available on TestFlight."
+            "text": "You can try Kuma now through TestFlight, Apple’s free app for trying apps before they’re released. Enter your email above and we’ll send you a link, with a few steps to get started on your iPhone."
           }
         },
         {
           "@type": "Question",
-          "name": "Does Kuma work on other iPhones?",
+          "name": "Will Kuma work on my iPhone?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Kuma supports iPhone with iOS 18 or later. The fold-aware Duo layout requires iOS 27.1 or later, but the meditation timer, personal practice log, offline written guide, and widgets are also available on supported compact iPhones."
+            "text": "Kuma works on iPhones running iOS 18 or later. The special iPhone Duo layouts need iOS 27.1 or later. You can use the timer, practice history, written guide, and widgets on other supported iPhones, too."
           }
         },
         {
           "@type": "Question",
-          "name": "How is Kuma different from apps like Insight Timer?",
+          "name": "Does Kuma work on iPhone Duo?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "If you want a wide library of guided sessions, an app like Insight Timer may suit you. Kuma focuses on self-directed practice: a flexible timer, an illustrated companion, a weekly rhythm, and your personal log. Its offline guide offers written teachings and reflections rather than an audio catalog."
+            "text": "Yes. Kuma adjusts as you open, fold, or turn your iPhone Duo. When fully open, Kuma sits beside your timer. When half-open on a table, Kuma appears above the timer controls. These layouts need iOS 27.1 or later."
           }
         },
         {
@@ -115,15 +115,39 @@
           "name": "Do I need an account or an Apple Watch?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Neither. Solo practice works without signing in. Cloud backup and Apple Health are optional, and you can use Kuma entirely on your iPhone. The optional Watch companion requires watchOS 11 or later."
+            "text": "No. You can meditate on your iPhone without signing in. Apple Watch, cloud backup, and Apple Health are optional. The Watch app needs watchOS 11 or later."
           }
         },
         {
           "@type": "Question",
-          "name": "When can I try the beta?",
+          "name": "How do I use Kuma on Apple Watch?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "You can try Kuma now through Apple’s TestFlight app. Enter your email above and we’ll send you the link and installation instructions. You install TestFlight and Kuma yourself using the links in the email."
+            "text": "Install Kuma on the Apple Watch paired with your iPhone. Open Kuma on your Watch and choose how you’ll meditate and for how long. Tap Begin. You can pause or finish from your Watch, too. Your Watch needs watchOS 11 or later. Completed meditations appear in your iPhone history when the devices reconnect."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I use Kuma with Apple Health?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Kuma, open Settings → Apple Health. Choose Save to Mindful Minutes if you’d like to record your meditation time in Apple Health. For optional heart-rate readings, turn on Heart rate reports and Measure on Apple Watch, then allow the access Apple asks for. With Watch measurement enabled, beginning a meditation on your iPhone can start recording on your nearby Watch. Readings may take time to appear and depend on what your devices record. Heart rate doesn’t tell you how well you meditated, and Kuma doesn’t assess it for medical purposes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I add a Kuma widget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A widget is a small view of Kuma that lives on your Home Screen. Touch and hold your iPhone’s Home Screen. Choose Edit → Add Widget and search for Kuma. Pick a small or medium widget. To change its colors, open Kuma’s Settings → Widget appearance and choose Sunshine, Night Gold, or Match System. Your iPhone decides when widgets update, so changes may take a little time to appear."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What kind of meditation is Kuma for?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kuma gives you a timer for practicing on your own, whether you’re sitting, walking, standing, or lying down. There’s also a written guide with teachings and reflections to explore. The guide works without an internet connection."
           }
         },
         {
@@ -131,7 +155,7 @@
           "name": "What if I miss a day?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kuma starts with a flexible weekly aspiration, so you can build a rhythm that makes room for life. Any completed session counts as practice that day, including a short one. You can choose a strict daily streak in Settings if that’s helpful to you."
+            "text": "Then you can practice again when you’re able. You can choose a weekly aspiration that fits your life, and change it as your circumstances change. Even a short meditation counts. If you enjoy keeping a daily streak, you can choose that in Settings."
           }
         },
         {
@@ -139,7 +163,7 @@
           "name": "Who is Kuma?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "<p>Kuma is a quiet companion for your practice. His round, legless body recalls a Daruma doll, the Japanese figure inspired by Bodhidharma and associated with perseverance. His circular form also echoes the ensō of Zen brush painting—a simple expression of practice, presence, and space. (<a href=\"https://www.japan.travel/en/blog/try-your-luck-with-takasaki-daruma/\">Daruma</a>, <a href=\"https://searchcollection.asianart.org/objects/19254/enso\">Ensō</a>)</p>\n    <p>His white color is a nod to the <em>upāsaka</em>, a lay Buddhist practitioner. The Pāli Canon describes white-clad lay followers practicing amid everyday life. Kuma carries that spirit: a little company as you sit, return, and begin again. (<a href=\"https://suttacentral.net/dn29/en/sujato\">DN 29</a>)</p>"
+            "text": "Kuma is the bear keeping you company as you practice. His round, legless shape is inspired by Japanese Daruma dolls, traditionally associated with perseverance. The inspiration behind Kuma Daruma dolls are inspired by Bodhidharma, a Buddhist teacher. The circle on Kuma’s belly echoes the ensō, a circle painted with a brush in Zen art. His white color is a nod to the upāsaka, a lay Buddhist practitioner. The Pāli Canon describes white-clad lay followers practicing amid everyday life. Explore the inspirations: Daruma dolls, the ensō in Zen art, and lay followers in the Pāli Canon."
           }
         }
       ]
