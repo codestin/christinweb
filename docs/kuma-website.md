@@ -110,3 +110,11 @@ The final illustrated email was verified through the live signup endpoint: Resen
 The installation email From address was corrected to `Christin at Kuma <christin@kumatimer.com>`; Reply-To uses that same address. The thank-you page’s inbox guidance matches.
 
 Sender correction live-tested: receipt `01a1a048-1d8c-7417-b1d9-c03ad24e1818` is Delivered with From `Christin at Kuma <christin@kumatimer.com>` and Reply-To `christin@kumatimer.com`. Jekyll production build passes. App and widget source is unchanged from the successful 171-test validation above.
+
+## Practice language revision — November 2, 2026
+
+Revised Kuma’s landing page around Christin’s writing about enjoying practice, remembering intention, and making room for changing capacity. Main calls to action are “Try Kuma” and “Email me the link.” Feature descriptions explain aspirations, widgets, Watch taps, and Duo layouts in everyday language. FAQs use practical questions and separate Watch setup from Apple Health setup. Search descriptions, image descriptions, and FAQ schema match the visible copy.
+
+Support now reflects the available TestFlight version. Support, privacy, confirmation, navigation, and signup errors use christin@kumatimer.com. The privacy policy retains its provider, collection, backup, sharing, retention, and deletion disclosures in shorter paragraphs. Artwork and signup behavior are unchanged.
+
+Validation: production Jekyll build passed (existing Sass deprecation warnings); all 13 signup endpoint tests passed. Desktop and 390px phone previews checked, with no horizontal overflow or broken loaded images. Local links/assets and all ten FAQ schema entries checked. Regenerated the app project using XcodeGen; Kuma and embedded widget targets built, and 171 unit tests finished with one skip and zero failures (/tmp/KumaFriendlyCopy.xcresult).

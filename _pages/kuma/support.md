@@ -1,41 +1,45 @@
 ---
 layout: kuma
 kuma_document: true
-title: Kuma Support
+title: Help with Kuma
 permalink: /kuma/support/
 eyebrow: Kuma / Support
 ---
 
-For help, feedback, or a privacy request, email [hi@christinchong.com](mailto:hi@christinchong.com). You can also use **Send Christin feedback** in Kuma’s Settings.
+Need a hand, have a suggestion, or want to ask about your information? Email [christin@kumatimer.com](mailto:christin@kumatimer.com). You can also choose **Send Christin feedback** in Kuma’s Settings.
+
+## How do I try Kuma?
+
+You can try Kuma now through TestFlight, Apple’s free app for trying apps before they’re released. Visit the [Kuma page](/kuma/#beta) and enter your email. We’ll send you a link, with a few steps to get started on your iPhone. Kuma needs iOS 18 or later.
 
 ## Do I need an account?
 
-No. The timer, history, guide, aspirations, widgets, CSV export, and feedback work without an account. Optional Sign in with Apple enables account features such as private cloud backup. Newsletter subscriptions are separate from Kuma.
+No. You can use the timer, practice history, written guide, aspirations, and widgets without signing in. You can also save a copy of your history and send feedback. If you’d like to back up your practice online, you can choose **Sign in with Apple** and turn on cloud backup. Signing in doesn’t subscribe you to a newsletter.
 
-## Why can’t I install the beta yet?
+## How do I save a copy of my meditation history?
 
-Public TestFlight distribution is still being prepared. Apple must approve an external build before the invitation can provide an installable version. Check the [Kuma project page](/kuma/) for availability.
-
-## How do I export my practice?
-
-In Settings, find **Your practice, your data**, then choose **Export meditation history as CSV**. Save the file somewhere you control. Heart-rate and step reports are not included.
+In Settings, find **Your practice, your data**, then choose **Export meditation history as CSV**. This saves a file you can open in a spreadsheet. Choose where to keep it. Heart-rate and step reports aren’t included.
 
 ## Why didn’t a bell or reminder sound?
 
-Check your device’s sound volume, silent mode, Focus, and Kuma’s bell and notification settings. If it happens again, send the timer mode, selected bells, iOS version, and whether the screen was locked. Notification and Live Activity delivery can depend on iOS settings and scheduling.
+Check your volume, silent mode, Focus, and Kuma’s bell and notification settings. Your iPhone’s settings can affect reminders and timer updates on the Lock Screen.
 
-## How do I manage Health access?
+If it happens again, let me know which timer and bells you were using, your iOS version, and whether the screen was locked.
 
-Health access is optional. Manage Kuma’s permissions in Apple Health or iOS Settings. Turning off Mindful Minutes export stops future exports but leaves existing Health records in place. Manage those records in Apple Health.
+## How do I choose what Kuma can access in Apple Health?
 
-## How do I delete my account or feedback?
+Apple Health is optional. You can change Kuma’s access in Apple Health or your iPhone’s Settings. Turning off **Save to Mindful Minutes** stops Kuma from saving future meditations to Health. Meditations already saved there remain until you remove them in Apple Health.
 
-Use **Delete account** in Kuma’s account settings. Apple accounts require confirmation with Apple. Cloud account deletion leaves local meditation history and existing Health records in place. Signing out does not delete your account.
+## How do I delete my account?
 
-Feedback is stored separately. Email hi@christinchong.com to request deletion of feedback and its reply address. See the [privacy policy](/kuma/privacy/) for retention and backup details.
+Choose **Delete account** in Kuma’s account settings. You’ll be asked to confirm with Apple. This deletes your online account and its records, but leaves your meditation history on your device and any records already saved in Apple Health. Signing out doesn’t delete your account.
 
-## Reporting a bug
+## How do I delete feedback I’ve sent?
 
-Please include your device, iOS version, Kuma version, the steps that led to the problem, and what you expected. Screenshots are useful if they do not reveal information you want to keep private. TestFlight also lets you send beta feedback.
+Feedback is stored separately from your account. Email [christin@kumatimer.com](mailto:christin@kumatimer.com) to ask me to delete your feedback and the email address you provided for replies. The [privacy policy](/kuma/privacy/) explains what happens to stored copies and backups.
+
+## Something isn’t working. What should I send you?
+
+Tell me which device you’re using, your iOS and Kuma versions, what you did, and what you expected to happen. A screenshot can help, as long as it doesn’t show anything you’d rather keep private. You can send feedback from Kuma’s Settings or through TestFlight.
 
 [Back to Kuma](/kuma/) · [Privacy policy](/kuma/privacy/)

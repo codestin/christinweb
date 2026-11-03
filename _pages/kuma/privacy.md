@@ -6,54 +6,85 @@ permalink: /kuma/privacy/
 eyebrow: Kuma / Privacy
 ---
 
-Effective November 1, 2026
+Effective November 2, 2026
 
-Kuma is provided by Chong Consulting LLC. Contact Christin Chong at hi@christinchong.com about privacy, support, or deletion requests.
+Kuma is provided by Chong Consulting LLC. For privacy questions, help, or requests to delete your information, contact Christin Chong at [christin@kumatimer.com](mailto:christin@kumatimer.com).
 
-## Practice without an account
+## Using Kuma without an account
 
-You can use Kuma’s timer, meditation guide, history, aspirations, and widgets without signing in. Session history and preferences are stored on your device. The iPhone app, its widgets, and the paired Apple Watch app share the information needed to display and record your practice. Exporting a CSV creates a file you control; Kuma does not automatically send that file to us.
+You can use the timer, meditation guide, history, aspirations, and widgets without signing in. Your meditation history and settings stay on your device. The iPhone app, its widgets, and your paired Apple Watch share the information needed to show and record your practice.
 
-## Optional account and cloud practice
+If you save your history as a CSV file, you choose where it goes. A CSV is a file you can open in a spreadsheet. Kuma doesn’t automatically send that file to us.
 
-If you choose Sign in with Apple, our authentication provider, Supabase, processes your account identifier and the email address Apple supplies, which may be an Apple private relay address. Kuma stores your chosen display name and account preferences.
+## Optional accounts and backup
 
-Cloud backup is optional. When enabled, it includes earlier meditation sessions: identifiers, dates, start/end times, duration, posture, recorded meditation segments, and time zone. These meditation records are associated with your account. Heart-rate samples, step reports, and Apple Health export status are not included in cloud backup.
+If you choose **Sign in with Apple**, Supabase, the service that handles Kuma accounts, receives your account identifier and the email address Apple supplies. This may be a private forwarding address from Apple. Kuma also stores the display name and account settings you choose.
 
-Friend sharing is a separate choice. Accepted friends can see your chosen display name, recent practice summaries, and acknowledgments; practice duration is shared only if you enable it. Earlier private backups are excluded from friend sharing. Removing a friend stops shared summaries for that relationship. New friend invitation creation is disabled in the current public-beta candidate.
+Cloud backup is optional. If you turn it on, it includes your earlier meditations as well as new ones. The backup contains session identifiers, dates, start and end times, duration, posture, recorded parts of each meditation, and time zone. These records are linked to your account. Heart-rate readings, step reports, and whether a meditation has been saved to Apple Health aren’t included.
 
-If you enable bow notifications, Kuma registers a device notification token with its backend and uses Apple Push Notification service to deliver them. Operating-system notification settings also apply.
+## Sharing with friends
 
-## Apple Health and Watch
+Sharing with friends is a separate choice. Friends you’ve accepted can see your chosen display name, recent practice summaries, and acknowledgments. They can see how long you meditated only if you choose to share that. Earlier private backups aren’t shared with friends. Removing a friend stops sharing summaries with that person. You can’t create new friend invitations in the current early version of Kuma.
 
-Health access is optional and controlled by Apple’s permission screens. Kuma can save completed meditations as Mindful Minutes and read steps and heart rate to show meditation reports. These sensor reports remain on your devices and are not sent to our cloud service or included in CSV exports. Apple manages Health storage and synchronization according to your Apple settings. Disabling Health export or deleting a Kuma account does not erase existing Health records; manage those in Apple Health.
+If you turn on bow notifications, Kuma stores a device notification token: an address Apple uses to deliver notifications to your device. Kuma uses Apple’s notification service to send them. Your device’s notification settings also apply.
 
-## Feedback and support
+## Apple Health and Apple Watch
 
-Sending feedback is optional. When you tap Send, Kuma sends your message, required reply email, app version, the screen from which you opened feedback, a submission identifier, and a random installation identifier to Supabase. The installation identifier helps prevent repeated or abusive submissions; it is not used for advertising. Feedback is copied to a private GitHub archive and emailed to the developer through Resend. Your meditation history and Health reports are not attached automatically. Please avoid including sensitive information in your message that you do not want the developer to receive.
+Access to Apple Health is optional. Apple asks you to choose what Kuma can read and save. Kuma can save completed meditations as Mindful Minutes and read step counts and heart rate to show reports for your meditations.
 
-## Service providers and external links
+These reports stay on your devices. They aren’t sent to our online backup service or included in downloaded CSV files. Apple manages the storage and sharing of Health information across your devices according to your Apple settings.
 
-We use Supabase for accounts, cloud practice, and feedback; GitHub for the private feedback archive; Resend for feedback email and beta installation instructions and updates; and Apple for sign-in, Health, notifications, and TestFlight distribution. Service providers may process operational information, such as IP addresses and request logs, to deliver and protect their services. Data may be processed outside your country.
+Turning off saving to Apple Health, or deleting your Kuma account, doesn’t remove records already saved in Health. You can manage those records in Apple Health.
 
-Kuma has no advertising or cross-app tracking SDK. We do not sell your personal information or use Health information for advertising. Opening an external Substack support link takes you to a separate service governed by its own privacy policy. Newsletter subscriptions are separate from Kuma.
+## Sending feedback and asking for help
 
-During the beta, Apple TestFlight may collect crash reports, usage information, and feedback and share them with us under Apple’s TestFlight terms and privacy disclosures.
+Sending feedback is optional. When you tap Send, Kuma sends Supabase your message, the required email address for replies, your app version, the screen you sent feedback from, a submission identifier, and a random identifier for your installation of Kuma. That random identifier helps prevent repeated or abusive submissions. It isn’t used for advertising.
 
-## Retention and deletion
+Feedback is copied to a private GitHub archive and emailed to the developer through Resend. Your meditation history and Health reports aren’t automatically attached. Please leave out sensitive information you don’t want the developer to receive.
 
-Local practice stays on your device until you remove it. In-app account deletion removes your active cloud account, cloud practice records, friendships, invitations, and registered notification tokens; it leaves local practice and existing Apple Health records in place. Signing out is not account deletion.
+## Services Kuma uses
 
-Feedback is stored separately from your optional Kuma account and is not deleted by deleting that account. The current feedback system does not automatically expire submitted feedback. Contact hi@christinchong.com to request deletion of feedback and associated reply information from the active database, private archive, and developer mailbox. Provider backups, security logs, and records required by law may remain under the applicable retention requirements; deletion is not a promise of immediate removal from every backup.
+Kuma uses:
+
+- **Supabase** for accounts, online practice records, and feedback.
+- **GitHub** for a private archive of feedback.
+- **Resend** for feedback emails, links to try Kuma, and updates during testing.
+- **Apple** for sign-in, Health, notifications, and TestFlight.
+
+These providers may process information such as IP addresses and request logs to run and protect their services. Information may be processed outside your country.
+
+Kuma doesn’t include software for advertising or tracking you across apps. We don’t sell your personal information or use Health information for advertising. If you open a Substack support link, you’re visiting a separate service with its own privacy policy. Newsletter subscriptions are separate from Kuma.
+
+While you’re using an early version through TestFlight, Apple may collect crash reports, usage information, and feedback and share them with us under its TestFlight terms and privacy disclosures.
+
+## How long we keep information
+
+Your local practice records stay on your device until you remove them.
+
+Deleting your account in Kuma removes your active online account, backed-up practice records, friendships, invitations, and registered notification tokens. It leaves your local practice history and existing Apple Health records in place. Signing out doesn’t delete your account.
+
+Feedback is stored separately and isn’t deleted when you delete your account. The current feedback system doesn’t automatically delete old submissions. To ask us to delete feedback and the email address you supplied, contact [christin@kumatimer.com](mailto:christin@kumatimer.com). This request covers the active database, private archive, and developer mailbox.
+
+Copies may remain in provider backups, security logs, or records we’re required by law to keep. Deletion doesn’t mean every backup copy disappears immediately.
 
 ## Your choices
 
-You can practice without an account, decline Health permissions, leave cloud backup and sharing off, disable notifications, export your history, delete your account, or contact us about access, correction, and deletion. Privacy rights depend on your location. We will update this policy when Kuma’s data practices change and show the effective date above.
+You can use Kuma without an account, decline Health access, leave backup and sharing off, turn off notifications, save a copy of your history, or delete your account. You can also contact us to ask to see, correct, or delete your information. Your privacy rights depend on where you live.
 
-[Back to Kuma](/kuma/) · [Support](/kuma/support/)
+We’ll update this policy when Kuma’s data practices change and show the effective date above.
 
 <span id="beta-waitlist"></span>
 
-## Beta installation emails
+## Emails about trying Kuma
 
-If you request beta installation instructions on this website, Chong Consulting LLC collects your email address and your consent to receive Kuma installation instructions and beta updates. This signup is separate from the app and does not subscribe you to Christin’s newsletter. Netlify processes the signup request, and Resend stores your email address and subscription status and delivers beta updates. These providers may process request information to operate and protect the service. We use the list to send beta availability and installation updates, not advertising for other products. We retain it while the beta invitation program is active, then delete it when no longer needed for that purpose. You can unsubscribe using the link in any beta update email. To request deletion, email [hi@christinchong.com](mailto:hi@christinchong.com) with “Kuma beta list” in the subject. Earlier submissions collected through Netlify Forms may remain there until migrated or deleted. See [Resend’s privacy policy](https://resend.com/legal/privacy-policy) and [Netlify’s privacy policy](https://www.netlify.com/privacy/) for their handling of service data.
+When you ask for a link to try Kuma, Chong Consulting LLC collects your email address and your consent to receive the link and updates while the app is being tested. This is separate from using the app and doesn’t subscribe you to Christin’s newsletter.
+
+Netlify handles the signup form. Resend stores your email address and subscription status and sends the emails. These providers may also process request information to run and protect the service.
+
+We use this list for emails about trying Kuma and updates during testing, not to advertise other products. We keep it while the testing invitation program is active, then delete it when it’s no longer needed for that purpose.
+
+You can unsubscribe using the link in any Kuma update email. To ask us to delete your information from the list, email [christin@kumatimer.com](mailto:christin@kumatimer.com) with “Kuma beta list” in the subject. Earlier signups collected through Netlify Forms may remain there until moved or deleted.
+
+See [Resend’s privacy policy](https://resend.com/legal/privacy-policy) and [Netlify’s privacy policy](https://www.netlify.com/privacy/) for how those services handle information.
+
+[Back to Kuma](/kuma/) · [Support](/kuma/support/)
