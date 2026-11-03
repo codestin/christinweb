@@ -92,3 +92,9 @@ The renderer is docs/artwork/render-kuma-social.swift and uses existing bundled 
 ### Card typography revision
 
 Version 8 removes “Free to practice. Yours to return to.” and enlarges the product label from 22 to 32 pixels, in two lines: “Meditation timer for / iPhone and iPhone Duo.” The selected headline and updated hero remain. Both social image tags and schema reference the versioned static JPEG. Visually reviewed at full card size.
+
+## Installation email launch — November 2, 2026
+
+All 13 signup endpoint tests pass, including repeat suppression, migration from an old waitlist confirmation, opt-out preservation, and provider failures. Production Jekyll build passes. XcodeGen regenerated the authoritative app project; Kuma and its embedded WidgetKit extensions built, and 171 Kuma unit tests passed (`/tmp/KumaInstallEmailValidated.xcresult`). The Make wrapper's strict warning flags conflict with dependency suppression flags; the successful direct Xcode validation used warning-as-error overrides without changing project settings. Public website and TestFlight invitation checked.
+
+Live form POST returned 303 to `/kuma/thanks/`. Resend confirmed **Delivered** for the owner-only test recipient, sender `Kuma <kuma@kumatimer.com>`, subject “Kuma is ready — here’s how to install it”, and the expected installation template (receipt `01a1a029-8ff8-76de-8d53-37e92b453ec9`). No subscriber broadcast was sent by this setup.
