@@ -20,7 +20,7 @@ test('new consenting contact is added only to Kuma and redirects after success',
   assert.deepEqual(JSON.parse(calls[1].body), {email: 'kuma-qa-test@example.com', segments: [{id: 'beta-segment'}]});
 });
 test('existing contact joins segment without resetting preferences', async () => {
-  const calls = mock([[200, { unsubscribed: false, properties: {kuma_welcome_status: 'queued'} }], [200, {}]]);
+  const calls = mock([[200, { unsubscribed: false, properties: {kuma_welcome_status: 'install-queued-v1'} }], [200, {}]]);
   assert.equal((await handler(request())).status, 303);
   assert.match(calls[1].url, /\/segments\/beta-segment$/); assert.equal(calls[1].method, 'POST'); assert.equal(calls.length, 2);
 });
@@ -62,7 +62,7 @@ test('welcome event targets only the signup email, then records it as queued', a
   assert.equal(calls[2].url, 'https://api.resend.com/events/send');
   assert.deepEqual(JSON.parse(calls[2].body), {event:'kuma.beta_signed_up', email:'kuma-qa-test@example.com'});
   assert.equal(calls[3].method, 'PATCH');
-  assert.deepEqual(JSON.parse(calls[3].body), {properties:{kuma_welcome_status:'queued'}});
+  assert.deepEqual(JSON.parse(calls[3].body), {properties:{kuma_welcome_status:'install-queued-v1'}});
 });
 test('failed welcome event remains retryable and does not mark it queued', async () => {
   const calls = mock([[200, {unsubscribed:false}], [200, {}], [500, {}]]);
@@ -70,8 +70,15 @@ test('failed welcome event remains retryable and does not mark it queued', async
   assert.equal(calls.length, 3);
 });
 test('rate limited API call retries before advancing to the next operation', async () => {
-  const calls = mock([[429, {}], [200, {unsubscribed:false, properties:{kuma_welcome_status:'queued'}}], [200, {}]]);
+  const calls = mock([[429, {}], [200, {unsubscribed:false, properties:{kuma_welcome_status:'install-queued-v1'}}], [200, {}]]);
   assert.equal((await handler(request())).status, 303);
   assert.equal(calls[0].url, calls[1].url);
   assert.equal(calls.length, 3);
+});
+
+test('a former waitlist signup can request installation instructions', async () => {
+  const calls = mock([[200, {unsubscribed:false, properties:{kuma_welcome_status:'queued'}}], [200, {}], [200, {}], [200, {}]]);
+  assert.equal((await handler(request())).status, 303);
+  assert.equal(calls[2].url, 'https://api.resend.com/events/send');
+  assert.deepEqual(JSON.parse(calls[3].body), {properties:{kuma_welcome_status:'install-queued-v1'}});
 });

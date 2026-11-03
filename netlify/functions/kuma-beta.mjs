@@ -1,7 +1,7 @@
 const headers = { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store' };
 const success = () => new Response(null, { status: 303, headers: { Location: '/kuma/thanks/', 'Cache-Control': 'no-store' } });
 function error(status, message, diagnostic) {
-  return new Response(`<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Kuma beta signup</title><main><h1>We couldn’t save your place</h1><p>${message}</p><p><a href="/kuma/#beta">Return to the signup form</a></p></main></html>`, { status, headers: { ...headers, ...(diagnostic ? { "X-Kuma-Signup-Status": diagnostic } : {}) } });
+  return new Response(`<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Kuma beta signup</title><main><h1>We couldn’t send your instructions</h1><p>${message}</p><p><a href="/kuma/#beta">Return to the signup form</a></p></main></html>`, { status, headers: { ...headers, ...(diagnostic ? { "X-Kuma-Signup-Status": diagnostic } : {}) } });
 }
 
 export default async function handler(request) {
@@ -15,7 +15,7 @@ export default async function handler(request) {
   if (form.get('bot-field')) return success();
   const email = (form.get('email') || '').trim().toLowerCase();
   if (email.length > 254 || !/^[^\s@<>]+@[^\s@<>]+\.[^\s@<>]+$/.test(email) || form.get('beta-consent') !== 'yes') {
-    return error(400, 'Enter a valid email address and check the box to agree to Kuma beta updates.');
+    return error(400, 'Enter a valid email address and check the box to receive Kuma installation instructions and beta updates.');
   }
   const key = process.env.RESEND_API_KEY;
   const segment = process.env.RESEND_KUMA_SEGMENT_ID;
@@ -42,7 +42,7 @@ export default async function handler(request) {
     let welcomeQueued = false;
     if (existing.ok) {
       const contact = await existing.json();
-      welcomeQueued = contact.properties?.kuma_welcome_status === 'queued';
+      welcomeQueued = contact.properties?.kuma_welcome_status === 'install-queued-v1';
       // A public form must never undo an existing account-wide unsubscribe.
       if (contact.unsubscribed) return error(409, 'This address has opted out of our emails. To rejoin, use the preferences link in a previous email or contact hi@christinchong.com.');
       const added = await api(`${contactPath}/segments/${encodeURIComponent(segment)}`, 'POST');
@@ -57,7 +57,7 @@ export default async function handler(request) {
     if (!welcomeQueued) {
       const queued = await api('/events/send', 'POST', { event: 'kuma.beta_signed_up', email });
       if (!queued.ok) throw new Error(`welcome-${queued.status}`);
-      const marked = await api(contactPath, 'PATCH', { properties: { kuma_welcome_status: 'queued' } });
+      const marked = await api(contactPath, 'PATCH', { properties: { kuma_welcome_status: 'install-queued-v1' } });
       if (!marked.ok) throw new Error(`welcome-status-${marked.status}`);
     }
     return success();

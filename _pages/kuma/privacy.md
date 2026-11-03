@@ -34,7 +34,7 @@ Sending feedback is optional. When you tap Send, Kuma sends your message, requir
 
 ## Service providers and external links
 
-We use Supabase for accounts, cloud practice, and feedback; GitHub for the private feedback archive; Resend for feedback email and beta waitlist updates; and Apple for sign-in, Health, notifications, and TestFlight distribution. Service providers may process operational information, such as IP addresses and request logs, to deliver and protect their services. Data may be processed outside your country.
+We use Supabase for accounts, cloud practice, and feedback; GitHub for the private feedback archive; Resend for feedback email and beta installation instructions and updates; and Apple for sign-in, Health, notifications, and TestFlight distribution. Service providers may process operational information, such as IP addresses and request logs, to deliver and protect their services. Data may be processed outside your country.
 
 Kuma has no advertising or cross-app tracking SDK. We do not sell your personal information or use Health information for advertising. Opening an external Substack support link takes you to a separate service governed by its own privacy policy. Newsletter subscriptions are separate from Kuma.
 
@@ -52,6 +52,8 @@ You can practice without an account, decline Health permissions, leave cloud bac
 
 [Back to Kuma](/kuma/) · [Support](/kuma/support/)
 
-## Beta waitlist
+<span id="beta-waitlist"></span>
 
-If you join the beta waitlist on this website, Chong Consulting LLC collects your email address and your consent to receive Kuma beta availability updates. This signup is separate from the app and does not subscribe you to Christin’s newsletter. Netlify processes the signup request, and Resend stores your email address and subscription status and delivers beta updates. These providers may process request information to operate and protect the service. We use the list to send beta availability and installation updates, not advertising for other products. We retain it while the beta invitation program is active, then delete it when no longer needed for that purpose. You can unsubscribe using the link in any beta update email. To request deletion, email [hi@christinchong.com](mailto:hi@christinchong.com) with “Kuma beta list” in the subject. Earlier submissions collected through Netlify Forms may remain there until migrated or deleted. See [Resend’s privacy policy](https://resend.com/legal/privacy-policy) and [Netlify’s privacy policy](https://www.netlify.com/privacy/) for their handling of service data.
+## Beta installation emails
+
+If you request beta installation instructions on this website, Chong Consulting LLC collects your email address and your consent to receive Kuma installation instructions and beta updates. This signup is separate from the app and does not subscribe you to Christin’s newsletter. Netlify processes the signup request, and Resend stores your email address and subscription status and delivers beta updates. These providers may process request information to operate and protect the service. We use the list to send beta availability and installation updates, not advertising for other products. We retain it while the beta invitation program is active, then delete it when no longer needed for that purpose. You can unsubscribe using the link in any beta update email. To request deletion, email [hi@christinchong.com](mailto:hi@christinchong.com) with “Kuma beta list” in the subject. Earlier submissions collected through Netlify Forms may remain there until migrated or deleted. See [Resend’s privacy policy](https://resend.com/legal/privacy-policy) and [Netlify’s privacy policy](https://www.netlify.com/privacy/) for their handling of service data.

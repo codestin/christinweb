@@ -6,7 +6,7 @@
       "@id": "https://christinchong.com/kuma/#webpage",
       "url": "https://christinchong.com/kuma/",
       "name": "Native Meditation App for iPhone & iPhone Duo · Kuma",
-      "description": "Kuma is a native meditation app for iPhone and iPhone Duo, with a fold-aware timer, widgets, Apple Watch support, and an offline guide. Join the beta waitlist.",
+      "description": "Kuma is a native meditation app for iPhone and iPhone Duo, with a fold-aware timer, widgets, Apple Watch support, and an offline guide. Get installation instructions for the TestFlight beta.",
       "inLanguage": "en",
       "mainEntity": {
         "@id": "https://christinchong.com/kuma/#app"
@@ -25,7 +25,7 @@
       "url": "https://christinchong.com/kuma/",
       "applicationCategory": "LifestyleApplication",
       "operatingSystem": "iOS 18 or later",
-      "description": "Kuma is a native SwiftUI meditation app for iPhone and iPhone Duo, with fold-aware meditation and reflection layouts on iOS 27.1 or later. Public beta in preparation; email waitlist open. Solo practice needs no account.",
+      "description": "Kuma is a native SwiftUI meditation app for iPhone and iPhone Duo, with fold-aware meditation and reflection layouts on iOS 27.1 or later. Public beta available on TestFlight; installation instructions by email. Solo practice needs no account.",
       "image": "https://christinchong.com/assets/kuma/social-preview-v8.jpg",
       "screenshot": [
         "https://christinchong.com/assets/kuma/meditate.webp",
@@ -91,7 +91,7 @@
           "name": "Is Kuma a native meditation app for iPhone Duo?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Kuma is built with SwiftUI and includes fold-aware meditation and reflection layouts for iPhone Duo on iOS 27.1 or later. The timer and practice controls adapt to the inner display while compact iPhones keep a single-column layout. Duo layouts have been checked in the simulator; physical-device validation is pending. The public beta is in preparation."
+            "text": "Yes. Kuma is built with SwiftUI and includes fold-aware meditation and reflection layouts for iPhone Duo on iOS 27.1 or later. The timer and practice controls adapt to the inner display while compact iPhones keep a single-column layout. Duo layouts have been checked in the simulator; physical-device validation is pending. The public beta is available on TestFlight."
           }
         },
         {
@@ -123,7 +123,7 @@
           "name": "When can I try the beta?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The public TestFlight beta is being prepared. Join the email list above and we’ll send the installation details when external testing is available. Signing up does not install the app or guarantee a release date."
+            "text": "You can try Kuma now through Apple’s TestFlight app. Enter your email above and we’ll send you the link and installation instructions. You install TestFlight and Kuma yourself using the links in the email."
           }
         },
         {
