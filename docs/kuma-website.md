@@ -134,3 +134,7 @@ Replaced the six older cropped portraits with all 55 latest transparent Communit
 The heading now says “Real people. A little company.” Copy and FAQ explicitly describe other real meditators, with animals chosen to represent each person, practicing in their own time. The website gallery displays avatar choices, not fabricated member profiles. Placement after Home Screen widgets is preserved.
 
 Validation: Jekyll production build and JavaScript syntax checks passed. All 55 exports were checked for alpha, dimensions, and references. Desktop and 390px browser checks confirmed automatic movement, pause/resume, keyboard browsing, hidden duplicate accessibility content, absence of animal name labels, and no page overflow. XcodeGen regeneration, Kuma/embedded WidgetKit build and native suite passed: 181 tests reported, one skipped, no failures (build/Community/Logs/Test/Test-Kuma-2026.11.03_00-52-45--0800.xcresult in the native repository).
+
+## Kuma favicon — November 3, 2026
+
+The Kuma layout now uses the selected face-and-ears design A through `_includes/kuma-favicons.html`. Assets are scoped to `/assets/kuma/favicon-a*`; the landing page, privacy policy, support and beta thank-you page inherit the same browser and touch icons. Personal-site layouts and root favicon assets are unchanged. `kumatimer.com` redirects to `https://christinchong.com/kuma/` and receives the icon from that destination. The original selection and exact generation prompt are retained in the MEDITATIONTIMER repository under `docs/artwork/favicon-review/`.
