@@ -54,23 +54,75 @@ permalink: /kuma/
   <div class="wrap">
     <div class="section-heading">
       <p class="eyebrow">A little encouragement</p>
-      <h2 id="community-title">Your own practice.<br>A little company.</h2>
-      <p>Some days, knowing someone else is making time to meditate can help you find your way back. Kuma’s community is a place to find that quiet encouragement, and offer a little of your own.</p>
+      <h2 id="community-title">Real people.<br>A little company.</h2>
+      <p>Behind each community profile is a real person making time to meditate. See others who have practiced in Kuma, and let their presence encourage you to return. Your own practice can offer them the same quiet encouragement.</p>
     </div>
-    <figure class="community-animals">
-      <ul class="animal-gallery" aria-label="A few of the community animals">
-        <li><img src="/assets/kuma/community/bear.webp" alt="" width="300" height="300" loading="lazy"><span>Bear</span></li>
-        <li><img src="/assets/kuma/community/koala.webp" alt="" width="300" height="300" loading="lazy"><span>Koala</span></li>
-        <li><img src="/assets/kuma/community/cat.webp" alt="" width="300" height="300" loading="lazy"><span>Cat</span></li>
-        <li><img src="/assets/kuma/community/dog.webp" alt="" width="300" height="300" loading="lazy"><span>Dog</span></li>
-        <li><img src="/assets/kuma/community/frog.webp" alt="" width="300" height="300" loading="lazy"><span>Frog</span></li>
-        <li><img src="/assets/kuma/community/capybara.webp" alt="" width="300" height="300" loading="lazy"><span>Capybara</span></li>
-      </ul>
-      <figcaption>55 little faces to choose from. Find an animal that feels like you.</figcaption>
+    <figure class="community-animals" data-animal-gallery>
+      <div class="animal-scroll" tabindex="0" role="region" aria-label="Community animals — scroll sideways to explore" aria-describedby="animal-gallery-caption">
+        <ul class="animal-gallery" aria-label="55 community animals">
+          <li><img src="/assets/kuma/community-sun/bear.webp" alt="Bear avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/koala.webp" alt="Koala avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/cat.webp" alt="Cat avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/dog.webp" alt="Dog avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/frog.webp" alt="Frog avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/capybara.webp" alt="Capybara avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/ant.webp" alt="Ant avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/anteater.webp" alt="Anteater avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/baboon.webp" alt="Baboon avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/badger.webp" alt="Badger avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/beaver.webp" alt="Beaver avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/beetle.webp" alt="Beetle avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/camel.webp" alt="Camel avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/chicken.webp" alt="Chicken avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/chipmunk.webp" alt="Chipmunk avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/cow.webp" alt="Cow avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/crocodile.webp" alt="Crocodile avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/deer.webp" alt="Deer avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/donkey.webp" alt="Donkey avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/dragon.webp" alt="Dragon avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/duck.webp" alt="Duck avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/elephant.webp" alt="Elephant avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/fox.webp" alt="Fox avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/giraffe.webp" alt="Giraffe avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/goat.webp" alt="Goat avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/goose.webp" alt="Goose avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/gorilla.webp" alt="Gorilla avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/hedgehog.webp" alt="Hedgehog avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/hippo.webp" alt="Hippo avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/horse.webp" alt="Horse avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/hyena.webp" alt="Hyena avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/leopard.webp" alt="Leopard avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/lion.webp" alt="Lion avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/monkey.webp" alt="Monkey avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/mouse.webp" alt="Mouse avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/owl.webp" alt="Owl avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/ox.webp" alt="Ox avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/penguin.webp" alt="Penguin avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/pig.webp" alt="Pig avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/platypus.webp" alt="Platypus avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/rabbit.webp" alt="Rabbit avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/raccoon.webp" alt="Raccoon avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/rat.webp" alt="Rat avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/rhino.webp" alt="Rhino avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/rooster.webp" alt="Rooster avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/seal.webp" alt="Seal avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/sheep.webp" alt="Sheep avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/snake.webp" alt="Snake avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/squirrel.webp" alt="Squirrel avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/tiger.webp" alt="Tiger avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/turtle.webp" alt="Turtle avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/walrus.webp" alt="Walrus avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/wolf.webp" alt="Wolf avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/worm.webp" alt="Worm avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+          <li><img src="/assets/kuma/community-sun/zebra.webp" alt="Zebra avatar with a little golden sun" width="384" height="384" loading="lazy"></li>
+        </ul>
+      </div>
+      <figcaption id="animal-gallery-caption">Choose one of 55 animal avatars to represent you in a community of real people.</figcaption>
+      <div class="animal-gallery-controls"><span>Scroll or swipe to explore the avatars.</span><button type="button" class="animal-gallery-toggle" hidden>Pause scrolling</button></div>
     </figure>
     <div class="community-benefits">
-      <article><h3>A reminder to return.</h3><p>See others who have meditated in Kuma. You each practice in your own time, with a shared intention to keep making room for it.</p></article>
-      <article><h3>A little personality.</h3><p>Choose a community name and a cute animal avatar, from Bear to Capybara. A familiar little face for your place in the community.</p></article>
+      <article><h3>A reminder to return.</h3><p>See fellow meditators who have chosen to join the community and have meditated in Kuma. You each practice in your own time, with the encouragement of knowing others are making room for it, too.</p></article>
+      <article><h3>A little personality.</h3><p>Choose a community name and an animal avatar to represent you. The little faces you see in the app belong to other people, each with their own practice.</p></article>
       <article><h3>Share only a little.</h3><p>Members see your chosen name, animal, and that you’ve meditated in Kuma. Your session times, durations, reflections, and Health data stay private.</p></article>
     </div>
     <div class="community-joining"><p>When you’re ready, open <strong>Community</strong> from Log or Settings in Kuma. Sign in with Apple, choose your name and animal, and join. After your first meditation, you can see other members and appear alongside them.</p><p class="fine">Joining is optional, and you can leave anytime. This is a community of people who have practiced, rather than a live group session.</p><a class="text-link" href="#beta">Try Kuma and find your little face <span aria-hidden="true">↗</span></a></div>
@@ -123,7 +175,7 @@ permalink: /kuma/
 <details><summary>How do I use Kuma on Apple Watch?</summary><ol><li>Install Kuma on the Apple Watch paired with your iPhone.</li><li>Open Kuma on your Watch and choose how you’ll meditate and for how long.</li><li>Tap Begin. You can pause or finish from your Watch, too.</li></ol><p>Your Watch needs watchOS 11 or later. Completed meditations appear in your iPhone history when the devices reconnect.</p></details>
 <details><summary>How do I use Kuma with Apple Health?</summary><ol><li>In Kuma, open Settings → Apple Health.</li><li>Choose Save to Mindful Minutes if you’d like to record your meditation time in Apple Health.</li><li>For optional heart-rate readings, turn on Heart rate reports and Measure on Apple Watch, then allow the access Apple asks for.</li></ol><p>With Watch measurement enabled, beginning a meditation on your iPhone can start recording on your nearby Watch. Readings may take time to appear and depend on what your devices record. Heart rate doesn’t tell you how well you meditated, and Kuma doesn’t assess it for medical purposes.</p></details>
 <details><summary>How do I add a Kuma widget?</summary><p>A widget is a small view of Kuma that lives on your Home Screen.</p><ol><li>Touch and hold your iPhone’s Home Screen.</li><li>Choose Edit → Add Widget and search for Kuma.</li><li>Pick a small or medium widget.</li></ol><p>To change its colors, open Kuma’s Settings → Widget appearance and choose Sunshine, Night Gold, or Match System. Your iPhone decides when widgets update, so changes may take a little time to appear.</p></details>
-<details><summary>How does Kuma’s community work?</summary><p>Open Community from Log or Settings, sign in with Apple, and choose a community name and one of 55 animal avatars. Joining is optional; signing in alone doesn’t make you visible. After you have joined and meditated, you can see other members who have meditated in Kuma at any time. This isn’t a live group session. Members see your chosen name, animal, and that you’ve meditated; your session times, durations, reflections, and Health data stay private. You can leave anytime.</p></details>
+<details><summary>How does Kuma’s community work?</summary><p>Kuma’s community is other real people who have meditated in Kuma. The animal images are avatars members choose to represent themselves. Open Community from Log or Settings, sign in with Apple, and choose a community name and one of 55 animal avatars. Joining is optional; signing in alone doesn’t make you visible. After you have joined and meditated, you can see other members who have meditated in Kuma at any time. This isn’t a live group session. Members see your chosen name, animal, and that you’ve meditated; your session times, durations, reflections, and Health data stay private. You can leave anytime.</p></details>
 <details><summary>What kind of meditation is Kuma for?</summary><p>Kuma gives you a timer for practicing on your own, whether you’re sitting, walking, standing, or lying down. There’s also a written guide with teachings and reflections to explore. The guide works without an internet connection.</p></details>
 <details><summary>What if I miss a day?</summary><p>Then you can practice again when you’re able. You can choose a weekly aspiration that fits your life, and change it as your circumstances change. Even a short meditation counts. If you enjoy keeping a daily streak, you can choose that in Settings.</p></details>
 <details id="who-is-kuma"><summary>Who is Kuma?</summary><p>Kuma is the bear keeping you company as you practice. His round, legless shape is inspired by Japanese Daruma dolls, traditionally associated with perseverance.</p><h3>The inspiration behind Kuma</h3><p>Daruma dolls are inspired by Bodhidharma, a Buddhist teacher. The circle on Kuma’s belly echoes the <em>ensō</em>, a circle painted with a brush in Zen art. His white color is a nod to the <em>upāsaka</em>, a lay Buddhist practitioner. The Pāli Canon describes white-clad lay followers practicing amid everyday life.</p><p>Explore the inspirations: <a href="https://www.japan.travel/en/blog/try-your-luck-with-takasaki-daruma/">Daruma dolls</a>, <a href="https://searchcollection.asianart.org/objects/19254/enso">the ensō in Zen art</a>, and <a href="https://suttacentral.net/dn29/en/sujato">lay followers in the Pāli Canon</a>.</p></details>

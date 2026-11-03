@@ -126,3 +126,11 @@ Added a community section after the practice introduction, with six approved ani
 Validation: production Jekyll build passed with existing Sass deprecation warnings; all 13 signup endpoint tests passed. Desktop and 390px layouts checked, all six images loaded and no horizontal overflow. Regenerated the authoritative native project with XcodeGen; Kuma and embedded WidgetKit extensions built. Native suite reported 180 tests, one skipped, no failures (MEDITATIONTIMER/build/Community/Logs/Test/Test-Kuma-2026.11.03_00-36-09--0800.xcresult).
 
 Community placement revision: moved the complete community section after the Home Screen widget showcase and before Apple Watch; desktop and mobile navigation follow the same order. Copy and artwork are unchanged.
+
+## Little-sun community gallery — November 3, 2026
+
+Replaced the six older cropped portraits with all 55 latest transparent CommunitySun animal assets exported to 384px WebP. Full silhouettes, ears, and suns remain visible, without circular backdrops or visible animal-name labels. The gallery scrolls sideways at 25px/second, loops using an accessibility-hidden duplicate set, supports native swipe/keyboard browsing and a pause/resume control, pauses on hover/focus/manual interaction, and stops while offscreen or the document is hidden. Reduced-motion visitors start paused and can explicitly resume. Without JavaScript, the gallery remains a native horizontal scroller.
+
+The heading now says “Real people. A little company.” Copy and FAQ explicitly describe other real meditators, with animals chosen to represent each person, practicing in their own time. The website gallery displays avatar choices, not fabricated member profiles. Placement after Home Screen widgets is preserved.
+
+Validation: Jekyll production build and JavaScript syntax checks passed. All 55 exports were checked for alpha, dimensions, and references. Desktop and 390px browser checks confirmed automatic movement, pause/resume, keyboard browsing, hidden duplicate accessibility content, absence of animal name labels, and no page overflow. XcodeGen regeneration, Kuma/embedded WidgetKit build and native suite passed: 181 tests reported, one skipped, no failures (build/Community/Logs/Test/Test-Kuma-2026.11.03_00-52-45--0800.xcresult in the native repository).
